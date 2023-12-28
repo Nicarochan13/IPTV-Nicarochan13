@@ -2561,4 +2561,6 @@ https://mtist.as.smartstream.ne.jp/30082/livestream/chunklist.m3u8
 https://musicbird-hls.leanstream.co/musicbird/JCB025.stream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", FM Ikaru
 https://musicbird-hls.leanstream.co/musicbird/JCB064.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", NHK FM
+https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 
