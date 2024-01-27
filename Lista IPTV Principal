@@ -9,6 +9,8 @@ https://live.limplay.ml/limtv.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (720p)
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="General",Galicia TV América (720p)
@@ -243,7 +245,7 @@ https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/a
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 #EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png" group-title="Nicaragua",Televicentro Canal 2 (480p)
 http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo=" group-title="Nicaragua",Canal 4
+#EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="Nicaragua",Canal 4 (480p) [Not 24/7]
 http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="Nicaragua",Canal 6 (480p) [Not 24/7]
 http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
@@ -259,10 +261,16 @@ http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 http://138.117.4.70:8075/Canal12_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal15.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Canal_15_educativo_cultural.svg/" group-title="Nicaragua",Canal 15
 http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatolicodeNicaragua.ni" tvg-logo="https://i.imgur.com/mgDBZU4.jpg" group-title="Religious",Canal Católico de Nicaragua (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCiM9RDZNNaR7FJYmxbKLXPQ.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/CDNN_23_Nicaragua.png" group-title="Nicaragua",CDNN 23
 http://138.117.4.70:8075/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" group-title="Nicaragua",CVisión TV (720p)
 https://stream.cvisiontv.com/cvision_stream.m3u8
+#EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.ibb.co/Lzv1LQs/LaRock22.jpg" group-title="Music",La Rock 22 (1080p)
+https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="TVONENicaragua.ni" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Nicaragua",TVONE Nicaragua (720p) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Nicaragua",WTV Canal 20 (720p)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="Nicaragua",Vos Tv (720p) [Not 24/7]
@@ -1847,6 +1855,10 @@ https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3
 https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 #EXTINF:-1 tvg-id="Canal8Mercedes.uy" tvg-logo="https://i.imgur.com/mg7ZB9K.png" group-title="Uruguay",Tele 8 Mercedes (410p)
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+#EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="Guatemala",A+ Guate
+https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="GuatemaLA",Azteca Guate (1080p)
+https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Guatemala",Aurora Media Films (720p)
 http://204.12.202.90:8080/playgt/playgt2023/104
 #EXTINF:-1 tvg-id="CanalAntigua.gt" tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="Guatemala",Canal Antigua (1080p) [Not 24/7]
