@@ -1,5 +1,25 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 #EXTM3U
+#EXTINF:-1 tvg-id="cbs6wrgb.us" tvg-name="US: CBS " tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/08/CBS-Emblema.png" group-title="USA ENT HD",US: CBS 
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/424635
+#EXTINF:-1 tvg-id="CBSKPIX.us" tvg-name="USA: CA  SAN FRANCISCO-OAKLAND-SAN JOSE  CBS - KPIX" tvg-logo="https://i.ibb.co/6D8rj4C/cbs.png" group-title="USA LOCALS CBS",USA: CA  SAN FRANCISCO-OAKLAND-SAN JOSE  CBS - KPIX
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/419616
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="USA: FL  MIAMI-FORT LAUDERDALE  CBS - WFOR" tvg-logo="https://i.ibb.co/6D8rj4C/cbs.png" group-title="USA LOCALS CBS",USA: FL  MIAMI-FORT LAUDERDALE  CBS - WFOR
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/419656
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="USA: MA  BOSTON  CBS - WBZ" tvg-logo="https://i.ibb.co/6D8rj4C/cbs.png" group-title="USA LOCALS CBS",USA: MA  BOSTON  CBS - WBZ
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/419775
+#EXTINF:-1 tvg-id="CBSKLAS.us" tvg-name="USA: NV  LAS VEGAS  CBS - KLAS" tvg-logo="https://i.ibb.co/6D8rj4C/cbs.png" group-title="USA LOCALS CBS",USA: NV  LAS VEGAS  CBS - KLAS
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/419869
+#EXTINF:-1 tvg-id="CBSWIVB.us" tvg-name="USA: NY  BUFFALO  CBS - WIVB" tvg-logo="https://i.ibb.co/6D8rj4C/cbs.png" group-title="USA LOCALS CBS",USA: NY  BUFFALO  CBS - WIVB
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/419884
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="USA: NY  NEW YORK  CBS - WCBS" tvg-logo="https://i.ibb.co/6D8rj4C/cbs.png" group-title="USA LOCALS CBS",USA: NY  NEW YORK  CBS - WCBS
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/419891
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US: NICKELODEON" tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS HD",US: NICKELODEON
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/418039
+#EXTINF:-1 tvg-id="univision.us" tvg-name="US: UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA SD",US: UNIVISION
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/509148
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT: Univision East HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="USA LOCALS US / LATIN",LAT: Univision East HD
+http://evolved.host:8080/rcyr7998@gmail.com/xBgR7FDDEc/410637
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",24h
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",A3CINE
