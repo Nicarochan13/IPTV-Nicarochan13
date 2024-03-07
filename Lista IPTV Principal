@@ -2989,6 +2989,10 @@ https://musicbird-hls.leanstream.co/musicbird/JCB025.stream/playlist.m3u8
 https://musicbird-hls.leanstream.co/musicbird/JCB064.stream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", NHK FM
 https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Shonan Beach FM
+https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", FM Kaon
+https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143410/RT-2-300x300.png" group-title="Radio_Nicaragua", Radio Tropicalida 89.9 FM
 https://cootv.cootel.com.ni:8095/Radio_Tropicalida/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143251/La-Marka-2-300x300.png" group-title="Radio_Nicaragua", Radio La Marka 90,9 FM
@@ -3042,10 +3046,14 @@ https://streamer.radio.co/sd5242d0b6/listen
 #EXTINF:-1 radio="true" tvg-logo="https://radio800ni.com/wp-content/themes/radio800/images/logo2.png" group-title="Radio_Nicaragua", Radio 800
 https://cp.panelchs.com:8176/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="http://www.larumbos.com/img/assets/logo.png" group-title="Radio_Nicaragua", Radio Rumbos Rivas
-https://cp.panelchs.com:8176/stream/1/
+https://stream9.mexiserver.com/8358/;
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Dinámica Jinotega
 https://cento02.mipanelradio.com/proxy/radiodi3?mp=/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/1pk1bxF4LKslZ7NnhkCigXjAwBZYDspJnKA-ke0Paq8blI16ocbTpY_aXOt35uiB_IA=w240-h480-rw" group-title="Radio_Nicaragua", Radio Yes Matagalpa
 https://server.multimediamb.com/9984/stream
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Centro Juigalpa
 https://polaris.hostingnica.net/8002/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Stereo Romance Jinotepe
+https://stereoromance.radioca.st/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", RadioActiva
+https://media.dominiocreativo.com:8132/stream/1/
