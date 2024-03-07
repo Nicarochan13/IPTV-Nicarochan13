@@ -3016,13 +3016,13 @@ https://cootv.cootel.com.ni:8095/Radio_Suprema/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143200/boton-nr-lite-1-300x300.png" group-title="Radio_Nicaragua", Radio Lite 107.1 FM
 https://cootv.cootel.com.ni:8095/Radio_Suprema/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/amgybJM7u7.png" group-title="Radio_Nicaragua", La Nueva Radio Ya
-https://cootv.cootel.com.ni:8095/Radio_Ya/playlist.m3u8
+https://stream-141.zeno.fm/axr92qawesmtv?zs=vXt8TXy4QWGyp0SVvwvj-w
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JVf3FrARwB.jpg" group-title="Radio_Nicaragua", Radio Corporación
-https://cootv.cootel.com.ni:8095/Radio_Corporacion/playlist.m3u8
+https://stream-145.zeno.fm/gwkd66k0a7duv?zs=WmeZb7goR9SwOKO3Y3_g_Q
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KArdnuqZLu.png" group-title="Radio_Nicaragua", Radio La Tuani
 https://cootv.cootel.com.ni:8095/Radio_LaTuani/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="Radio_Nicaragua", Radio María
-https://cootv.cootel.com.ni:8095/Radio_Maria/playlist.m3u8
+https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LY3WagNHvZ.jpg" group-title="Radio_Nicaragua", Radio Sandino
 https://cootv.cootel.com.ni:8095/Radio_LaSandino/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mbKvA7EKUb.jpg" group-title="Radio_Nicaragua", Radio ABC Stereo
@@ -3030,6 +3030,22 @@ https://cootv.cootel.com.ni:8095/Radio_ABCStereo/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/MwzSUen88v.jpg" group-title="Radio_Nicaragua", Radio Tigre
 https://cootv.cootel.com.ni:8095/Radio_Tigre/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a4pzesfam8dg.png" group-title="Radio_Nicaragua", Radio La Primerisima
-https://cootv.cootel.com.ni:8095/Radio_LaPrimerisima/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio 580
-https://cootv.cootel.com.ni:8095/Radio_580/playlist.m3u8
+https://polaris.hostingnica.net/9000/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://radio580nic.s3.amazonaws.com/2023/10/logo_580-300x300.png" group-title="Radio_Nicaragua", Radio 580
+https://streaming.radio580.com.ni/stream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static.wixstatic.com/media/e25f12_963179edecf24db893bdc19af8d2f7a5~mv2.jpg/v1/fill/w_211,h_178,al_c,lg_1,q_80,enc_auto/mundial.jpg" group-title="Radio_Nicaragua", Radio Mundial
+https://streaming1.locucionar.com/proxy/mundial920am?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/F6AKs8QIGx3MN3yJtXYbDUrV5CyD6VdFp8W8IPbBBgyNIkdhoCzDJSOyhK-DPqpAYA=w240-h480-rw" group-title="Radio_Nicaragua", Radio Amor
+https://media-latam.com:8230/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://www.medios.gt/galeriausuarios/nicaragua/imagenesmessageth/imagem040315160344273.jpg" group-title="Radio_Nicaragua", Radio Estrella del Mar
+https://streamer.radio.co/sd5242d0b6/listen
+#EXTINF:-1 radio="true" tvg-logo="https://radio800ni.com/wp-content/themes/radio800/images/logo2.png" group-title="Radio_Nicaragua", Radio 800
+https://cp.panelchs.com:8176/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="http://www.larumbos.com/img/assets/logo.png" group-title="Radio_Nicaragua", Radio Rumbos Rivas
+https://cp.panelchs.com:8176/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Dinámica Jinotega
+https://cento02.mipanelradio.com/proxy/radiodi3?mp=/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/1pk1bxF4LKslZ7NnhkCigXjAwBZYDspJnKA-ke0Paq8blI16ocbTpY_aXOt35uiB_IA=w240-h480-rw" group-title="Radio_Nicaragua", Radio Yes Matagalpa
+https://server.multimediamb.com/9984/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Centro Juigalpa
+https://polaris.hostingnica.net/8002/stream/1/
