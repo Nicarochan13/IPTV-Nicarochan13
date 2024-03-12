@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Cable",24h
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",A3CINE
 http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
@@ -10,15 +10,15 @@ http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",AMC Español
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Antena3 Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Cable",Antena3 Internacional
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Cable",AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",AZ Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Cable",AZ Cinema
 http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",AZ Clic
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Cable",AZ Clic
 http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",AZ Corazon
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Cable",AZ Corazon
 http://stream.flynetwifi.com:1935/live/mobile-118/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Azteca Internacional
 http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8
@@ -60,7 +60,7 @@ http://stream.flynetwifi.com:1935/live/mobile-144/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",CNBC
 http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",CNN en Español
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Cable",CNN en Español
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Comedy Central LA
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
@@ -72,9 +72,9 @@ http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-067/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ESNE
 http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",EWTN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Cable",EWTN
 http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",film & arts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Cable",film & arts
 http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",FOX DEPORTES
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
@@ -92,23 +92,23 @@ http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",H&H
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",HBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cable",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",HBO2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Cable",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",HISTORY 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",HOLA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="Cable",HOLA TV
 http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",IVC
 http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Kanal D Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Cable",Kanal D Drama
 http://stream.flynetwifi.com:1935/live/mobile-097/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",LIFETIME
 http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Más Chic
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pOyBwD1.png" group-title="Cable",Más Chic
 http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",MC
 http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
@@ -138,9 +138,9 @@ http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",SPACE
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Star Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cable",Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Star TVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Cable",Star TVE
 http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Studio Universal
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
@@ -166,7 +166,7 @@ http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",TV Azteca Guate HD
 http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",TVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Cable",TVE
 http://stream.flynetwifi.com:1935/live/mobile-128/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",TVO Canal 23
 http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8
@@ -245,7 +245,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="SICInternacional.pt" tvg-logo="https://i.imgur.com/UgJ5lac.png" group-title="General",SIC Internacional (720p)
 http://live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="General",Rai Italia America (360p)
@@ -443,7 +443,7 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-id="Canal9.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="Nicaragua",Canal 9 (480p)
 http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="Nicaragua",Canal 10 (576p)
-http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5Sw6Rzw.png" group-title="Nicaragua",TV RED Canal 11 (480p)
 http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/512px-Canal_12_Nicaragua_logo.webp.png" group-title="Nicaragua",Nicavisión Canal 12 (720p) [Not 24/7]
@@ -513,6 +513,8 @@ https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="Globotv.hn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Globo_TV_2010.png" group-title="Honduras",Globo TV
 https://panel.dattalive.com/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="HCH.hn" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH (720p) [Not 24/7]
+https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.hn" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Honduras",La Metro TV (720p)
 https://emisoras.hn:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="Honduras",LTV (720p) [Not 24/7]
@@ -1045,7 +1047,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias (1080p)
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Argentina",La Nación+ (720p)
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="LinkTV.ar" tvg-logo="https://i.ibb.co/ncYZY6T/logo-3.png" group-title="Argentina",Link TV (1080p)
 https://panel.dattalive.com/8128_1/8128_1/playlist.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Music",Más FM 95.9 (720p)
@@ -2993,6 +2995,28 @@ https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", FM Kaon
 https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RNA Andorra",RNA Andorra
+https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="AM Andorra",AM Andorra
+https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8
+#EXTINF:-1 radio="true" tvg-id="S_Andorra.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="SER Andorra",SER Andorra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadiobigFM/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="BiG FM Alemania",BiG FM Alemania
+http://streams.bigfm.de/bigfm-deutschland-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="QMusic Holanda",QMusic Holanda
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RDP Int. Portugal",RDP Int. Portugal
+https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioComercial/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Comercial Portugal",Radio Comercial Portugal
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfmoficial/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RFM Portugal",RFM Portugal
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gaydio/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Gaydio UK",Gaydio UK
+https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40argentina/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="LOS40 Argentina",LOS40 Argentina
+https://sigma.radioplayer.com.ar/stream/los40
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/FmRockandPop/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="FM Rock & Pop Argentina",FM Rock & Pop Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143410/RT-2-300x300.png" group-title="Radio_Nicaragua", Radio Tropicalida 89.9 FM
 https://cootv.cootel.com.ni:8095/Radio_Tropicalida/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143251/La-Marka-2-300x300.png" group-title="Radio_Nicaragua", Radio La Marka 90,9 FM
