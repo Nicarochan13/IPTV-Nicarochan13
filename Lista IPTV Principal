@@ -968,7 +968,7 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="Argentina", Canal 4 Bahia Blanca
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina", Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uoOXu9qMcIM/YGRyMxi3tiI/AAAAAAABBEQ/eToP9x0xTwc0kMtGohFBGhZWmFwlRQJrACK8BGAsYHg/s512/2021-03-31.png" group-title="Argentina", Canal 4 Telecondor
@@ -2995,6 +2995,24 @@ https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", FM Kaon
 https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Reloj (Cuba)
+https://api.webrad.io/data/streams/45/reloj
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Progreso (Cuba)
+https://api.webrad.io/data/streams/45/progreso
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Habana Cuba (Cuba)
+https://api.webrad.io/data/streams/45/habana
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Rebelde (Cuba)
+https://api.webrad.io/data/streams/45/rebelde
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Cadena Habana (Cuba)
+https://api.webrad.io/data/streams/45/cadena-habana
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Columbia (Costa Rica)
+https://api.webrad.io/data/streams/27/radio-columbia
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Monumental (Costa Rica)
+https://dq36dvgzsdppg.cloudfront.net/monumental.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Fides (Costa Rica)
+https://centova.hostingtico.com:7010/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Teletica Radio (Costa Rica)
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RNA Andorra",RNA Andorra
 https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="AM Andorra",AM Andorra
