@@ -443,7 +443,7 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-id="Canal9.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="Nicaragua",Canal 9 (480p)
 http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="Nicaragua",Canal 10 (576p)
-https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal10_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5Sw6Rzw.png" group-title="Nicaragua",TV RED Canal 11 (480p)
 http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/512px-Canal_12_Nicaragua_logo.webp.png" group-title="Nicaragua",Nicavisión Canal 12 (720p) [Not 24/7]
@@ -463,7 +463,7 @@ https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Nicaragua",WTV Canal 20 (720p)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="Nicaragua",Vos Tv (720p) [Not 24/7]
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal14_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaBox.ni" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="Music",MegaBox (720p)
 https://stmv1.voxhdnet.com/megabox5/megabox5/playlist.m3u8
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="Sports",Awapa Sports TV (1080p) [Not 24/7]
@@ -519,8 +519,12 @@ https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
 https://emisoras.hn:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="Honduras",LTV (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+#EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="Honduras",Q'hubo TV (410p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIdeal.hn" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="Honduras",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="RCVTV.hn" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Honduras",RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RHCTV.hn" tvg-logo="https://i.imgur.com/kJUzdlf.png" group-title="Honduras",RHC TV (720p)
 https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.hn" tvg-logo="https://i.imgur.com/c8wAvxC.png" group-title="Honduras",RTV Honduras (1080p)
@@ -749,10 +753,14 @@ https://streannliveevtv.cachefly.net/Protected/sp=1;dirmatch=true/3be25dc13406bf
 http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="News",Globovision (1080p) [Not 24/7]
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-id="GlowTV.ve" tvg-logo="https://i.ibb.co/fN0Tsr2/glowtv2.png" group-title="Venezuela",Glow TV (720p) [Not 24/7]
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HumorMax.ve" tvg-logo="https://i.imgur.com/bFUZwJ0.png" group-title="Comedy",Humor Max (720p)
 http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="Music",Italianissimo (360p) [Not 24/7]
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-id="IVC.ve" tvg-logo="https://i.imgur.com/HyXYR2o.png" group-title="Venezuela",IVC
+http://stream.flynetwifi.com:1935/live/mobile-153/playlist.m3u8
 #EXTINF:-1 tvg-id="TLT.ve" tvg-logo="https://i.imgur.com/WFRu6WJ.png" group-title="Venezuela",La Tele Tuya (720p)
 https://vcp4.myplaytv.com/tlt-ve/tlt-2023.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="Entertaiment",MDA Televisión
@@ -1465,6 +1473,8 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE (1080p) [Geo-blocked]
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="España",Cuatro (1080p)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel España (1080p)
 http://5.255.90.184:2004/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
@@ -1495,6 +1505,8 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="España",La 2 (1080p)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="España",La Sexta (1080p)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.es" tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="España",Onda Cádiz (1080p)
 https://adc-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="España",Onda Madrid (720p)
@@ -2995,24 +3007,34 @@ https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", FM Kaon
 https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EcrBmf5qEr.jpg" group-title="Radio", BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Reloj (Cuba)
-https://api.webrad.io/data/streams/45/reloj
+https://icecast.teveo.cu/b3jbfThq
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Progreso (Cuba)
-https://api.webrad.io/data/streams/45/progreso
+https://icecast.teveo.cu/XjfW7qWN
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Habana Cuba (Cuba)
-https://api.webrad.io/data/streams/45/habana
+https://icecast.teveo.cu/McW3fLhs
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Rebelde (Cuba)
-https://api.webrad.io/data/streams/45/rebelde
+https://icecast.teveo.cu/kHKL7tWd
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Cadena Habana (Cuba)
-https://api.webrad.io/data/streams/45/cadena-habana
+https://icecast.teveo.cu/Jdq3Rbrg
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", CMBF Radio Musical Nacional (Cuba)
+https://icecast.teveo.cu/Nbtz7HT3
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Columbia (Costa Rica)
-https://api.webrad.io/data/streams/27/radio-columbia
+https://s2.radio.co/s83b86382e/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Monumental (Costa Rica)
 https://dq36dvgzsdppg.cloudfront.net/monumental.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Fides (Costa Rica)
 https://centova.hostingtico.com:7010/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Teletica Radio (Costa Rica)
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio 2 (Costa Rica)
+https://s5.radio.co/sd515b7b34/listen
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", 95.5 Jazz (Costa Rica)
+https://streaming.radio.co/s36bd2a451/listen
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Columbia Stereo (Costa Rica)
+https://s5.radio.co/sca838cc60/listen
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RNA Andorra",RNA Andorra
 https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="AM Andorra",AM Andorra
@@ -3074,7 +3096,7 @@ https://cootv.cootel.com.ni:8095/Radio_LaSandino/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mbKvA7EKUb.jpg" group-title="Radio_Nicaragua", Radio ABC Stereo
 https://cootv.cootel.com.ni:8095/Radio_ABCStereo/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/MwzSUen88v.jpg" group-title="Radio_Nicaragua", Radio Tigre
-https://cootv.cootel.com.ni:8095/Radio_Tigre/playlist.m3u8
+https://api.webrad.io/data/streams/20/tigre
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a4pzesfam8dg.png" group-title="Radio_Nicaragua", Radio La Primerisima
 https://polaris.hostingnica.net/9000/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://radio580nic.s3.amazonaws.com/2023/10/logo_580-300x300.png" group-title="Radio_Nicaragua", Radio 580
@@ -3087,6 +3109,11 @@ https://media-latam.com:8230/stream/1/
 https://streamer.radio.co/sd5242d0b6/listen
 #EXTINF:-1 radio="true" tvg-logo="https://radio800ni.com/wp-content/themes/radio800/images/logo2.png" group-title="Radio_Nicaragua", Radio 800
 https://cp.panelchs.com:8176/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YzmwNYmQNZ.jpg" group-title="Radio_Nicaragua", Radio El Pensamiento
+https://sonic-ca.instainternet.com/8058/stream
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bs5R6raXFR.jpg" group-title="Radio_Nicaragua", Rock FM
+https://securestream.us/listen/rock_fm/radio.mp3
+
 #EXTINF:-1 radio="true" tvg-logo="http://www.larumbos.com/img/assets/logo.png" group-title="Radio_Nicaragua", Radio Rumbos Rivas
 https://stream9.mexiserver.com/8358/;
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Dinámica Jinotega
@@ -3097,14 +3124,16 @@ https://server.multimediamb.com/9984/stream
 https://polaris.hostingnica.net/8002/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Stereo Romance Jinotepe
 https://stereoromance.radioca.st/stream/1/
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", RadioActiva
+#EXTINF:-1 radio="true" tvg-logo=https://cdn.webrad.io/images/logos/radios-co-ni/activa-101-1-fm.png"" group-title="Radio_Nicaragua", RadioActiva
 https://media.dominiocreativo.com:8132/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-ni/clasica.png" group-title="Radio_Nicaragua", Radio Clásica
+https://api.webrad.io/data/streams/20/clasica
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FFma3MikrQoFXna6v2Yy70UMLSvf3IqfsDwrWxhlHn9g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2VkZThkNGE5LTU0OGUtNGU4OC05YzUxLTdhMzU4MDE3NmUwZC9pbWFnZS8_dXBkYXRlZD0xNjg4NTE0NTI0MDAw.webp&w=828&q=100" group-title="Radio_Nicaragua", Radio Mujer
 https://stream-176.zeno.fm/isizeju3lbrvv?zs=0xtQ4axdTmqAMt4rF24ApA&adtonosListenerId=01HMPKCQTG5SKW28KGXSDRN68H&aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&acu-uid=843114827626&an-uid=7212581606906626288&mm-uid=764e6539-8377-4500-a8e1-337069679ccd&dot-uid=09b6220400b58be83056eb8b&amb-uid=7010473253154131009&dbm-uid=CAESEF78EcHTfhyAdPlyyyzZ5A8&cto-uid=f72b71f5-77a2-4069-bd34-aba070329779-65398373-5553&bsw-uid=e3cc2350-ada7-4f59-83b8-7c53a625696f&dyn-uid=5881499435079583851&ttd-uid=b70d2d36-60bb-426a-a3fb-4a86f473580a&triton-uid=cookie%3A257c764c-63a9-4a28-88d2-52b175a933ab&adt-uid=cuid_7d421070-737a-11ee-a9e0-1297b61989fd
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FwFWHyO5gq34A3RLyMHUx96I1fa6BOkYFgm3JDUtQ8Ks%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBdl9Qcnl3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnOXRpRjNBZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5ODkwOTUwMDA.webp&w=1920&q=100" group-title="Radio_Nicaragua", Radio Hermanos Matagalpa
 https://stream-160.zeno.fm/vq7z0a3u7mruv?zs=cKh9EUgmQX-fmacc4qUmfg
 #EXTINF:-1 radio="true" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhVX6PshBmZp8TiRkwH_XKrczWMCwfdvifuy2kTjK5RLTFsd1wkjT_ee7T3FTzXZWja5B_8AKwcMpBmX6lf8qvGbIsSk0japn2DClb44UQtqMXi01DK5lGbnfBsMkWLKTAVvzJequ_NgYHrnBGlX__d6wCnvYFswnhZz_xysPmGiu5SIf1FlgZl2Xrt0g=s174" group-title="Radio_Nicaragua", Radio Colonial León
-https://cp.usastreams.com/pr2g/MetadatosRadio.aspx?servidor=http%3a%2f%2fstream.zeno.fm%2fstatus.xslCHUMILLASmount%3d%2fz5r26042schvv
+https://api.webrad.io/data/streams/20/colonial
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Madriz Somoto
 https://api.webrad.io/data/streams/20/stereo-madriz
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Musún Rio Blanco
@@ -3113,3 +3142,7 @@ https://stream.zeno.fm/muuytxn8bkhvv
 https://stream-160.zeno.fm/5dtqds7hfrruv?zs=RNUg5WW3TQ2dTWUJtmabUA
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Caliente Masaya
 https://stream.zeno.fm/fu2rt0y0wc9uv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Caló Rivas
+https://media-latam.com/8256/stream/1/
+
+https://media-latam.com/8256/stream/1/
