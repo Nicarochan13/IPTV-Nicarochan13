@@ -72,6 +72,14 @@ http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-067/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ESNE
 http://stream.flynetwifi.com:1935/live/mobile-124/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ESPN
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ESPN 2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ESPN 3
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ESPN 4
+http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Cable",EWTN
 http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Cable",film & arts
@@ -90,6 +98,8 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Guatevision
 http://stream.flynetwifi.com:1935/live/mobile-149/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Guate TV
+http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",H&H
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cable",HBO
@@ -176,6 +186,8 @@ http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",UNIVERSO
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",Univisión
+http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",USA | Español
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable",ViX español
@@ -1471,8 +1483,8 @@ https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/A9TmimD.png" group-title="España",Canal Sur Andalucía (720p)
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE (1080p) [Geo-blocked]
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="España",Cuatro (1080p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel España (1080p)
