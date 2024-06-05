@@ -2878,23 +2878,21 @@ https://cootv.cootel.com.ni:8095/Radio_Tropicalida/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143251/La-Marka-2-300x300.png" group-title="Radio_Nicaragua", Radio La Marka 90.9 FM
 https://cootv.cootel.com.ni:8095/Radio_LaMarka/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143231/La-Buenisima-1-300x300.png" group-title="Radio_Nicaragua", Radio La Buenisima 93.1 FM
-https://cootv.cootel.com.ni:8095/Radio_LaBuenisima/playlist.m3u8
+https://alba-ni-nicaradios-labuenisima.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143109/Alfa-2-300x300.png" group-title="Radio_Nicaragua", Radio Alfa 93.5 FM
-https://cootv.cootel.com.ni:8095/Radio_Alfa/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143109/Alfa-2-300x300.png" group-title="Radio_Nicaragua", Radio Alfa 93.5 FM
-https://cootv.cootel.com.ni:8095/Radio_Alfa/playlist.m3u8
+https://alba-ni-nicaradios-alfa.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143317/La-Pachanguera-1-300x300.png" group-title="Radio_Nicaragua", Radio La Pachanguera 95.1 FM
 https://cootv.cootel.com.ni:8095/Radio_LaPachanguera/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143128/Amante-2-300x300.png" group-title="Radio_Nicaragua", Radio Amante 96.3 FM
-https://cootv.cootel.com.ni:8095/Radio_Amante/playlist.m3u8
+https://alba-ni-nicaradios-amante.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143144/boton-nr-la-picosa-1-300x300.png" group-title="Radio_Nicaragua", Radio La Picosa 97.9 FM
-https://cootv.cootel.com.ni:8095/Radio_LaPicosa/playlist.m3u8
+https://alba-ni-nicaradios-lapicosa.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143354/Romantica-1-300x300.png" group-title="Radio_Nicaragua", Radio Romantica 98.7 FM
-https://cootv.cootel.com.ni:8095/Radio_Romantica/playlist.m3u8
+https://alba-ni-nicaradios-romantica.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143337/Nova-1-300x300.png" group-title="Radio_Nicaragua", Radio NOVA 100.7 FM
-https://cootv.cootel.com.ni:8095/Radio_Nova/playlist.m3u8
+https://alba-ni-nicaradios-nova.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143216/Joya-2-300x300.png" group-title="Radio_Nicaragua", Radio Joya 103.9 FM
-https://cootv.cootel.com.ni:8095/Radio_Joya/playlist.m3u8
+https://alba-ni-nicaradios-joya.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05135449/Suprema-new-300x300.png" group-title="Radio_Nicaragua", Radio Suprema 106.3 FM
 https://cootv.cootel.com.ni:8095/Radio_Suprema/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143200/boton-nr-lite-1-300x300.png" group-title="Radio_Nicaragua", Radio Lite 107.1 FM
@@ -2925,8 +2923,6 @@ https://media-latam.com:8230/stream/1/
 https://streamer.radio.co/sd5242d0b6/listen
 #EXTINF:-1 radio="true" tvg-logo="https://radio800ni.com/wp-content/themes/radio800/images/logo2.png" group-title="Radio_Nicaragua", Radio 800
 https://cp.panelchs.com:8176/stream/1/
-#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YzmwNYmQNZ.jpg" group-title="Radio_Nicaragua", Radio El Pensamiento
-https://sonic-ca.instainternet.com/8058/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bs5R6raXFR.jpg" group-title="Radio_Nicaragua", Rock FM
 https://securestream.us/listen/rock_fm/radio.mp3
 #EXTINF:-1 radio="true" tvg-logo="http://www.larumbos.com/img/assets/logo.png" group-title="Radio_Nicaragua", Radio Rumbos Rivas
