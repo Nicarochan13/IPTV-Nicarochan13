@@ -2823,6 +2823,8 @@ https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", FM Kaon
 https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Super Tokyo Radio
+https://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EcrBmf5qEr.jpg" group-title="Radio", BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Reloj (Cuba)
@@ -2843,14 +2845,110 @@ https://s2.radio.co/s83b86382e/listen
 https://dq36dvgzsdppg.cloudfront.net/monumental.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Fides (Costa Rica)
 https://centova.hostingtico.com:7010/stream/1/
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Teletica Radio (Costa Rica)
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/teletica.png" group-title="Radio", Teletica Radio (Costa Rica)
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio 2 (Costa Rica)
 https://s5.radio.co/sd515b7b34/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", 95.5 Jazz (Costa Rica)
 https://streaming.radio.co/s36bd2a451/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Columbia Stereo (Costa Rica)
 https://s5.radio.co/sca838cc60/listen
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio María (Panamá)
+https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio María (Chile)
+https://rmaria2.janus.cl/playlist/stream.m3u8?t=0&s=au&p=&id=lxyvx7hk&d=w
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="Radio", Melodía 60 
+http://streamtotal.net:8136/stream
+#EXTINF:-1 radio="true" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="Radio", NSE Radio
+https://evcast.mediacp.eu:2060/stream
+#EXTINF:-1 radio="true" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="Radio", La Voz de María Radio (República Dominicana)
+https://cast3.asurahosting.com/proxy/luis12/stream?mp=/1;&1679264623993
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s111123/images/logog.png" group-title="Radio", Radio Fabu (Ecuador)
+https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://radioatalaya.net/wp-content/uploads/2017/08/cropped-LOGO-ATALAYA.png" group-title="Radio", Radio Atalaya (Ecuador)
+https://streaming.ecuastreaming.com/9978/stream
+#EXTINF:-1 radio="true" tvg-logo="https://radiosucre.com.ec/wp-content/uploads/2020/07/OK.png" group-title="Radio", Radio Sucre (Ecuador)
+https://streamingecuador.net:8076/radiosucre
+#EXTINF:-1 radio="true" tvg-logo="https://radiohuancavilca.com.ec/wp-content/uploads/2023/08/LogoHuancavilca.png" group-title="Radio", Radio Huancavilca (Ecuador)
+https://streamingecuador.net:7078/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/cristal.png" group-title="Radio", Radio Cristal (Ecuador)
+http://78.47.60.149/9958/;
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/sistema-2-1080-am.png" group-title="Radio", Radio Sistema 2 (Ecuador)
+https://streamingecuador.net:8052/radiosistema2
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k2dyp3rzuap3.png" group-title="Radio", Radio Popular de Cuenca (Ecuador)
+https://stream-50.zeno.fm/py6f6znfntzuv?zs=kYEzAzomTc-ju220HEsXzg
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="Radio", Radio Soberana (Ecuador)
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png" group-title="Radio", RCN Radio (Colombia)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d/playlist.m3u8?listeningSessionID=641b564000df2c8b_10312435_gNFDpasb__0000004weCT&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&pid=qgZCCtmgb1WvSzOj89obc7kYWsULjYt0&sid=CJzQwkQ3Io0b0Xes0dWJBqZ6d8v2OP71&uid=prXB5zSZ2xeIGlP8C27uDF2cTjJgV7mh&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1689911983863&ot=MppR9VPzMzImd1o3tfASRg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=627c1c39637d89088290f64d&propertyName=lightning-player&propertyType=web-&listenerId=prXB5zSZ2xeIGlP8C27uDF2cTjJgV7mh
+#EXTINF:-1 radio="true" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/992.png" group-title="Radio", La FM (Colombia)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/632c9b23d1dcd7027f32f7fe/playlist.m3u8?aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp&sid=r7bgeKbdce7kYiLuz1M7qdvM3RdgyhbC&pid=BWEIy7Vwb8RcoZlkfLc6ELHW0wtfi7jq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1689912993482&ot=4zCRqrQGZhesy4HpVGzAYw&proto=https&pz=us&cP=128000
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png" group-title="Radio", W Radio (Colombia)
+https://27323.live.streamtheworld.com/WRADIOAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1280px-Caracol_Radio_logo.svg.png" group-title="Radio", Caracol Radio (Colombia)
+https://27383.live.streamtheworld.com/CARACOL_RADIOAAC_SC?csegid=2000
+#EXTINF:-1 radio="true" tvg-logo="https://static.wordpress.rcnradio.com/lacarinosa/logo.webp" group-title="Radio", Radio La Cariñosa (Colombia) 
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632c9c3d202d6801a3178028/playlist.m3u8?listeningSessionID=646ef88900a9f392_4831858_DhmlEiXZ__0000005rx5R&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp&sid=r7bgeKbdce7kYiLuz1M7qdvM3RdgyhbC&pid=K25Bhhges8xl0nTSNJmEYV7KUdfJcYh2&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1689912443059&ot=HEBn8jJTNhTRbRu7dSKFvQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=632c9c3d202d6801a3178028&referer=https%3A%2F%2Fwww.colombia.com%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.199&listenerId=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antena_2_logo.svg/225px-Antena_2_logo.svg.png" group-title="Radio", Antena 2 Radio (Colombia)
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b439234f869e9a50e2b/playlist.m3u8?aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=34B3JzJ6IfJ8EtVMd3x4xZGtDY39fx10&sid=TUJaBb8fc7qLkdhqfMCGL7VT9zM8RnjU&pid=QIoxr4HtTIngEnPmpAQBmI5RFFrwX3fM&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1689912234284&ot=vGK9OMAlSTKwigqS7Z7RIg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=632c9b439234f869e9a50e2b&referer=https%3A%2F%2Fwww.colombia.com%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.199&listenerId=34B3JzJ6IfJ8EtVMd3x4xZGtDY39fx10
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.colombia.com/canales/anos-maravillosos-60-70-5071-v2.jpg" group-title="Radio", Radio Años Maravillosos (Colombia)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ceb3b50052d08bd154f88/playlist.m3u8?listeningSessionID=641b564000df2c8b_10307214_aOXb7z3O__0000004w6xU&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp&sid=KNgwjESFjpKFRtRLPF8hrzXl5Ix19XJu&pid=xa6H7KEk63blAMp3sI0OQbmZvFNVXdIa&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1689906763357&ot=j6hStEFun755wUXYAmcTFw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=632ceb3b50052d08bd154f88&referer=https%3A%2F%2Fwww.colombia.com%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.199&listenerId=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1601206073381249024/FBJFT_Oa_400x400.jpg" group-title="Radio", Bésame Radio (Colombia)
+https://24293.live.streamtheworld.com/BESAME_BOGOTAAAC.aac?csegid=2000&gdpr=0&dist=besameco-web-tod-player&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=42cbfe01-ddc5-46b2-fb62-270cf70adead
+#EXTINF:-1 radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2a269dd37312cf7b93009b0030c66385.jpg" group-title="Radio", La Romántica (Venezuela)
+https://server6.globalhostla.com:8068/stream
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png" group-title="Radio", Unión Radio (Venezuela)
+https://acp4.lorini.net/proxy/ur2080?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/estelar-fm-92-5.png" group-title="Radio", Radio Estelar (Bolivia)
+https://turadioweb.net:8370/radio
+#EXTINF:-1 radio="true" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png" group-title="Radio", Radio Panamericana (Bolivia)
+https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3cbbc22c579110&acu-uid=630572328206&bsw-uid=1c193f44-9191-4b67-8b70-9a52bce372e6&cto-uid=bea7dd87-5a33-45a7-acad-c6a42ee0ccd2-61b426c0-5045&adt-uid=cuid_8ce542d3-5b27-11ec-8553-12
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/atb.png" group-title="Radio", ATB Radio (Bolivia)
+https://streamingenbolivia.com/8006/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16424/images/bannerx.jpg?t=637366653600000000" group-title="Radio", Radio Romántica (Chile)
+https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.radioamor.cl/assets/images/logors-475x128.png" group-title="Radio", Amor FM (Chile)
+https://sonic.streamingchilenos.com/9820/stream
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="Radio", Radio Mitre (Argentina)
+https://22203.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2db63805-11b9-4e73-f947-309fb7963469
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8G5gWG6Jqx.jpg" group-title="Radio", Fabuestereo (Guatemala)
+https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
+#EXTINF:-1 radio="true" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png" group-title="Radio", Emisoras Unidas (Guatemala)
+https://node-32.zeno.fm/eypgq8m08wquv?rj-ttl=5&rj-tok=AAABfUARHM4Akpk-cHiz5aAFGQ
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-gt/joya-guatemala.png" group-title="Radio", Radio Joya (Guatemala)
+https://d3baswd2guva7h.cloudfront.net/joya.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bfkegbmpkwmv.jpg" group-title="Radio", Radio Romántica (Guatemala)
+http://54.39.106.215:9314/;
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821" group-title="Radio", Radio Panamericana (Guatemala)
+http://server3.sit-mexico.com:8011/live
+#EXTINF:-1 radio="true" tvg-logo="https://www.medios.gt/galeriausuarios/mediosg7sm/imagenesmessage/imagem100529224717960.jpg" group-title="Radio", Recuerdo Stereo (Guatemala)
+https://cloudstream2032.conectarhosting.com/8300/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/corazon-san-salvador.png" group-title="Radio", Radio Corazón (El Salvador)
+https://mgv-corazon.akamaized.net/hls/live/2039835/MGV_CORAZON/0/streamPlaylist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Radio_Astral_Logo.png" group-title="Radio", Radio Astral (El Salvador)
+https://streaming.rcs.com.sv/astral/stream
+#EXTINF:-1 radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f522f60ef27b6593e8d03be1e4944dac.jpg" group-title="Radio", Radio YSKL (El Salvador)
+https://media.dominiocreativo.com:8000/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="http://www.radiosonora.com.sv/img/logo.png" group-title="Radio", Radio Sonora (El Salvador)
+http://190.5.147.67:8000/radiosonora
+#EXTINF:-1 radio="true" tvg-logo="https://dbs.radioline.fr/pictures/radio_77ffed9be8fe88f1a6b4fc56810bb64e/logo200.jpg?size=600" group-title="Radio", Radio México Internacional
+https://s2.mexside.net/8020/stream
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/A4wCyLYE9J.jpg" group-title="Radio", 88.9 Noticias (México)
+https://15233.live.streamtheworld.com/XHMFMAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://www.laromantica.com.mx/wp-content/uploads/2022/02/logo_la-romantica_2ago2021_186_hd2.png" group-title="Radio", Radio La Romántica (México)
+https://stream-163.zeno.fm/q5f7ne3sb18uv?zs=b9HYcOlgSAW-d6JO36wjIA
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="Radio", Radio Amor (México)
+https://22973.live.streamtheworld.com/XHSHFMAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/felicidad.png" group-title="Radio", Radio La Felicidad (México)
+https://26273.live.streamtheworld.com/XEFRAMAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/h32vtman4lmj.png" group-title="Radio",  Radio Baladas (México)
+https://media.streamingradiomx.com/listen/radio_baladas_viejitas_bonitas/radio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/xlt3gacwmbkw.png" group-title="Radio", Romántica FM (USA)
+http://puertoplataradio.com:8016/;
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Amor (República Dominicana)
+http://radio.domiplay.net:9190/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Radio Anime Nexus
+http://radio.animenexus.mx:8000/animenexus
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RNA Andorra",RNA Andorra
 https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="AM Andorra",AM Andorra
@@ -2903,7 +3001,7 @@ https://stream-141.zeno.fm/axr92qawesmtv?zs=vXt8TXy4QWGyp0SVvwvj-w
 https://stream-145.zeno.fm/gwkd66k0a7duv?zs=WmeZb7goR9SwOKO3Y3_g_Q
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KArdnuqZLu.png" group-title="Radio_Nicaragua", Radio La Tuani
 https://cootv.cootel.com.ni:8095/Radio_LaTuani/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="Radio_Nicaragua", Radio María
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="Radio_Nicaragua", Radio María (Offline)
 https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LY3WagNHvZ.jpg" group-title="Radio_Nicaragua", Radio Sandino
 http://streaming.lasandino.com.ni:8020/lasandino.mp3
