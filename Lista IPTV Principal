@@ -3001,6 +3001,8 @@ https://stream-141.zeno.fm/axr92qawesmtv?zs=vXt8TXy4QWGyp0SVvwvj-w
 https://stream-145.zeno.fm/gwkd66k0a7duv?zs=WmeZb7goR9SwOKO3Y3_g_Q
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KArdnuqZLu.png" group-title="Radio_Nicaragua", Radio La Tuani
 https://cootv.cootel.com.ni:8095/Radio_LaTuani/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-02/radio_catolica_de_nicaragua.png.webp?itok=uJ0JkxV0" group-title="Radio_Nicaragua", Radio Católica de Nicaragua
+http://198.27.68.65:8555/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="Radio_Nicaragua", Radio María (Offline)
 https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LY3WagNHvZ.jpg" group-title="Radio_Nicaragua", Radio Sandino
@@ -3008,7 +3010,7 @@ http://streaming.lasandino.com.ni:8020/lasandino.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mbKvA7EKUb.jpg" group-title="Radio_Nicaragua", Radio ABC Stereo
 https://stream-161.zeno.fm/aarsbxkgpnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYXJzYnhrZ3BucnV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsImp0aSI6IlU1bGUwR1RLUVlTc3R4WmY3WTNWZXciLCJpYXQiOjE3MTM3MjMzNjMsImV4cCI6MTcxMzcyMzQyM30.rNM7FTTtX3xDjdjQRZs_4frXdkxCGET1AHTTgdTlB9M&zttl=5
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/MwzSUen88v.jpg" group-title="Radio_Nicaragua", Radio Tigre
-https://api.webrad.io/data/streams/20/tigre
+https://stream-157.zeno.fm/muckqtmpfvatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdWNrcXRtcGZ2YXR2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlBodTRJYmM4Uk82Z0VVS2NzUVIyLXciLCJpYXQiOjE3MjU0MDU2ODAsImV4cCI6MTcyNTQwNTc0MH0.lbta-M7EorWpOZHkG7LaTIbhnL4JPOEKjT6zkrG5FjU&aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&triton-uid=cookie%3Aad75ef4e-5da9-4802-a925-39a1f3062115
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a4pzesfam8dg.png" group-title="Radio_Nicaragua", Radio La Primerisima
 https://polaris.hostingnica.net/9000/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://radio580nic.s3.amazonaws.com/2023/10/logo_580-300x300.png" group-title="Radio_Nicaragua", Radio 580
@@ -3017,6 +3019,8 @@ https://streaming.radio580.com.ni/stream.mp3
 https://streaming1.locucionar.com/proxy/mundial920am?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/F6AKs8QIGx3MN3yJtXYbDUrV5CyD6VdFp8W8IPbBBgyNIkdhoCzDJSOyhK-DPqpAYA=w240-h480-rw" group-title="Radio_Nicaragua", Radio Amor
 https://media-latam.com:8230/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/103504.v11.png" group-title="Radio_Nicaragua", Radio El Pensamiento
+https://video.primis.tech/uploads/cn1/video/users/converted/24485/video_66ab3376dd502997070698/vid66d5c7b50bdee887415943.mp4?tok=ewogICAgImFsZyI6ICJIUzI1NiIsCiAgICAidHlwIjogIkpXVCIKfQ.ewogICAgImlzcyI6ICJQcmltaXMiLAogICAgInN1YiI6ICIvdXBsb2Fkcy9jbjEvdmlkZW8vdXNlcnMvY29udmVydGVkLzI0NDg1L3ZpZGVvXzY2YWIzMzc2ZGQ1MDI5OTcwNzA2OTgvdmlkNjZkNWM3YjUwYmRlZTg4NzQxNTk0My5tcDQiLAogICAgIm5iZiI6IDE3MjUzOTcyMDAsCiAgICAiZXhwIjogMTcyNTU5MjAyMAp9.6A4qkoDpYEHZY1GvHlK6dkr84Scaqdsntvc7hJ-iJrM
 #EXTINF:-1 radio="true" tvg-logo="https://www.medios.gt/galeriausuarios/nicaragua/imagenesmessageth/imagem040315160344273.jpg" group-title="Radio_Nicaragua", Radio Estrella del Mar
 https://streamer.radio.co/sd5242d0b6/listen
 #EXTINF:-1 radio="true" tvg-logo="https://radio800ni.com/wp-content/themes/radio800/images/logo2.png" group-title="Radio_Nicaragua", Radio 800
@@ -3044,14 +3048,14 @@ https://usa12.fastcast4u.com/proxy/radio5?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FwFWHyO5gq34A3RLyMHUx96I1fa6BOkYFgm3JDUtQ8Ks%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBdl9Qcnl3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnOXRpRjNBZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5ODkwOTUwMDA.webp&w=1920&q=100" group-title="Radio_Nicaragua", Radio Hermanos Matagalpa
 https://stream-160.zeno.fm/vq7z0a3u7mruv?zs=cKh9EUgmQX-fmacc4qUmfg
 #EXTINF:-1 radio="true" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhVX6PshBmZp8TiRkwH_XKrczWMCwfdvifuy2kTjK5RLTFsd1wkjT_ee7T3FTzXZWja5B_8AKwcMpBmX6lf8qvGbIsSk0japn2DClb44UQtqMXi01DK5lGbnfBsMkWLKTAVvzJequ_NgYHrnBGlX__d6wCnvYFswnhZz_xysPmGiu5SIf1FlgZl2Xrt0g=s174" group-title="Radio_Nicaragua", Radio Colonial León
-https://stream-155.zeno.fm/z5r26042schvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6NXIyNjA0MnNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsImp0aSI6Imw5UUhQQ19uVEZhSmp0NGVya0ZPNnciLCJpYXQiOjE3MTM3MjI2NjQsImV4cCI6MTcxMzcyMjcyNH0.Zzkmr72AS5RYUdtQ12xye8bNZBtsW2Sq8U4fyK6hweY&zttl=5
+https://stream.zeno.fm/z5r26042schvv
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Madriz Somoto
 https://api.webrad.io/data/streams/20/stereo-madriz
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Musún Rio Blanco
 https://stream.zeno.fm/muuytxn8bkhvv
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Digital Matagalpa
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Digital (Matagalpa)
 https://stream-160.zeno.fm/5dtqds7hfrruv?zs=RNUg5WW3TQ2dTWUJtmabUA
-#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Caliente Masaya
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Caliente (Masaya)
 https://stream.zeno.fm/fu2rt0y0wc9uv
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Caló Rivas
 https://media-latam.com/8256/stream/1/
@@ -3061,3 +3065,18 @@ https://stream-172.zeno.fm/k81fzn6wt4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-152.zeno.fm/hts41042schvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJodHM0MTA0MnNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsImp0aSI6IlVoaDdDZUpqUkUyaDJHalM3a28tSWciLCJpYXQiOjE3MTM0NTU4OTksImV4cCI6MTcxMzQ1NTk1OX0.GAGT-ukhsJvCeAViSCb0Eh5TNOGuuHcQadjLdYA-UrE&zttl=5&aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&acu-uid=843114827626&an-uid=7212581606906626288&mm-uid=764e6539-8377-4500-a8e1-337069679ccd&dot-uid=09b6220400b58be83056eb8b&triton-uid=cookie%3A257c764c-63a9-4a28-88d2-52b175a933ab&amb-uid=7010473253154131009&dbm-uid=CAESEDExSzHpgg4l6-IuGPwZY-M&cto-uid=f72b71f5-77a2-4069-bd34-aba070329779-65398373-5553&bsw-uid=e3cc2350-ada7-4f59-83b8-7c53a625696f&dyn-uid=5881499435079583851&ttd-uid=b70d2d36-60bb-426a-a3fb-4a86f473580a
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Tiburón Granada
 https://stream.zeno.fm/ajpcovmqi0huv?adtonosListenerId=01HMPKCQTG5SKW28KGXSDRN68H&aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&acu-uid=843114827626&an-uid=7212581606906626288&mm-uid=764e6539-8377-4500-a8e1-337069679ccd&dot-uid=09b6220400b58be83056eb8b&triton-uid=cookie%3A257c764c-63a9-4a28-88d2-52b175a933ab&amb-uid=7010473253154131009&dbm-uid=CAESEDExSzHpgg4l6-IuGPwZY-M&cto-uid=f72b71f5-77a2-4069-bd34-aba070329779-65398373-5553&bsw-uid=e3cc2350-ada7-4f59-83b8-7c53a625696f&dyn-uid=5881499435079583851&ttd-uid=b70d2d36-60bb-426a-a3fb-4a86f473580a
+#EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F5RxDpFNGUWtUGc34bNSxNTPDFp-ROCXo-t4ZIa-Dfmo%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURBaXZ2T19nZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0pDaWh3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE3MTAyODI0OTEwMDA_dT01NzUxMzI3.webp&w=828&q=100" group-title="Radio_Nicaragua", Feeling 97.3 FM (Matagalpa)
+https://stream.zeno.fm/uu5ak8xk2rquv?aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&acu-uid=843114827626&an-uid=7212581606906626288&dot-uid=09b6220400b58be83056eb8b&triton-uid=cookie%3Aad75ef4e-5da9-4802-a925-39a1f3062115&amb-uid=7010473253154131009&dbm-uid=CAESECv0R8yTEreyZw7vVH0JxhU&cto-uid=f72b71f5-77a2-4069-bd34-aba070329779-65398373-5553&bsw-uid=e3cc2350-ada7-4f59-83b8-7c53a625696f&dyn-uid=5881499435079583851&ttd-uid=b70d2d36-60bb-426a-a3fb-4a86f473580a
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-02/radio-mogoton-100.9fm-nicaragua.png.webp?itok=mI0Kx8Ja" group-title="Radio_Nicaragua", Radio Mogotón (Ocotal)
+https://stream.zeno.fm/94vxz9gt5yzuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-02/radio-notimat_0.png.webp?itok=DIblfSFT" group-title="Radio_Nicaragua", Radio Notimat (Matagalpa)
+https://stream.zeno.fm/hqw8u4zpktzuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-06/Radio%252520Solidaridad%252520104.5%252520FM.png.webp?itok=rSvSF6gt" group-title="Radio_Nicaragua", Radio Solidaridad (San Marcos)
+https://c15.radioboss.fm:8552/live
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-06/radio-stereo-acoyapa-nicaragua.png.webp?itok=GgNLfEE-" group-title="Radio_Nicaragua", Radio Stereo Acoyapa
+https://stream.zeno.fm/1wb4z75nktzuv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Caliente (Masaya)
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Caliente (Masaya)
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio_Nicaragua", Radio Stereo Caliente (Masaya)
