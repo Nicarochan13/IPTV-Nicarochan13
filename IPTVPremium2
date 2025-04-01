@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
-http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8
+https://live-b.cf.dmcdn.net/sec2(ueE0LMzT3CEyhxmg8tpaIayB3uw1-n-SlpUfUAQZa8mkKXewTWcego4rIwKVz7H2zTFppFkAGkO4b0KLrW1aG1psmz3o3A7ePgQXsfAXyLHvZYPwbnmDgxfYqnrGt9KZ)/dm/3/x7rwv8c/s/live-240.m3u8
 #EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="NICARAGUA 🇳🇮",Canal 6
-http://138.59.177.34:8000/play/a03o/index.m3u8
+https://live-b.cf.dmcdn.net/sec2(Mybj8IdHfKgG0sz-RMLPEQwTQUFQc_PnL9pfsz65QtfN_Cf6yspuYLoEzaa41C-uap_EfdLl0rjnDlIQZrHIAIsE_Pu3IM0gJQegiQx0AQ87out9I9wC7CBUrFSrX7BV)/dm/3/x96x78e/s/live-240.m3u8
 #EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://i.imgur.com/iSpZ2Ng.png" group-title="NICARAGUA 🇳🇮",Telenica Canal 8 
 http://45.228.232.219:16000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="Canal9.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="NICARAGUA 🇳🇮",Canal 9
 http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="NICARAGUA 🇳🇮",Canal 10
-https://cootv.cootel.com.ni:8095/Canal10_CooTel/playlist.m3u8
+https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="Canal11.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5Sw6Rzw.png" group-title="NICARAGUA 🇳🇮",Canal 11
 http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/512px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
 http://138.117.4.70:8075/Canal12_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
-http://138.59.177.34:8000/play/a03p/index.m3u8
+https://live-b.cf.dmcdn.net/sec2(3_BMRXJdBWspEyIbfeJPFnq7AkLkM13hrEFIn5dJtrJO5i5Cu9x0-BwAGVy3e4l7boEHGgMw8GK0xhikY5ekJHrGW0nDCadIQ-wxwT6kflqfMx6PEGybhEykdM9m2k2Q)/dm/3/x7u200z/s/live-240.m3u8
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="NICARAGUA 🇳🇮",Vos TV Canal 14
-http://138.117.4.70:8075/Canal14_CooTel/playlist.m3u8
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal15.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Canal_15_educativo_cultural.svg/" group-title="NICARAGUA 🇳🇮",Canal 15
 http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.ibb.co/Lzv1LQs/LaRock22.jpg" group-title="NICARAGUA 🇳🇮",La Rock 22
@@ -29,18 +29,25 @@ http://138.117.4.70:8075/Canal23_CooTel/playlist.m3u8
 http://138.59.177.34:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" group-title="NICARAGUA 🇳🇮",CVisión TV 
 https://stream.cvisiontv.com/cvision_stream.m3u8
+#EXTINF:-1 tvg-id="Telenorte.ni" tvg-logo="https://i.imgur.com/rvxjAO6.png" group-title="NICARAGUA 🇳🇮",Telenorte
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/e4037b515169fa8e91645219d0f48aa2e69f0546/master.m3u8
+#EXTINF:-1 tvg-id="TVCentroCanalRegional.ni" tvg-logo="https://i.imgur.com/w5RYpcZ.png" group-title="NICARAGUA 🇳🇮",TV Centro Canal Regional
+https://amixtv.com:19360/tvcentro/tvcentro.m3u8
 #EXTINF:-1 tvg-id="TVONENicaragua.ni" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="NICARAGUA 🇳🇮",TVONE 
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="NICARAGUA 🇳🇮",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROnrZCI5VnoF_aU_h4znfefMJCbBFaq93S_hMR=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CsQF2PkUSlEJKxWnfJn7hMCR3RzpXhTQn4BJdNsLVatRsRdNc7P-zyqEgYnqu6VENVdgFIV8G8V-U7SF0cVWjV-gbQOhuIBZ5bf0sybi6_fedLriBZ90Ui7G2mcvmk3PPbtXighgQ4-enCtWdeqHgIkFvQnJOxj7gddJPh5CCOX2032Hsr04O-GUydvXgyrvGB9g5R8-HMDzh39_Kcv645qPG8U2ZW9I_QnPllV2VWfPzyWbovRjfW79ynKTmJEOV2hTFHs3jrEAtZh-njGrKgbBcojLakbB-_s9xVmPmDzqn2PoOd_cS2n_KA5jkpLta1EHdGLXkk_seH9oWnhSDyyuL3DP6SgPHuwGIqWdbCb1snucwmI33I_7EhF6djAJWw4oY7U91mS8gOsXUMu6WeqNwxWDbFrRw0cuBlbnV61w7uslBseKybFolpkyFgXQM7Vh79qlqAUAzGIzoGqFK1rcvPVrNhJZ-R5XII_T065996VoZTGq5Yo97IwPGtqmauj4-yV5Ug76kBqtMmUdf9iNM-EQv0q8niaJrTuBgDr3t2PpXL60s0-i-1L4g90JfGosrT4P52UAHQxXfD8SR0SLcQB0xzayBZ0TpF6-gRy-Jg-0cpTEMtqgpAF13aD6fJ4wNYM6fde9lbzt_bDs6V4T6WnJ8dS0OVjWWTTZORrxQovYrnSD023laK__6hTQfBkd16kuyidNFX8nK6Q-JFiFYYQc7mqde-zWIYEEWngGi0xTEi0mIvYISQVrUxoWUyzJkyIzqRL8IVOFd0F4a-2RQVYpnVnr4sQob_VGDDBy2Of05xWJN7pwNL5bJDd1-JS9ViRd8NAg1Ry0ge3AKbGD9RAc1vucYa5TvyGT7NwmVgsbPPVFsw8R4UAi0_AeJSe1t8QNcfTpNhF688IISP8ubOJbscepsYpC5RsmdkK39-MLzO7jGgxM7K5b-gNcsXIIipYgASoJdXMtZWFzdC0xMLQH.m3u8
+#EXTINF:-1 tvg-id="LaNuevaRadioYa.ni" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/amgybJM7u7.png" group-title="NICARAGUA 🇳🇮", La Nueva Radio Ya (Prueba)
+https://live-b.cf.dmcdn.net/sec2(T5OOSoxOsbRj6X-uOjUaT3x1LMPb4DCuTEw2Cg6A24rGi4lLq-OK1GPUuOxbBxd_pk7vEnyEFIU2QLT2kVvRj4F07HWS3zqZpJtZBbX4RbFgF4LWLZEDzl0I-yiavu_H)/dm/3/x84atcq/s/live-240.m3u8
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="COSTA RICA 🇨🇷",¡OPA! 
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="COSTA RICA 🇨🇷",Anexión TV Canal 36 
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="COSTA RICA 🇨🇷",Antena Seis TV (Geoblock) 
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="COSTA RICA 🇨🇷",Antena Seis TV  
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="COSTA RICA 🇨🇷",Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA 🇨🇷",Canal 2 (Geoblock)
@@ -65,6 +72,12 @@ https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="CotoBrusTV.cr" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="COSTA RICA 🇨🇷",Coto Brus TV 
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extraradiocr.com/wp-content/uploads/2024/11/Logo-Radio-blanco-e1731511332237-150x59.png" group-title="COSTA RICA 🇨🇷",E-Music 97.9 FM 
+https://gxtra-cr-dxtra-radio2.stream.mediatiquestream.com/360p.m3u8
+#EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="COSTA RICA 🇨🇷",Extra TV Canal 42 
+https://d2axu5ozwr5gk0.cloudfront.net/live_1.m3u8
+#EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extraradiocr.com/wp-content/uploads/2024/11/Logo-Radio-blanco-e1731511332237-150x59.png" group-title="COSTA RICA 🇨🇷",Extra Radio 92.3 FM 
+https://d30exmp0xfb5jr.cloudfront.net/360p.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="COSTA RICA 🇨🇷",Garabito TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="COSTA RICA 🇨🇷",Guatuso TV 
@@ -85,6 +98,8 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COSTA RICA 🇨🇷",STV El Canal Familiar
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-id="TDtv.cr" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="COSTA RICA 🇨🇷",TDtv
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-logo="https://i.imgur.com/cQghjMA.png" group-title="COSTA RICA 🇨🇷",Telered 
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-id="Telesistema.cr" tvg-logo="https://i.imgur.com/A0BBS4z.png" group-title="COSTA RICA 🇨🇷",Telesistema 
@@ -96,6 +111,9 @@ http://k3.usastreams.com/telesur/telesur/playlist.m3u8
 https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TreceCostaRicaTelevision.cr" tvg-logo="https://i.imgur.com/bgkNkLj.png" group-title="COSTA RICA 🇨🇷",Trece Costa Rica Televisión
 https://rpn3.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivision36.cr" tvg-logo="https://i.imgur.com/aadWnIx.jpg" group-title="COSTA RICA 🇨🇷" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Trivisión 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVLegislativa.cr" tvg-logo="https://i.imgur.com/hmRkAIf.png" group-title="COSTA RICA 🇨🇷", TV Asamblea Legislativa 
 https://ythls.onrender.com/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="COSTA RICA 🇨🇷",TV Sur Canal 9 
@@ -111,9 +129,9 @@ https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663d
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR 🇸🇻",Canal 10
 http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="EL SALVADOR 🇸🇻",Canal 11 TuTV
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="EL SALVADOR 🇸🇻",Canal 12
-https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="EL SALVADOR 🇸🇻",Canal 15 Usulután 
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="EL SALVADOR 🇸🇻",Megavisión Canal 19 
@@ -232,7 +250,7 @@ https://envivo.canal6.com.hn/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="Canal8.hn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal8hn2023.png/300px-Canal8hn2023.png" group-title="HONDURAS 🇭🇳",Canal 8
 http://200.52.148.194:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="HONDURAS 🇭🇳",Canal 11 
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="HONDURAS 🇭🇳",Canal 11 (Opción 2)
 http://138.59.177.34:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="Canal51.hn" tvg-logo="https://i.imgur.com/xhVEEA1.png" group-title="HONDURAS 🇭🇳",Canal 51
@@ -296,7 +314,7 @@ https://emisoras.hn:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-id="UNAHUTV.hn" tvg-logo="https://i.imgur.com/GhzaYbK.png" group-title="HONDURAS 🇭🇳",UNAH UTV 
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1 tvg-id="VTV.hn" tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="HONDURAS 🇭🇳",VTV
-https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="VTV.hn" tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="HONDURAS 🇭🇳",VTV (Opción 2)
 https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV.pa" tvg-logo="https://i.imgur.com/UAqcj4Z.png" group-title="PANAMÁ 🇵🇦",ANTV
