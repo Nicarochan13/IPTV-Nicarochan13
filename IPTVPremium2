@@ -2016,6 +2016,8 @@ https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", Super Tokyo Radio
 https://streamer.radio.co/s83eb8ff39/listen
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", Tokyo FM 88.0 FM
+http://tokyofmworld.leanstream.co/JOAUFM-MP3
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EcrBmf5qEr.jpg" group-title="RADIO 📻", BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", Radio Reloj (Cuba)
@@ -2735,7 +2737,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/i
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="ANIMACIÓN E INFANTILES 🎁",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://i.imgur.com/rabKj9i.png" group-title="ANIMACIÓN E INFANTILES 🎁",Boing (720p)
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://i.imgur.com/rabKj9i.png" group-title="ANIMACIÓN E INFANTILES 🎁",Boing 
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="ANIMACIÓN E INFANTILES 🎁",Rai Yoyo
 http://188.60.179.180:8000/play/xxRaiYoyo
