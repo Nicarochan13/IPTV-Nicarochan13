@@ -1415,7 +1415,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="FRANCIA 🇫🇷",LE FIGARO IDF
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="FRANCIA 🇫🇷",M6 
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/langfr-440px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="FRANCIA 🇫🇷",Public Senat
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/PublicSenat.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="FRANCIA 🇫🇷",RTL
@@ -2585,6 +2585,8 @@ https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/t
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="NOTICIAS 🌐",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="NOTICIAS 🌐",Euronews Español 
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/e/26034/euronews-es.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="INTERNACIONAL 📡",TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
@@ -2653,7 +2655,7 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ (Geoblock)
-https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8
+https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="ANIMACIÓN E INFANTILES 🎁",DreikoTv
 https://cloudvideo.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMACIÓN E INFANTILES 🎁", Yamato Animation
@@ -2705,7 +2707,7 @@ http://51.81.185.2/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",DreamWorksTV Français 
 https://ythls.onrender.com/channel/UCEXUo0sBf0_w8rnckXuBcFA.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="ANIMACIÓN E INFANTILES 🎁",Gulli 
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://i.imgur.com/34Vcc7u.png" group-title="ANIMACIÓN E INFANTILES 🎁",Gulli Bil Arabi
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="ANIMACIÓN E INFANTILES 🎁",GikTVMx 
@@ -2725,7 +2727,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
 #EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title="ANIMACIÓN E INFANTILES 🎁",POP Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="NickelodeonFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon France
+#EXTINF:-1 tvg-id="NickelodeonFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Nickelodeon France
 https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
@@ -2743,6 +2745,8 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 http://188.60.179.180:8000/play/xxRaiYoyo
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime TV 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="ANIMACIÓN E INFANTILES 🎁",TiVi5 Monde (Geoblock)
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CULTURA Y CIENCIA 📕",Cultura 24
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -2979,7 +2983,7 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IGNItaly.it" tvg-logo="https://i.imgur.com/a1wIzng.png" group-title="CINE Y ENTRETENIMIENTO 🎬",IGN 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="Entertaiment", LIM TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="CINE Y ENTRETENIMIENTO 🎬", LIM TV
 https://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CINE Y ENTRETENIMIENTO 🎬",SEO TV 1
 https://live.seo.tv.bo/live/1SEO.m3u8
@@ -3019,6 +3023,7 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wapp.cl" tvg-logo="https://i.imgur.com/Bv1yJ1d.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Wapp 
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="RELIGIÓN ⛪", Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN el Canal Católico
@@ -3067,6 +3072,8 @@ https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIÓN ⛪", Padre Pio TV 
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIÓN ⛪", TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 group-title="USA Premium 🇺🇸", ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -3439,42 +3446,46 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="ADULTOS 🔞", TV Online
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLEFDcv.png" group-title="ADULTOS 🔞", Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULTOS 🔞", PlayboyX Tv
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Latina
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", HOT
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Dusk
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic MILF
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Juice
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="ADULTOS 🔞", SEXTATION
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Teen
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", You Porn
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Pov
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", PenthouseX
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="ADULTOS 🔞", Sextreme
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Fetish
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="ADULTOS 🔞", BRAZZERS
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="ADULTOS 🔞", HustlerXXX
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="ADULTOS 🔞", PrivateX
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="ADULTOS 🔞", RedTraffic Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="ADULTOS 🔞", RedlightX
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Redtraffic Russian
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="ADULTOS 🔞", VENUS
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Redtraffic Interracial
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="ADULTOS 🔞", Live Cams
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Redtraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Redtraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Redtraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", Redtraffic POV
+http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-id="917" tvg-name="Russian" tvg-logo="https://www.m3u.cl/logo/917_Russian.png" group-title="ADULTOS 🔞", Russian
-http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-id="918" tvg-name="Pornstar" tvg-logo="https://www.m3u.cl/logo/918_Pornstar.png" group-title="ADULTOS 🔞", Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="919" tvg-name="MILF" tvg-logo="https://www.m3u.cl/logo/919_MILF.png" group-title="ADULTOS 🔞", MILF
@@ -3490,25 +3501,25 @@ http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="930" tvg-name="Big Dick" tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png" group-title="ADULTOS 🔞", Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="931" tvg-name="Big Ass" tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png" group-title="ADULTOS 🔞", Big Ass
-http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-id="932" tvg-name="Anal" tvg-logo="https://www.m3u.cl/logo/932_Anal.png" group-title="ADULTOS 🔞", Anal
 http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="933" tvg-name="Teen" tvg-logo="https://www.m3u.cl/logo/933_Teen.png" group-title="ADULTOS 🔞", Teen
-http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="934" tvg-name="Latina" tvg-logo="https://www.m3u.cl/logo/934_Latina.png" group-title="ADULTOS 🔞", Latina
-http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-1 tvg-id="935" tvg-name="Blonde" tvg-logo="https://www.m3u.cl/logo/935_Blonde.png" group-title="ADULTOS 🔞", Blonde 
-http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-id="936" tvg-name="Brunette" tvg-logo="https://www.m3u.cl/logo/936_Brunette.png" group-title="ADULTOS 🔞", Brunette
-http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="937" tvg-name="Interracial" tvg-logo="https://www.m3u.cl/logo/937_Interracial.png" group-title="ADULTOS 🔞", Interracial
-http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-id="938" tvg-name="POV" tvg-logo="https://www.m3u.cl/logo/938_POV.png" group-title="ADULTOS 🔞", POV 
-http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-id="939" tvg-name="Blowjob" tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png" group-title="ADULTOS 🔞", Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-id="940" tvg-name="Threesome" tvg-logo="https://www.m3u.cl/logo/940_Threesome.png" group-title="ADULTOS 🔞", Threesome
-http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="941" tvg-name="Rough" tvg-logo="https://www.m3u.cl/logo/941_Rough.png" group-title="ADULTOS 🔞", Rough
 http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="942" tvg-name="Gangbang" tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png" group-title="ADULTOS 🔞", Gangbang 
@@ -3516,11 +3527,9 @@ http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="943" tvg-name="Live Cams" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png" group-title="ADULTOS 🔞", Live Cams
 http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="944" tvg-name="Cuckold" tvg-logo="https://www.m3u.cl/logo/944_Cuckold.png" group-title="ADULTOS 🔞", Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1 tvg-id="945" tvg-name="Lesbian" tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="ADULTOS 🔞", Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://127.0.0.1" group-title="ADULTOS 🔞", Videos
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULTOS 🔞", teen anal invasion sex
 https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
 #EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="ADULTOS 🔞", Redhead teen ass fuck
