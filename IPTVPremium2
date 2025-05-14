@@ -982,7 +982,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO 🇲🇽",Azteca Uno (Geoblock)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="MEXICO 🇲🇽",Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+http://45.68.35.218:4001/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="MEXICO 🇲🇽",Canal 6 CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-logo="https://i.imgur.com/GWk6lTX.png" group-title="MEXICO 🇲🇽",Canal 12
@@ -2662,6 +2662,8 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="NOTICIAS 🌐",Euronews Español 
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/e/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-id="UnivisionNoticias.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="NOTICIAS 🌐",Univisión Noticias 24/7
+https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="INTERNACIONAL 📡",TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
@@ -2731,7 +2733,7 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ (Geoblock)
+#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ 
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="ANIMACIÓN E INFANTILES 🎁",DreikoTv
 https://cloudvideo.servers10.com:8081/8242/index.m3u8
@@ -2864,6 +2866,8 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="CULTURA Y CIENCIA 📕" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",English Club TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="ILCE.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="CULTURA Y CIENCIA 📕",ILCE
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="DEPORTES ⚽️",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -3200,7 +3204,7 @@ https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-logo="https://i.imgur.com/3dPE3aw.png" group-title="RELIGIÓN ⛪", Loveworld TV 
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIÓN ⛪", Maria Vision 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIÓN ⛪", Maria Vision Italia
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIÓN ⛪", Padre Pio TV 
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
@@ -3312,11 +3316,11 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY SCIENCE
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY CHANNEL
-http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+http://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", DIY
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", E!
@@ -3342,7 +3346,7 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FOOD NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FOX EAST
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FOX BUSSINESS NET
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FOX NEWS CHANNEL
@@ -3356,15 +3360,15 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FREE FORM
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FUSE
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FX
-http://fl2.moveonjoy.com/FX/index.m3u8
+http://fl5.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FX MOVIE
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", FYI
 http://fl5.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", GAME SHOW NET
@@ -3414,7 +3418,7 @@ http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", LMAV TV
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", ME TV
-http://fl2.moveonjoy.com/ME_TV/index.m3u8
+http://fl3.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", MILITARY HISTORY
 http://fl3.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", MLB NETWORK
@@ -3442,7 +3446,7 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", NBC EAST
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", NBC SPORT NET
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", NEWS NATION
@@ -3478,7 +3482,7 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", PAC 12 [STOPPED BROADCASTING]
 http://fl3.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", PARAMOUNT NETWORK
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", POP TV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", PURSUIT CHANNEL
@@ -3528,7 +3532,7 @@ http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", SUNDANCE
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", SYFY
-http://fl5.moveonjoy.com/SYFY/index.m3u8
+http://fl3.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", TCM
@@ -3556,7 +3560,7 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", TV LAND
-http://fl2.moveonjoy.com/TV_Land/index.m3u8
+http://fl3.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", TV ONE
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", TVG
@@ -3564,9 +3568,9 @@ http://fl2.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", USA NETWORK
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
+http://fl3.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", VH1 
-http://fl2.moveonjoy.com/VH1/index.m3u8
+http://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", VICELAND
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", WE TV
