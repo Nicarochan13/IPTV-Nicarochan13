@@ -819,8 +819,10 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="BOLIVIA 🇧🇴","Bolivisión 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="BOLIVIA 🇧🇴","Cadena A (720p)
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="BOLIVIA 🇧🇴","Cadena A 
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="F10HD.bo" tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="BOLIVIA 🇧🇴",F10 HD 
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Megavision.bo" tvg-logo="https://i.imgur.com/IAQXCak.png" group-title="BOLIVIA 🇧🇴","Megavisión 
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
 #EXTINF:-1 tvg-id="NeoTV.bo" tvg-logo="https://i.imgur.com/E5diHnn.png" group-title="BOLIVIA 🇧🇴","Neo TV 
@@ -2440,7 +2442,7 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="MUSICALES 🎼",Dance FM 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://neotv.cl/assets/img/channels/eg-radio-2.png" group-title="MUSICALES 🎼",EnerGeek Radio
-https://xui-backend.energeek.cl/live/11/playlist.m3u8
+https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="MUSICALES 🎼",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LatinosRadio.cl" tvg-logo="https://i.imgur.com/u6nkxrx.png" group-title="MUSICALES 🎼",Latinos Radio
@@ -2857,7 +2859,7 @@ https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="ANIMACIÓN E INFANTILES 🎁",Kanade
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="ANIMACIÓN E INFANTILES 🎁",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",MAX Anime
@@ -2877,11 +2879,11 @@ https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFan.cl" tvg-logo="https://neotv.cl/assets/img/channels/eg-fan-2.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Fan
-https://xui-backend.energeek.cl/live/10/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://neotv.cl/assets/img/channels/energeek-c1.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Retro
-https://xui-backend.energeek.cl/live/9/playlist.m3u8
+https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
 #EXTINF:-1 tvg-id="EnerGeekPop.cl" tvg-logo="https://neotv.cl/assets/img/channels/eg-pop.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Pop
-https://xui-backend.energeek.cl/live/22/playlist.m3u8
+https://xui-backend.energeek.cl/live/22/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://neotv.cl/assets/img/channels/energeek-c1.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Retro
+https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ 
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="ANIMACIÓN E INFANTILES 🎁",DreikoTv
