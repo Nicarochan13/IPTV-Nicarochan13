@@ -2575,6 +2575,12 @@ http://178.170.47.109/MTVHITS/index.m3u8
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/radio-carolina.png" group-title="MUSICALES 🎼" tvg-id="RadioCarolina" tvg-name="Radio Carolina", Radio Carolina
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="IHeart90s.us" tvg-logo="https://i.imgur.com/Vo09eBa.png" group-title="MUSICALES 🎼",iHeartRadio 90s
+https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-logo="https://i.imgur.com/UdMsgkt.png" group-title="MUSICALES 🎼",La Mega Mundial
+https://server40.servistreaming.com:3477/stream/play.m3u8
+#EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" tvg-logo="https://iili.io/JysD2a4.png" group-title="MUSICALES 🎼",La Que Buena Atlanta
+https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-logo="https://i.imgur.com/Y7E5OTy.png" group-title="NOTICIAS 🌐",Radio y Televisión Martí 
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
@@ -2857,6 +2863,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png", group-title="INTERNACIONAL 📡",13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1685" tvg-name="VOATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg", group-title="INTERNACIONAL 📡",VOA Voice of America
+https://streams2.sofast.tv/voa-eng/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="ANIMACIÓN E INFANTILES 🎁",Kanade
 https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
@@ -3011,6 +3019,8 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-id="BeanoTV.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png" group-title="ANIMACIÓN E INFANTILES 🎁",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.us" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CULTURA Y CIENCIA 📕",Cultura 24
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -3125,6 +3135,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NittereGPlus.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1652px-Nittele_G%2B_logo.svg.png" group-title="DEPORTES ⚽️",Nittere G+
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES ⚽️",beIN SPORTS XTRA
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DEPORTES ⚽️",BeIN SPORTS XTRA en Espanol 
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="DEPORTES ⚽️",Fox Deportes
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -3305,6 +3321,8 @@ https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="SamuelGoldwynClassics.us" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Samuel Goldwyn Classics 
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamuelGoldwynFilms.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Samuel_Goldwyn_Films_logo.svg" group-title="CINE Y ENTRETENIMIENTO 🎬",Samuel Goldwyn Films
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="CINE Y ENTRETENIMIENTO 🎬",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Fashion TV 
@@ -3339,6 +3357,16 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/mascine-2.jpg" group-title="CINE Y ENTRETENIMIENTO 🎬" tvg-id="MasCine" tvg-name="+ Cine", + Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="70sCinema.us" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="CINE Y ENTRETENIMIENTO 🎬",70s Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+#EXTINF:-1 tvg-id="80sRewind.us" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="CINE Y ENTRETENIMIENTO 🎬",80s Rewind
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
+#EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="CINE Y ENTRETENIMIENTO 🎬",90s Throwback
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="CINE Y ENTRETENIMIENTO 🎬",247 Retro TV 
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="RELIGIÓN ⛪", Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
