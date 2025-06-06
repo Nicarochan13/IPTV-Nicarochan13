@@ -1979,7 +1979,7 @@ https://alba-ni-nicaradios-lite.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/amgybJM7u7.png" group-title="RADIO 📻", La Nueva Radio Ya
 https://stream-141.zeno.fm/axr92qawesmtv?zs=vXt8TXy4QWGyp0SVvwvj-w
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JVf3FrARwB.jpg" group-title="RADIO 📻", Radio Corporación
-https://api.instant.audio/data/streams/20/corporacion
+https://stream-145.zeno.fm/gwkd66k0a7duv?zs=WmeZb7goR9SwOKO3Y3_g_Q
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KArdnuqZLu.png" group-title="RADIO 📻", Radio La Tuani
 https://cootv.cootel.com.ni:8095/Radio_LaTuani/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-02/radio_catolica_de_nicaragua.png.webp?itok=uJ0JkxV0" group-title="RADIO 📻", Radio Católica de Nicaragua
@@ -2356,6 +2356,8 @@ https://live.radioradicale.it/live.mp3
 https://dreamsiteradiocp5.com/proxy/rmitalia
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", Radio Vaticana (Italia)
 https://radio.vaticannews.va/stream-it
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", EWTN-Radio Católica Mundial
+https://onlineradiobox.com/us/ewtnglobalcatholicnetwork/?lang=es
 
 #EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="MUSICALES 🎼",Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
