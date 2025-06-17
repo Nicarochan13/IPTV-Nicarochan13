@@ -2418,7 +2418,7 @@ https://radio.vaticannews.va/stream-it
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", EWTN-Radio Católica Mundial
 https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/chunks.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO 📻", Tres Patines Radio
-https://api.instant.audio/data/playlist/12/trespatines
+https://api.instant.audio/data/playlist/12/trespatines.mp3
 
 #EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="MUSICALES 🎼",Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
@@ -2965,7 +2965,7 @@ https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek202
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ 
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="ANIMACIÓN E INFANTILES 🎁",DreikoTv
-https://cloudvideo.servers10.com:8081/8242/index.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMACIÓN E INFANTILES 🎁", Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="ANIMACIÓN E INFANTILES 🎁", Latino Kids TV
@@ -3093,6 +3093,10 @@ https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.us" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel (Japón)
+http://vthanh.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Network (Japón)
+http://vthanh.utako.moe/cartoon_network/index.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CULTURA Y CIENCIA 📕",Cultura 24
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -3316,7 +3320,9 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Vorterix
-https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 #EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Xtrema Series
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Real Stories
@@ -4095,8 +4101,8 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://www.lyngsat.com/logo/tv/pp/pigoo-jp.png" group-title="ADULTOS 🔞", Pigoo TV
-http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png" group-title="ADULTOS 🔞", Pigoo TV
+http://vthanh.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLEFDcv.png" group-title="ADULTOS 🔞", Jasmin TV
