@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
@@ -633,9 +633,9 @@ http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png" group-title="CHILE 🇨🇱", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-logo="https://i.imgur.com/AjZjqgo.png" group-title="CHILE 🇨🇱",UCV TV 
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="UCV3TV.cl" tvg-logo="https://i.imgur.com/PYKWn3O.png" group-title="CHILE 🇨🇱",UCV TV Eventos
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UESTV.cl" tvg-logo="https://i.imgur.com/tAyiNZV.png" group-title="CHILE 🇨🇱",UESTV
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="UMAGTV2.cl" tvg-logo="https://i.imgur.com/ZWWAnsP.png" group-title="CHILE 🇨🇱",UMAGTV 2
@@ -1196,8 +1196,8 @@ http://sevensp.homelinux.com/live/index.m3u8
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Amé 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Antena 7 
-https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Antena 7 (Geoblock)
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Canal 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25.do" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Canal 25
@@ -1205,45 +1205,47 @@ https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCatorce.do" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Canal Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id="CDN.do" tvg-logo="https://i.imgur.com/Kg7teMC.png" group-title="REPUBLICA DOMINICANA 🇩🇴",CDN
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="REPUBLICA DOMINICANA 🇩🇴",Color Visión
-http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f.m3u8
+https://ds.tvabierta.net/memfs/eb78f429-c05e-4c37-b8c1-18713f6af9ba_output_0.m3u8?session=XnzXXA9CvKVMgqK2nbfqC5
 #EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="REPUBLICA DOMINICANA 🇩🇴",ConstanzaTV
-https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/ctv8hd/index.m3u8
 #EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="REPUBLICA DOMINICANA 🇩🇴",CromTV
-https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Digital 15
-http://51.81.93.29:8084/hls/d15.m3u8
+https://ds.tvabierta.net/memfs/82427373-dadd-4f9d-8563-14d989e8c0c8_output_0.m3u8?session=R7bGLBMPvEpe3GEEin3BVq
 #EXTINF:-1 tvg-id="entelevision.do" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Entelevisión
-https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fYKSDz-PxBw/YHxok1SieII/AAAAAAABBqg/TCLc8SlcxUsI3Jo2uJr0AS4ZppuDIqligCK8BGAsYHg/s512/2021-04-18.png" group-title="REPUBLICA DOMINICANA 🇩🇴", FM Metropolitana 100.5 MHZ
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Nexxo TV 
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-id="NitidaTV.do" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Nítida TV
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="REPUBLICA DOMINICANA 🇩🇴",San Isidro TV (360p) 
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="REPUBLICA DOMINICANA 🇩🇴",San Isidro TV 
+https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
 #EXTINF:-1 tvg-id="SiTV.do" tvg-logo="https://i.imgur.com/f8bDccF.png" group-title="REPUBLICA DOMINICANA 🇩🇴",SiTV
-http://190.122.104.221/Player/sitv.m3u8
+https://ds.tvabierta.net/memfs/1b6c0e30-f77f-4ece-acd0-d5a78ba794e7_output_0.m3u8?session=XwQyRyJaTYymMupHDAEKLF
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Tele Antillas
-https://tunzilla.com/http://51.81.93.29:8084/hls/tantillas.m3u8
+https://ds.tvabierta.net/memfs/9fe21fdc-a270-425e-acf4-e34eaea644a4_output_0.m3u8?session=bCZB5ZyNEQ2gsFkDSGfZ9x
 #EXTINF:-1 tvg-id="TeleOriental.do" tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Tele Oriental
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mLk3w8rRy2E/XzgcBFkX40I/AAAAAAAA4VE/Woxy8sdQnTcUkC2ZBbv_6pBvjL6oY2xzACK8BGAsYHg/s0/2020-08-15.jpg" group-title="REPUBLICA DOMINICANA 🇩🇴", Telecanal 12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+#EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Telecanal 28
+https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 #EXTINF:-1 tvg-id="TeleCaribe.do" tvg-logo="https://i.imgur.com/zDL8mGu.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Tele Caribe
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR=
 #EXTINF:-1 tvg-id="TeleOriental.do" tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Tele Oriental 
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Telecentro
-http://51.81.93.239:8084/hls/telecentro.m3u8
+https://ds.tvabierta.net/memfs/278304e6-dc2b-4ebd-a6c0-9b23d08a72f4_output_0.m3u8?session=8z5GX4XSBmjJX2aSwnqP3G
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="REPUBLICA DOMINICANA 🇩🇴",TeleCibao 
-http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+ttps://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Telemicro 
-http://51.81.93.239:8084/hls/tmicro.m3u8
+https://ds.tvabierta.net/memfs/f74d5027-040c-4374-8905-2edfbca29552_output_0.m3u8?session=ky7m27J7JoM7jLpEQvN7m4
 #EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Telesantodomingo
-https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
+https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Telesistema
 https://tunzilla.com/http://51.81.106.157:8084/hls/tsistemas.m3u8
 #EXTINF:-1 tvg-id="Teleuniverso.do" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Teleuniverso
@@ -2706,8 +2708,8 @@ https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 http://38.41.8.1:8000/play/a03u
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="NOTICIAS 🌐",VPItv 
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="NOTICIAS 🌐",Antena 21 
-https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="NOTICIAS 🌐",Antena 21 (Geoblock)
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="RNN.do" tvg-logo="https://i.imgur.com/dkslhPa.png" group-title="NOTICIAS 🌐",RNN 
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS 🌐",Cablenoticias 
@@ -2996,6 +2998,10 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="ANIMACIÓN E INFANTILES 🎁",TVG Infantil 
 https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGMocinos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="ANIMACIÓN E INFANTILES 🎁",TVG Mociñ@s 
+https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGPequerrechos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="ANIMACIÓN E INFANTILES 🎁",TVG Pequerrech@s
+https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="13Kids.cl" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="ANIMACIÓN E INFANTILES 🎁",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="ANIMACIÓN E INFANTILES 🎁",NTV
@@ -3091,6 +3097,8 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="ANIMACIÓN E INFANTILES 🎁",Boing (España)
 http://185.189.225.150:85/boing/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="ANIMACIÓN E INFANTILES 🎁",Nickelodeon (España)
+http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.us" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel (Japón)
@@ -3237,7 +3245,7 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Sony Movies (Sony Movie Channel)
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="CINE Y ENTRETENIMIENTO 🎬",Cinevision Canal 19
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Xtrema Cine Acción
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Xtrema Cine Asia 
@@ -3445,8 +3453,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="CINE Y ENTRETENIMIENTO 🎬",90s Throwback
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
-#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="CINE Y ENTRETENIMIENTO 🎬",247 Retro TV 
+#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="CINE Y ENTRETENIMIENTO 🎬",24/7 Retro TV 
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",AMC (España)
+http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Factoria de Ficcion
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Paramount Network (España)
+http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="RELIGIÓN ⛪", Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -4100,6 +4114,176 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", A&EHD
+http://181.78.27.128:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", COMEDY CENTRAL
+http://181.78.27.128:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CANAL 26
+http://181.78.27.128:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", C9N 61W
+http://181.78.27.128:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", AXN HD
+http://181.78.27.128:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", Abc Tv
+http://181.78.27.128:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", ANIMAL PLANET
+http://181.78.27.128:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", C9n
+http://181.78.27.128:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CINECANAL HD
+http://181.78.27.128:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CINEMAX HD
+http://181.78.27.128:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CLARO SPORT
+http://181.78.27.128:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CANAL DE LAS ESTRELLAS
+http://181.78.27.128:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CNN ESPAÑOL 61W
+http://181.78.27.128:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CN23
+http://181.78.27.128:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", EL NUEVE ARG HD
+http://181.78.27.128:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISCOVERY WORD
+http://181.78.27.128:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISCOVERY TURBO
+http://181.78.27.128:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", HISTORY CHANNEL HD
+http://181.78.27.128:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", AMERICA TV
+http://181.78.27.128:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", C5N ARG
+http://181.78.27.128:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISNEY JUNIOR
+http://181.78.27.128:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISCOVERY H&H HD
+http://181.78.27.128:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISCOVERY THEATER
+http://181.78.27.128:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", GEN PY
+http://181.78.27.128:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISCOVERY CHANNEL HD
+http://181.78.27.128:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", Deporte Py+
+http://181.78.27.128:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CRONICA TV
+http://181.78.27.128:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", EL GOURMET
+http://181.78.27.128:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", El Trece Arg
+http://181.78.27.128:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISCOVERY KIDS
+http://181.78.27.128:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", EL TRECE ARG HD
+http://181.78.27.128:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", DISNEY CHANNEL HD
+http://181.78.27.128:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", LA NACION
+http://181.78.27.128:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", CARTOON NETWORT HD
+http://181.78.27.128:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", ENCUENTRO HD
+http://181.78.27.128:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", Canal AlbNET
+http://181.78.27.128:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", FOX SPORT 2 HD
+http://181.78.27.128:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", FOX SPORT HD
+http://181.78.27.128:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", NICK JUNIOR
+http://181.78.27.128:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", NPY IPTV
+http://181.78.27.128:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", NICKELODEON
+http://181.78.27.128:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", PAKA PAKA
+http://181.78.27.128:8000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", MTV
+http://181.78.27.128:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", IP
+http://181.78.27.128:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", FX HD
+http://181.78.27.128:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", ID DISCOVERY
+http://181.78.27.128:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", LA TELE PY
+http://181.78.27.128:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", Cartoonito HD
+http://181.78.27.128:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", HTV
+http://181.78.27.128:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", PARAGUAY TV
+http://181.78.27.128:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", LAPACHO TV
+http://181.78.27.128:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", NAT GEO HD
+http://181.78.27.128:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", SNT
+http://181.78.27.128:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", PARAMOUNT HD
+http://181.78.27.128:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", SONY HD
+http://181.78.27.128:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", STAR CHANNEL HD
+http://181.78.27.128:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", POPU TV
+http://181.78.27.128:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", FOX SPORT 3 HD
+http://181.78.27.128:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", PARAVISION
+http://181.78.27.128:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", SONY MOVIES HD
+http://181.78.27.128:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", RCN NOVELAS
+http://181.78.27.128:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", UNICANAL  PY
+http://181.78.27.128:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", PASIONES HD
+http://181.78.27.128:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TLNOVELAS
+http://181.78.27.128:8000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", UNIVERSAL HD
+http://181.78.27.128:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", SUR TV
+http://181.78.27.128:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TeleSUR
+http://181.78.27.128:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", Telefe Arg
+http://181.78.27.128:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", SPACE HD
+http://181.78.27.128:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TNT HD
+http://181.78.27.128:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TYC SPORT HD
+http://181.78.27.128:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TELEFE HD
+http://181.78.27.128:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TLC
+http://181.78.27.128:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", Telefuturo IPTV
+http://181.78.27.128:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TELEMUNDO
+http://181.78.27.128:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TNT SERIES
+http://181.78.27.128:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TRECE PY
+http://181.78.27.128:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", ROCK AND POP PY
+http://181.78.27.128:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TV PUBLICA HD
+http://181.78.27.128:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", WARNER HD
+http://181.78.27.128:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TV PUBLICA CH
+http://181.78.27.128:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TV CAMARA
+http://181.78.27.128:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", SNT
+http://181.78.27.128:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TN HD
+http://181.78.27.128:8000/play/a03v/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png" group-title="ADULTOS 🔞", Pigoo TV
 http://vthanh.utako.moe/pigoo/index.m3u8
