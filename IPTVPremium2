@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
-https://live-b.cf.dmcdn.net/sec2(ueE0LMzT3CEyhxmg8tpaIayB3uw1-n-SlpUfUAQZa8mkKXewTWcego4rIwKVz7H2zTFppFkAGkO4b0KLrW1aG1psmz3o3A7ePgQXsfAXyLHvZYPwbnmDgxfYqnrGt9KZ)/dm/3/x7rwv8c/s/live-240.m3u8
-#EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://canal6.com.ni/wp-content/uploads/2023/07/logo-blanco-ch6.png" group-title="NICARAGUA 🇳🇮",Canal 6
-https://live-b.cf.dmcdn.net/sec2(Mybj8IdHfKgG0sz-RMLPEQwTQUFQc_PnL9pfsz65QtfN_Cf6yspuYLoEzaa41C-uap_EfdLl0rjnDlIQZrHIAIsE_Pu3IM0gJQegiQx0AQ87out9I9wC7CBUrFSrX7BV)/dm/3/x96x78e/s/live-240.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(QkEFUggNHoc8_pTO76H7uvXuVsBvCkyCNN7e_llf2NmysPLzVt7KPN5rjrYR_oc5s8nglLsZwqf1NzRUI1568b2WyaOUjr1lPnVcQnj3HBuQWW1h-NRY-rT422bSyjmz)/dm/3/x7rwv8c/s/live-240.m3u8
+#EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://logos.fandom.com/es/wiki/Archivo:Canal_6_Nicaragua_2017.png" group-title="NICARAGUA 🇳🇮",Canal 6
+https://live.eu-north-1b.cf.dmcdn.net/sec2(LHSTyTsXqQIhxXV9VVE06z7KH721fJL0tFCOhQn8PZi9yWoe8EahVHbKcM_YKPKTNPH5v35HnU16elNKpZakHDA_qd7hsIUc-sB0g7caXsnTO39cxY5BfQi0_st-CCTR)/dm/3/x96x78e/s/live-240.m3u8
 #EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://i.imgur.com/iSpZ2Ng.png" group-title="NICARAGUA 🇳🇮",Telenica Canal 8 
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
 #EXTINF:-1 tvg-id="Canal9.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="NICARAGUA 🇳🇮",Canal 9
@@ -40,8 +40,6 @@ https://hdbox.chunklistv.com/live?stream=tvone
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROnrZCI5VnoF_aU_h4znfefMJCbBFaq93S_hMR=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
 https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
-#EXTINF:-1 tvg-id="LaNuevaRadioYa.ni" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/amgybJM7u7.png" group-title="NICARAGUA 🇳🇮", La Nueva Radio Ya (Prueba)
-https://www.dailymotion.com/video/x84atcq
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="COSTA RICA 🇨🇷",¡OPA! 
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="COSTA RICA 🇨🇷",Anexión TV Canal 36 
