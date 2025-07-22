@@ -1946,6 +1946,8 @@ https://vthanh.utako.moe/bs10/index.m3u8
 http://vthanh.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png" group-title="JAPON 🇯🇵",BS11
 http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="BS12.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
+https://vthanh.utako.moe/bs12/index.m3u8
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg" group-title="JAPON 🇯🇵",BS Asahi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png" group-title="JAPON 🇯🇵",BS Fuji
@@ -1958,6 +1960,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="JAPON 🇯🇵",Fuji TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVONE.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
+https://vthanh.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVTWO.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+https://vthanh.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+https://vthanh.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 tvg-id="MBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JAPON 🇯🇵", MBS
 http://luong.utako.moe/mbs/index.m3u8
 #EXTINF:-1 tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="JAPON 🇯🇵", Mondo TV
@@ -1972,6 +1980,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="JAPON 🇯🇵",Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
+https://vthanh.utako.moe/suntv/index.m3u8
 #EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPON 🇯🇵",TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id=tbsch1".jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png" group-title="JAPON 🇯🇵",TBS Channel 1
@@ -2507,7 +2517,7 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="MUSICALES 🎼",Dance FM 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://neotv.cl/assets/img/channels/eg-radio-2.png" group-title="MUSICALES 🎼",EnerGeek Radio
-https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="MUSICALES 🎼",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LatinosRadio.cl" tvg-logo="https://i.imgur.com/u6nkxrx.png" group-title="MUSICALES 🎼",Latinos Radio
@@ -2943,7 +2953,7 @@ https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 https://streams2.sofast.tv/voa-eng/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="ANIMACIÓN E INFANTILES 🎁",Kanade
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="ANIMACIÓN E INFANTILES 🎁",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",MAX Anime
@@ -2963,11 +2973,11 @@ https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFan.cl" tvg-logo="https://neotv.cl/assets/img/channels/eg-fan-2.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Fan
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="EnerGeekPop.cl" tvg-logo="https://neotv.cl/assets/img/channels/eg-pop.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Pop
 https://xui-backend.energeek.cl/live/22/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://neotv.cl/assets/img/channels/energeek-c1.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Retro
-https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ 
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="ANIMACIÓN E INFANTILES 🎁",DreikoTv
@@ -3746,8 +3756,6 @@ https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RAKUTEN 📺",Rakuten TV Shows Italy
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-
-
 #EXTINF:-1 group-title="USA Premium 🇺🇸", ABC EAST
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="USA Premium 🇺🇸", ACC NETWORK
@@ -4286,463 +4294,4 @@ http://181.78.27.128:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="CABLE 📡", TN HD
 http://181.78.27.128:8000/play/a03v/index.m3u8
 
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", 2 Broke Girls
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94845
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", 2 Perros Tontos
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102880
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", 24 (Serie de TV)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95593
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", 9-1-1 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94915
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", ALF 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96690
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", American Dad 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94874
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Ataque a los titanes 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94884
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Atrapada en el medio 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95640
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Batman (1966)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101815
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Batman del futuro (1999)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101816
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Batman El Enmascarado (2024)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101817
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Batman: La Serie Animada (1992)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101818
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Better Call Saul
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94916
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", BeyBlade 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94886
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Bob Esponja
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95041
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Bobo y Tonto 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102884
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Breaking Bad 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94920
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Brooklyn Nine-Nine 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94848
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Buena Suerte Charlie 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95638
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Buffy, cazavampiros
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96693
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", CatDog 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94989
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Chespirito 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94990
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Clan del Oso Yogui 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110035
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Club de Cuervos 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94849
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Cobra Kai
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94813
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Comedy Central Stand-Up 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95597
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Como conocí a tu madre
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94857
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Conejo Ricochet y Coyote Droop a Long 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105629
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Coraje el Perro Cobarde 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102885
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Criminal Minds
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95604
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", CSI Las Vegas 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94926
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", CSI Miami 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94924
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", CSI New York 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94925
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Death Note 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94889
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Demon Slayer: Kimetsu no Yaiba
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94890
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Dexter
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94927
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Digimon 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94891
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Don Gato Y Su Pandilla 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110032
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Doraemon 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94893
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Drake y Josh 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94991
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Drama Total 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102887
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Droopy Master Detective 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110040
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Ed Edd y Eddy 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102888
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Campamento de Lazlo
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102889
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Chapulin Colorado (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95639
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Chavo del Ocho HD (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94993
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Chavo del Ocho HQ (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94852
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Escuadron Diabolico (1969)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105631
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Escuadrón del tiempo (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102890
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Espectacular Hombre-Araña (2008)(e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101894
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Hombre-Araña: Sin Limites (1999)(e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101899
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Juego de las Llaves (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94853
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Laboratorio de Dexter (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102886
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Lagartijo de Ned (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102891
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Leon Melquiades (1961)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105633
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Mentalista (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94937
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El mundo oculto de Sabrina (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94823
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El nuevo show del Oso Yogi (1988)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105635
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Pajaro Loco y sus Amigos (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95013
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show de Huckleberry Hound
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110042
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show de los 70's 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96776
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show de los Looney Tunes (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95042
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show de Pebbles y Bamm-Bamm (1971)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105636
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show Del Pajaro Loco
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95014
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El show de Scooby-Doo y Scrappy-Doo (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95040
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El show de Tom y Jerry 1980 (e)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101814
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show del Oso Yogi 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110034
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Show del Oso Yogui (1961)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105634
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", El Super Agente 86 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96695
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Elite (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95605
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Erase una vez
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94836
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Falling Skies
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94815
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Fantasma del Espacio de Costa a Costa (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102908
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Fear the Walking Dead (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94825
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Fenomenoide (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102892
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Frankenstein Jr (1966)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105650
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Friends (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94854
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Full House (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94855
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Futurama (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94877
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Galaxy Goof-Ups (e)(720)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110044
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Game of Thrones (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94830
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Game of Thrones (e)(4K)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94940
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Gasparin y los angeles
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110045
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Gravity Falls (E)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95015
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Hannah Montana (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95641
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Harry Potter Opc2 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94206
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Hawaii 5.0 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94929
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", HBO Plus (M)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/85884
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", HBO Signature (M)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/85885
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Hechizada (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96691
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Homeland (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94930
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", iCarly (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95643
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Jimmy Neutron (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95016
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Johnny Bravo (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102894
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Jones El Robot (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102895
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Jujutsu Kaisen (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94902
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Kenan and Kel (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94999
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Kick Buttowski (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95017
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", KND Los Chicos Del Barrio (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95018
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Carrera Espacial de Yogi (e)(720)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110046
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Casa de Papel
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95606
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Casa del Dragon (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94834
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Familia Addams (1972)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105638
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La familia Ingalls (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96699
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La familia Monster (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96780
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La familia P. Luche (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94859
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Ley y el Orden (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94932
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Mascara: La serie animada (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102910
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Materia Oscura (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94833
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Pequena Lulu
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102897
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Tremenda Corte (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96698
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", La Vaca Y El Pollito (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102898
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las Aventuras de Batman y Robin el Chico Maravilla (1977)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101819
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las Aventuras de Billy y Mandy (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95022
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las aventuras de Silvestre y Piolin (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102899
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las aventuras de Timon y Pumba (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102588
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las chicas superpoderosas (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102911
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las macabras aventuras de Billy y Mandy (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102900
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las Nuevas Aventuras De Los Picapiedras (e)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110038
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las nuevas Aventuras de Scooby-Doo (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95035
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Las olimpiadas de la risa (1977)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105639
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Lindo pulgoso (1965)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105640
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Lobo Ralph y Perro Sam (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102586
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Loki (e)(4K)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94941
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Looney Tunes 
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102583
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Loopy De Loop (1959)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105641
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los 100 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94841
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los 4 Fantasticos (e)(SD)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110047
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los años maravillosos (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96782
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Caballeros del Zodiaco (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94912
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Chicos del Barrio
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102901
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los expedientes secretos X (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94843
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", los guardianes galacticos (e)(SD)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110048
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Hechiceros de Waverly Place (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95001
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los jovenes titanes (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102902
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los locos Addams
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96777
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Magníficos (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96778
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Padrinos Magicos
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95653
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Pequenos Picapiedras (e)(SD)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110050
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Picapiedras (e)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110033
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los piratas de las aguas negras (1991)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105642
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Sabados Secretos (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102903
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Simpson - 1al10 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94881
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Simpson - 11al20 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94882
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Simpson - 21al35 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94883
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Supersonicos (1962)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105643
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Thunderman (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95002
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Los Tres Chiflados (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96781
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Lost (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94816
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Malcolm in the Middle (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94860
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Manual de supervivencia escolar de Ned (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95003
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Marvels Spiderman (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101895
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Marvels Ultimate Spider-Man (2012)(e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101900
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Matrimonio con hijos
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94861
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Mi Bella Genio (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96696
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Motoraton y Autogato (1969)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105644
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Motormouse And Autocat (e)(SD)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110051
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Mucha Lucha (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102904
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", NCIS (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94933
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", NCIS Los Angeles (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94934
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚",  Oye Arnold
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95031
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Padre de Familia - 1al8 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94875
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Padre de Familia - 9al17 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94876
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Pecados Capitales (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94804
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Peliculas Cartoon Network (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102905
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Pepe Le Pew (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102585
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Pepe Potamo (1964)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105645
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Perdidos en el Espacio
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94835
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Policía de acero Jiban (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96697
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Prison Break (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94935
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Pulgarcito investigador privado (1973)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105646
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Pulpo Manotas (1965)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105647
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Ranma ½ (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95601
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Richy Ricon (e)(SD)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110052
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Rick and Morty (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94878
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚",  Rugrats (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95034
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Rugrats Crecidos (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95010
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Salvados por la campana (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96775
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Sam y Cat (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95005
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Samurai Jack (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102906
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Scooby-Doo Misterios S. A.
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95039
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Scooby-Doo y adivina quién?
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95037
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Sex and the City
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94864
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Showtime Beyond (M)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/86000
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", South Park - 1al12 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94879
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", South Park - 13al24 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94880
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Soy La Comadreja (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102907
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Spartacus (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94819
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Speedy Gonzales (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102587
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Spider Man Coleccion Peliculas (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101896
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Spider-Man (1981)(e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101898
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Spider-Man (1994)(e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101897
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Squid Game (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94820
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Star Trek: Discovery
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94838
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Starz Comedy (M)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/86007
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Starz East (M)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/86008
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Starz Edge (M)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/86009
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Stranger Things (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94839
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Supercampeones (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94888
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Batman (2004)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101820
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Big Bang Theory (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94867
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Fresh Prince of Bel Air (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94868
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Mandalorian (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94842
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Mandalorian (e)(4K)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94942
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Office (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94869
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Walking Dead
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94826
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Walking Dead 2
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94829
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Walking Dead Dead City (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94828
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", The Walking Dead World Beyond (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94827
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Tiro Loco (e)(SD)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110053
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Titan Sim-Bionico (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102909
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Tom Y Jerry (e)(1080)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101184
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Travesuras De Los Picapiedras (1980)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105649
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Two and a Half Men
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94870
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Un cachorro llamado Scooby Doo (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95036
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Un Show mas (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102912
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Una familia de diez (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94871
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Una Familia Moderna (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94862
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Universo Marvel (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94943
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Universo Marvel 2 (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94944
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Universo Star Wars (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94948
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Vecinos (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94872
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Victorious (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95647
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Yo Yogi (e)(HQ)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110036
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Yogui y la busqueda del tesoro (e)(HQ)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110037
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Young Sheldon (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95600
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Yu-Gi-Oh (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95603
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Zack y Cody: Gemelos a bordo (e)
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94997
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", Zoey 101
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95008
-#EXTINF:-1 tv="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SMPTE_Color_Bars.svg" group-title="CANALES 24/7⌚", ¡Scooby-Doo, dónde estás!
-http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95038
+
