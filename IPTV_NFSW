@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png" group-title="ADULTOS 🔞", Pigoo TV
-http://vthanh.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="ADULTOS 🔞" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo 
+https://ca01.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="ADULTOS 🔞" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise 
+https://ca01.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLEFDcv.png" group-title="ADULTOS 🔞", Jasmin TV
