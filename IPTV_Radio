@@ -31,7 +31,7 @@ https://stream-145.zeno.fm/gwkd66k0a7duv?zs=WmeZb7goR9SwOKO3Y3_g_Q
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KArdnuqZLu.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La Tuani
 https://cootv.cootel.com.ni:8095/Radio_LaTuani/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-02/radio_catolica_de_nicaragua.png.webp?itok=uJ0JkxV0" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Católica de Nicaragua
-http://198.27.68.65:8555/;stream.mp3
+http://centova12.instainternet.com:8555/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio María Nicaragua (Offline)
 https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LY3WagNHvZ.jpg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Sandino
@@ -88,8 +88,8 @@ https://stream-160.zeno.fm/5dtqds7hfrruv?zs=RNUg5WW3TQ2dTWUJtmabUA
 https://stream.zeno.fm/fu2rt0y0wc9uv
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Caló Rivas
 https://media-latam.com/8256/stream/1/
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La Máquina del Tiempo
-https://stream-172.zeno.fm/k81fzn6wt4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrODFmem42d3Q0enV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsImp0aSI6IkFQTFh6MWxTUS1tTTFfQ1VZU2ZMTUEiLCJpYXQiOjE3MTM0NTQ4OTQsImV4cCI6MTcxMzQ1NDk1NH0.c2VSNx-3unwJhGE6jaUyaYiWAJ0iGlJAVcqlzHRwmZQ&zttl=5&aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&acu-uid=843114827626&an-uid=7212581606906626288&mm-uid=764e6539-8377-4500-a8e1-337069679ccd&dot-uid=09b6220400b58be83056eb8b&triton-uid=cookie%3A257c764c-63a9-4a28-88d2-52b175a933ab&amb-uid=7010473253154131009&dbm-uid=CAESEDExSzHpgg4l6-IuGPwZY-M&cto-uid=f72b71f5-77a2-4069-bd34-aba070329779-65398373-5553&bsw-uid=e3cc2350-ada7-4f59-83b8-7c53a625696f&dyn-uid=5881499435079583851&ttd-uid=b70d2d36-60bb-426a-a3fb-4a86f473580a
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-01/la-maquina-del-tiempo-92.3fm-nicaragua.png.webp?itok=xE-eCaAy" group-title="RADIO_NICARAGUA🇳🇮 📻", La Máquina del Tiempo
+https://jm8n.com/8077/stream
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La F León
 https://stream-152.zeno.fm/hts41042schvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJodHM0MTA0MnNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsImp0aSI6IlVoaDdDZUpqUkUyaDJHalM3a28tSWciLCJpYXQiOjE3MTM0NTU4OTksImV4cCI6MTcxMzQ1NTk1OX0.GAGT-ukhsJvCeAViSCb0Eh5TNOGuuHcQadjLdYA-UrE&zttl=5&aw_0_req_lsid=4b13fde844f31ff0ada60257f32b1257&acu-uid=843114827626&an-uid=7212581606906626288&mm-uid=764e6539-8377-4500-a8e1-337069679ccd&dot-uid=09b6220400b58be83056eb8b&triton-uid=cookie%3A257c764c-63a9-4a28-88d2-52b175a933ab&amb-uid=7010473253154131009&dbm-uid=CAESEDExSzHpgg4l6-IuGPwZY-M&cto-uid=f72b71f5-77a2-4069-bd34-aba070329779-65398373-5553&bsw-uid=e3cc2350-ada7-4f59-83b8-7c53a625696f&dyn-uid=5881499435079583851&ttd-uid=b70d2d36-60bb-426a-a3fb-4a86f473580a
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Tiburón Granada
@@ -118,6 +118,46 @@ https://stream.zeno.fm/obwhycdkppsuv
 http://75.102.23.39:9974/;
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/medium/public/2023-10/la-costenisima.png?itok=MAv0cOaE" group-title="RADIO_NICARAGUA🇳🇮 📻", La Costeñisima Bluefields
 http://198.50.238.178:5042/proxy/costenisima?mp=/1
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-07/la-musikera-102.5-fm-nicaragua.png.webp?itok=Dai3sR2Z" group-title="RADIO_NICARAGUA🇳🇮 📻", La Musikera 102.5 FM
+https://rr5100.globalhost1.com/8226/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-12/radio-la-parrandera-nicaragua.png.webp?itok=vEjgidA2" group-title="RADIO_NICARAGUA🇳🇮 📻", La Parrandera Juigalpa
+https://stream.zeno.fm/nktgfm9hffpuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-06/megahit-97.7-fm-nicaragua.png.webp?itok=PTnjnomF" group-title="RADIO_NICARAGUA🇳🇮 📻", MegaHit Radio 97.7 FM
+https://stream.zeno.fm/s9309prbec9uv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-07/Radio%20Activa%2092.5-Nicaragua.png.webp?itok=xtHgEIo9" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Activa 92.5 FM
+https://stream.zeno.fm/ppcaafybfzmvv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/radio-amistad-92.5-Nicaragua.png.webp?itok=jJfNyAb_" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Amistad Somoto
+https://stream.zeno.fm/hdpdfzex4yzuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/Radio%252520Camoapa.png.webp?itok=y_GuRGtZ" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Camoapa 98.5 FM
+https://c30.radioboss.fm:18546/radiocamoapa
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-08/radio-catarina-nicaragua.png.webp?itok=oJIRoXzz" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Catarina 90.3 FM
+https://stream.zeno.fm/mdinbyckk9uuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-06/radio-catolica-de-siuna-nicaragua.png.webp?itok=GVcGWH81" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Católica de Siuna
+https://stream.zeno.fm/qk8ktz4ktuhvv
+#EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/2L-_YXmy2Jqadc6WKgKRGc93-wz5nbtuK17v-uiywGE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3c0TXJEekFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3drSkwwMUFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY1NTc3NjAwMA.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Católica Jesús del Rescate, Rivas
+https://stream.zeno.fm/vgshq6s1yp8uv?triton-uid=cookie%3A3aaefb75-c9e4-4bd1-98aa-c59a4ea7cf20
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-04/Radio%20Catolica%20Kerigma-Nicaragua.png.webp?itok=JC4qyef1" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Católica Kerigma
+https://stream.zeno.fm/yplyd3hcgfqtv
+#EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/1TKI1GA_cturGFqv9yU_uMF-1u7JFCqbDCgp-omnrMk/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREF6SmZfaVFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFF4Ny1aOVFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MjA3OTUyNzAwMA.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Stereo Dalia 
+https://stream.zeno.fm/2xn2trnv6k8uv?an-uid=3833663895097170441&dot-uid=0c1e22040066418797faff50&triton-uid=cookie%3A3aaefb75-c9e4-4bd1-98aa-c59a4ea7cf20&amb-uid=8350686483960616408&dyn-uid=6404335953256537576&ttd-uid=3600d7d0-32ff-499c-a7c3-9f3afb3ba01f&aw_0_req_lsid=ccc272784dcbad0009a48722dece4202
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-05/Radio%20Centro%2093.7%20Nicaragua.png.webp?itok=6UqIZtdb" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Centro Muy Muy
+https://stream.zeno.fm/56bq4b3ridtuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-06/radio-fabulosa-993-fm-Ocotal-Nicaragua.png.webp?itok=PNq3T7AD" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Fabulosa Ocotal
+https://r1.comcities.com/proxy/csvalglh/stream
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/family.png.webp?itok=mvr-N7iW" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Family Jinotega
+https://stream.pinedahost.com/radio/8050/;
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/Radio%252520Jinotega%252520102.1FM.png.webp?itok=oKB8GwRh" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Jinotega 102.1 FM
+https://stream.pinedahost.com/radio/8060/radio
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-05/radio-juan-pablo-segundo-nicaragua.png.webp?itok=TkPg6MWj" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Juan Pablo II 97.7 FM
+https://dc2.serverse.com:8040/stream
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-10/Juvenil.png.webp?itok=NXzkfiIg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Juvenil 101.5 FM
+https://usa8.fastcast4u.com/proxy/rjuvenil?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-01/Radio%20Juvenil%2093.1-Nicaragua.png.webp?itok=1WjQIaMy" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Juvenil Puerto Cabezas
+https://stream.zeno.fm/tkvs9yupmuavv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2022-07/radio-kilambe-wiwili-nicaragua.png.webp?itok=XRSOq9WD" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Kilambé Jinotega
+https://stream.zeno.fm/1v4b6r8rbg8uv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/Radio%252520Kiss%25252092.9%252520FM.png.webp?itok=Ml1dw5Xu" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Kiss 92.9 FM Matagalpa
+https://stream.zeno.fm/kgkap4bu97zuv
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40argentina/picture?width=200&height=200" group-title="RADIO_ARGENTINA🇦🇷 📻",tvg-name="LOS40 Argentina",LOS40 Argentina
 https://sigma.radioplayer.com.ar/stream/los40
