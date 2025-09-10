@@ -2030,7 +2030,7 @@ https://mt01.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
 https://mt01.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 tvg-id="MBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JAPON 🇯🇵", MBS
-http://mt01.utako.moe/mbs/index.m3u8
+https://mt01.utako.moe/mbs/index.m3u8
 #EXTINF:-1 tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="JAPON 🇯🇵", Mondo TV
 http://mt01.utako.moe/mondo/index.m3u8
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="JAPON 🇯🇵",NHK BS
@@ -2265,7 +2265,7 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 #EXTINF:-1 tvg-id="ConcertChannel.us" tvg-logo="https://i.imgur.com/u2irADf.png" group-title="MUSICALES 🎼",Concert Channel
 http://45.228.233.254:18000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg" group-title="MUSICALES 🎼",Space Shower TV
-http://ca01.utako.moe/spaceshower/index.m3u8
+https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 tvg-id="MNet.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" group-title="MUSICALES 🎼",MNet
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="MNet.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="MUSICALES 🎼",Music ON TV!
@@ -2293,7 +2293,7 @@ https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="GOTV.py" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="MUSICALES 🎼",GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICALES 🎼" tvg-id="MTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV (Japón)
-http://ca01.utako.moe/mtv/index.m3u8
+https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="MUSICALES 🎼" tvg-id="MusicTop.ar" tvg-logo="https://telechancho.github.io/tvlogos/MusicTop.jpg",MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="MUSICALES 🎼",Vevo 2K
@@ -2765,7 +2765,7 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Planeta Junior
 https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",AT-X
-http://ca01.utako.moe/AT-X/index.m3u8
+https://mt01.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Animax
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="ANIMACIÓN E INFANTILES 🎁",Kids Station
@@ -3174,9 +3174,9 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Film4 HD 
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-id="BS10.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",BS10
-https://ca01.utako.moe/bs10/index.m3u8
+https://mt01.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO 🎬" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-http://ca01.utako.moe/bs10_star/index.m3u8
+https://mt01.utako.moe/bs10_star/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="RELIGIÓN ⛪", Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
