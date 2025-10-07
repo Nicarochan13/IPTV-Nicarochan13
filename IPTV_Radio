@@ -236,6 +236,8 @@ http://167.114.118.120:7440/;.mp3
 http://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/DelSolUy/picture?width=200&height=200" group-title="RADIO_URUGUAY🇺🇾 📻",tvg-name="DelSol Uruguay",DelSol Uruguay
 https://delsol-2.nty.uy/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://radiocolonia.com/wp-content/uploads/2021/02/Logo-color.png" group-title="RADIO_URUGUAY🇺🇾 📻",tvg-name="Radio Colonia Uruguay",DelSol Uruguay
+https://27393.live.streamtheworld.com/COLONIAAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=a145308c-c382-4281-d58f-0c7439078d95
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Alfa913mx/picture?width=200&height=200" group-title="RADIO_MEXICO🇲🇽 📻",tvg-name="Alfa 91.3 Mexico",Alfa 91.3 Mexico
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="RADIO_ITALIA🇮🇹 📻",tvg-name="Radio Italia",Radio Italia
@@ -401,7 +403,7 @@ https://s5.radio.co/sca838cc60/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_PANAMÁ🇵🇦 📻", Radio María Panamá
 https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio María Chile
-https://rmaria2.janus.cl/playlist/stream.m3u8?t=0&s=au&p=&id=lxyvx7hk&d=w
+https://dreamsiteradiocp4.com/proxy/rmchile2?mp=/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="RADIO_ESPAÑA🇪🇸 📻", Melodía 60 
 http://streamtotal.net:8136/stream
 #EXTINF:-1 radio="true" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="RADIO_COLOMBIA🇨🇴 📻", NSE Radio
@@ -546,8 +548,27 @@ https://redirector.dps.live/beethovenfm/aac/icecast.audio
 https://stream.festival.cl/1
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio Universidad de Chile
 https://streamuchile.teslati.com/liveruch
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_COSTA RICA🇨🇷 📻", CRC 89.1 FM 
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻",Radio Nuevo Mundo 
+https://play.radionuevomundo.cl/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/duna.png" group-title="RADIO_CHILE🇨🇱 📻",Radio Duna
+https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/radio-corazon.png" group-title="RADIO_CHILE🇨🇱 📻",Corazón 101.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
+#EXTINF:-1 radio="true" tvg-logo="https://www.diariousach.cl/diario/site/artic/20210727/imag/foto_0000000120210727114423/logo_radio_color.svg" group-title="RADIO_CHILE🇨🇱 📻",Radio USACH
+https://rusach2.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻",Radio Montecarlo (Coquimbo)
+https://sonic.mallocohosting.cl/8032/stream
+#EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d05efc1bbc6.png" group-title="RADIO_COSTA RICA🇨🇷 📻", CRC 89.1 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c76c332.png" group-title="RADIO_COSTA RICA🇨🇷 📻", 94.7 FM
+blob:http://www.crc.cr/9e755bc1-40ff-46cd-847a-37abd2a3834b
+#EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c743beb.png" group-title="RADIO_COSTA RICA🇨🇷 📻", 103.1 FM
+blob:http://www.crc.cr/315d1f3a-ed86-4c12-90f5-ab5e837bdd25
+#EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63f52a962ce60.png" group-title="RADIO_COSTA RICA🇨🇷 📻", 959 Conexión
+blob:http://www.crc.cr/b9ce21ae-0d4e-4d46-8e44-9a574e66e989
+#EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c6d0e2c.png" group-title="RADIO_COSTA RICA🇨🇷 📻", Azul 99.9 FM
+blob:http://www.crc.cr/58c05e55-a4a1-4ab4-abeb-140d54cb7447
+
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 2
