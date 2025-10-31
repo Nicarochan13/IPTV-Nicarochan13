@@ -458,7 +458,7 @@ https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 https://sonic.streamingchilenos.com/9820/stream
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Mitre 
 https://22203.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2db63805-11b9-4e73-f947-309fb7963469
-#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8G5gWG6Jqx.jpg" group-title="RADIO 📻", Fabuestereo (Guatemala)
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8G5gWG6Jqx.jpg" group-title="RADIO_GUATEMALA🇬🇹 📻", Fabuestereo 
 https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
 #EXTINF:-1 radio="true" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Emisoras Unidas 
 https://node-32.zeno.fm/eypgq8m08wquv?rj-ttl=5&rj-tok=AAABfUARHM4Akpk-cHiz5aAFGQ
@@ -568,7 +568,8 @@ blob:http://www.crc.cr/315d1f3a-ed86-4c12-90f5-ab5e837bdd25
 blob:http://www.crc.cr/b9ce21ae-0d4e-4d46-8e44-9a574e66e989
 #EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c6d0e2c.png" group-title="RADIO_COSTA RICA🇨🇷 📻", Azul 99.9 FM
 blob:http://www.crc.cr/58c05e55-a4a1-4ab4-abeb-140d54cb7447
-
+#EXTINF:-1 radio="true" tvg-logo="https://paxcc.org/wp-content/uploads/2024/03/Radio-Paz-830-AM-961-FM.png" group-title="RADIO_USA🇺🇸 📻",Radio Paz Miami
+https://streaming6.locucionar.com:24004/stream?ver=511948
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 2
