@@ -402,6 +402,16 @@ https://streaming.radio.co/s36bd2a451/listen
 https://s5.radio.co/sca838cc60/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_PANAMÁ🇵🇦 📻", Radio María Panamá
 https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pa/rpc.png" group-title="RADIO_PANAMÁ🇵🇦 📻", RPC Radio
+https://s9.stweb.tv/thinkindot-fast-3/live/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pa/antena.png" group-title="RADIO_PANAMÁ🇵🇦 📻", Antena 8
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pa/kw-continente.png" group-title="RADIO_PANAMÁ🇵🇦 📻", KW Continente
+https://s1.voscast.com:11355/stream.ogg
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pa/panama.png" group-title="RADIO_PANAMÁ🇵🇦 📻", Radio Panamá 94.5 FM
+https://streaming.radiopanama.com.pa/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pa/nacional-fm.png" group-title="RADIO_PANAMÁ🇵🇦 📻", Nacional FM
+https://pcbrothers.net/listen/nacionalfm/nacionalfm
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio María Chile
 https://dreamsiteradiocp4.com/proxy/rmchile2?mp=/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="RADIO_ESPAÑA🇪🇸 📻", Melodía 60 
@@ -458,6 +468,14 @@ https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 https://sonic.streamingchilenos.com/9820/stream
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Mitre 
 https://22203.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2db63805-11b9-4e73-f947-309fb7963469
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/cultural.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Cultural TGW 
+https://stream.infinityhdstream.com:7054/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/radio-sonora.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Cadena Sonora
+https://alba-gt-chapinradio-sonora.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Maria Guatemala
+https://dreamsiteradiocp2.com/proxy/rmguatemala2?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/punto.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Punto
+https://stream.zeno.fm/qzhqyu07dkhvv
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8G5gWG6Jqx.jpg" group-title="RADIO_GUATEMALA🇬🇹 📻", Fabuestereo 
 https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
 #EXTINF:-1 radio="true" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Emisoras Unidas 
