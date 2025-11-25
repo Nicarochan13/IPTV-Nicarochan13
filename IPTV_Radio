@@ -230,6 +230,13 @@ https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 http://167.114.118.120:7440/;.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1631660934631497728/5xcmLsJF_200x200.jpg" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="Radio Nacional Perú",Radio Nacional Perú
 http://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/exitosa-lima.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Radio Exitosa
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/panamericana.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Radio Panamericana
+https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/viva.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Viva FM
+https://tupanel.info:8780/stream/1/
+
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/DelSolUy/picture?width=200&height=200" group-title="RADIO_URUGUAY🇺🇾 📻",tvg-name="DelSol Uruguay",DelSol Uruguay
 https://delsol-2.nty.uy/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://radiocolonia.com/wp-content/uploads/2021/02/Logo-color.png" group-title="RADIO_URUGUAY🇺🇾 📻",tvg-name="Radio Colonia Uruguay",DelSol Uruguay
@@ -355,8 +362,8 @@ https://radiott-web.streaming-pro.com:6103/radiott.mp3
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" group-title="RADIO_ESPAÑA🇪🇸 📻",tvg-name="Canal Sur Radio Andalucía",Canal Sur Radio Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/city.png" group-title="RADIO_JAPON🇯🇵 📻", Radio City 84.0
-https://mtist.as.smartstream.ne.jp/30042/livestream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/city.png" group-title="RADIO_JAPON🇯🇵 📻", Radio City 84.0 (Geoblock)
+https://www.jcbasimul.com/f09ba17c-2325-4395-9986-f6c6a665a7e4
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", Chofu FM
 https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", Banana FM
@@ -371,6 +378,8 @@ https://mtist.as.smartstream.ne.jp/30082/livestream/chunklist.m3u8
 https://musicbird-hls.leanstream.co/musicbird/JCB025.stream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", FM Ikaru
 https://musicbird-hls.leanstream.co/musicbird/JCB064.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", TBS Radio (Geoblock)
+http://197.221.133.90:8000/tbs.nvs
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/nhk-fm.png" group-title="RADIO_JAPON🇯🇵 📻", NHK FM
 https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/shonan-beach-fm.png" group-title="RADIO_JAPON🇯🇵 📻", Shonan Beach FM
@@ -592,13 +601,13 @@ https://sonic.mallocohosting.cl/8032/stream
 #EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d05efc1bbc6.png" group-title="RADIO_COSTA RICA🇨🇷 📻", CRC 89.1 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c76c332.png" group-title="RADIO_COSTA RICA🇨🇷 📻", 94.7 FM
-blob:http://www.crc.cr/9e755bc1-40ff-46cd-847a-37abd2a3834b
+http://www.crc.cr/9e755bc1-40ff-46cd-847a-37abd2a3834b
 #EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c743beb.png" group-title="RADIO_COSTA RICA🇨🇷 📻", 103.1 FM
-blob:http://www.crc.cr/315d1f3a-ed86-4c12-90f5-ab5e837bdd25
+http://www.crc.cr/315d1f3a-ed86-4c12-90f5-ab5e837bdd25
 #EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63f52a962ce60.png" group-title="RADIO_COSTA RICA🇨🇷 📻", 959 Conexión
-blob:http://www.crc.cr/b9ce21ae-0d4e-4d46-8e44-9a574e66e989
+http://www.crc.cr/b9ce21ae-0d4e-4d46-8e44-9a574e66e989
 #EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/943/63d062c6d0e2c.png" group-title="RADIO_COSTA RICA🇨🇷 📻", Azul 99.9 FM
-blob:http://www.crc.cr/58c05e55-a4a1-4ab4-abeb-140d54cb7447
+http://www.crc.cr/58c05e55-a4a1-4ab4-abeb-140d54cb7447
 #EXTINF:-1 radio="true" tvg-logo="https://paxcc.org/wp-content/uploads/2024/03/Radio-Paz-830-AM-961-FM.png" group-title="RADIO_USA🇺🇸 📻",Radio Paz Miami
 https://streaming6.locucionar.com:24004/stream?ver=511948
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 1
