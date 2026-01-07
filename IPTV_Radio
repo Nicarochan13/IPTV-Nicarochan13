@@ -253,8 +253,6 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 https://streaming.escuchanosonline.com:7118/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", ONE 103.7 FM
 https://one.stweb.tv/one/live/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Rivadavia
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA_SC
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Continental´
 https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Nacional Rock
@@ -285,6 +283,12 @@ http://137.184.101.169:8000/radio.mp3
 http://ice42.securenetsystems.net/SATELITE
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/cadena-tegucigalpa.png" group-title="RADIO_HONDURAS🇭🇳 📻", Radio Cadena Voces
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://rivadavia.com.ar/images/logo_header.png" group-title="RADIO_ARGENTINA🇦🇷 📻",tvg-name="LOS40 Argentina",Radio Rivadavia
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/la-red.png" group-title="RADIO_ARGENTINA🇦🇷 📻",tvg-name="LOS40 Argentina",Radio La Red
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/mega-98-3.png" group-title="RADIO_ARGENTINA🇦🇷 📻",tvg-name="LOS40 Argentina",Mega 98.3 FM
+https://mega.stweb.tv/mega983/live/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200" group-title="RADIO_ITALIA🇮🇹 📻",tvg-name="Radio San Marino",Radio San Marino
 https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/master.m3u8
@@ -380,6 +384,10 @@ https://musicbird-hls.leanstream.co/musicbird/JCB025.stream/playlist.m3u8
 https://musicbird-hls.leanstream.co/musicbird/JCB064.stream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", TBS Radio (Geoblock)
 http://197.221.133.90:8000/tbs.nvs
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", Big B JPop
+https://antares.dribbcast.com/proxy/jpop?mp=/s
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_JAPON🇯🇵 📻", Mushashino FM
+https://musicbird.leanstream.co/JCB032-MP3
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/nhk-fm.png" group-title="RADIO_JAPON🇯🇵 📻", NHK FM
 https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/shonan-beach-fm.png" group-title="RADIO_JAPON🇯🇵 📻", Shonan Beach FM
@@ -434,6 +442,14 @@ https://s1.voscast.com:11355/stream.ogg
 https://streaming.radiopanama.com.pa/stream
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pa/nacional-fm.png" group-title="RADIO_PANAMÁ🇵🇦 📻", Nacional FM
 https://pcbrothers.net/listen/nacionalfm/nacionalfm
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio Agricultura
+https://unlimited5-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio Futuro
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", RadioActiva
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Rock&Pop
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio María Chile
 https://dreamsiteradiocp4.com/proxy/rmchile2?mp=/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="RADIO_ESPAÑA🇪🇸 📻", Melodía 60 
