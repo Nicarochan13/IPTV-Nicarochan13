@@ -725,4 +725,43 @@ https://r90.letio.com/io/?gs=8120&type=master.m3u8
 https://r90.letio.com/io/?gs=8126&type=master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://radios.ucr.ac.cr/wp-content/uploads/2023/05/Logo-blanco-Radio-870.png" group-title="RADIO_COSTA RICA🇨🇷 📻", UCR 870 AM
 https://r90.letio.com/io/?gs=8124&type=live.m3u8
-
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/radio-musical-97-5-fm.png" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Musical 97.5 FM
+https://live.turadio.stream:7005/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-cr/sinai-103-9.png" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Sinaí 103.9 FM
+https://centova12.instainternet.com/proxy/sinaicr/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/estereo-sula.png" group-title="RADIO_HONDURAS🇭🇳 📻", Stereo Sula 100.1 FM
+https://tampa.audio-stream.com/proxy/rudass01/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/mundo.png" group-title="RADIO_HONDURAS🇭🇳 📻", Radio El Mundo 90.5 FM
+https://sonicpanel.us/8028/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/musiquera.png" group-title="RADIO_HONDURAS🇭🇳 📻", Musiquera
+https://stream.zeno.fm/83h238tqsceuv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/rockpop.png" group-title="RADIO_HONDURAS🇭🇳 📻", Rock N Pop
+https://ice42.securenetsystems.net/ROCKNPOP
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/panamericana.png" group-title="RADIO_HONDURAS🇭🇳 📻", Radio Panamericana (Honduras)
+https://5cefcbf58ba2e.streamlock.net:543/panam-hn/panam.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/clasica-tegucigalpa.png" group-title="RADIO_HONDURAS🇭🇳 📻", Estereo Clásica
+https://streaming.radio.co/s0c06b7076/listen
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/super-100.png" group-title="RADIO_HONDURAS🇭🇳 📻", Super 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100AAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/rds.png" group-title="RADIO_HONDURAS🇭🇳 📻", 88.9 FM RDS Radio
+https://stream.playerlive.info:8058/rds.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/ambiental-san-pedro-sula.png" group-title="RADIO_HONDURAS🇭🇳 📻", Ambiental
+https://stream.zeno.fm/200an1um6f0uv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/concierto.png" group-title="RADIO_CHILE🇨🇱 📻", Concierto 88.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/portales-santiago.png" group-title="RADIO_CHILE🇨🇱 📻", Radio Portales
+https://audio3.tustreaming.cl/7350/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/colo-colo.png" group-title="RADIO_CHILE🇨🇱 📻", Radio Colo Colo
+https://audio2.tustreaming.cl:7040/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://radionacionaldechile.cl/wp-content/uploads/2024/10/logo_200.png" group-title="RADIO_CHILE🇨🇱 📻", Radio Nacional de Chile
+https://audio1.tustreaming.cl/8165/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/eventos-catolicos.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Eventos Católicos
+https://stream.zeno.fm/1g9cduy10bruv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/radio-nacional-tgw-107-3-fm-ciudad-de-guatemala.png" group-title="RADIO_GUATEMALA🇬🇹 📻", TGW La Voz de Guatemala
+https://stream.radiotgw.gob.gt/8002/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/progreso-guatemala.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Progreso (Guatemala)
+https://redradioypc.com:8048/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/27046.v7.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Mundial (Guatemala)
+https://sonicpanel.1000hosting.com:10966/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/nuevo-mundo.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Nuevo Mundo
+https://s4.voscast.com:8987/Nuevo_Mundo_Capital
