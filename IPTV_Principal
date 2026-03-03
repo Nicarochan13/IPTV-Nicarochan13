@@ -663,8 +663,6 @@ https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="PERÚ 🇵🇪",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERÚ 🇵🇪",Panamericana Televisión
-http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="PBOTV.pe" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERÚ 🇵🇪",PBO TV
 http://38.183.182.166:8000/play/a13k/index.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="PERÚ 🇵🇪",Región TV
