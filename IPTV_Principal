@@ -1542,7 +1542,7 @@ https://5790d294af2dc.streamlock.net/zincnombreradiotv24@gmail.com/zincnombrerad
 #EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Zonavision TV 
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 
-#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USA 🇺",ABC 
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USA 🇺🇸",ABC 
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="KMIZDT1.us@SD" tvg-logo="https://lh3.googleusercontent.com/dQe4NZjNphITtOJYib9UNnV8EaYqs8W39ZayXgYaaV19TThXqw92-V5wzW2LuBoCe1wsKs-2d3s=v1-rw-s400" group-title="USA 🇺🇸",ABC Columbia, Missouri (KMIZ-DT1)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
@@ -3526,6 +3526,14 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="CULTURA Y CIENCIA 📕",National Geographic Japan 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="CULTURA Y CIENCIA 📕",Wonder 
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕",Nature Time France 
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕", Cosmic Frontiers 
+https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕", MyZen Wellbeing TV 
+https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nicasports.ni" tvg-logo="https://i.imgur.com/jrBTh84.png" group-title="DEPORTES ⚽️",NicaSports
 https://video1.azulstream.com:8081/nicasports/tracks-v1a1/mono.m3u8
@@ -3673,563 +3681,1085 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="DEPORTES ⚽️",FanDuel TV 
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 
-#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Artflix Movie Classics 
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="PELICULAS 🎬",Artflix Movie Classics 
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlanBeckerTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="CINE Y ENTRETENIMIENTO 🎬",Becker
-https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
-#EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",NBC Comedy Vault
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="CINE Y ENTRETENIMIENTO 🎬",NBC LX Home 
-https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",NEW KMOVIES 
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus
-#EXTINF:-1 tvg-id="MemoriasTVFilm.co@SD" tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Memorias TV Film 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",NEW KMOVIES 
+https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co@SD" tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="PELICULAS 🎬",Memorias TV Film 
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
-#EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Memorias TV Series 
-https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Cine.Ar 
+#EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="PELICULAS 🎬",Cine.Ar 
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Young Hollywood
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XploreTV.us@SD" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Xplore 
-https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Vice TV 
-https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Univision Tlnovelas 
-https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
-#EXTINF:-1 tvg-id="Pasiones.us@SD" tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Pasiones
-https://dvrfl04.tulix.tv/teleup-pasiones/mpegts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Universal Action
-https://jmp2.uk/plu-654933e253fc970008390114.m3u8
-#EXTINF:-1 tvg-id="UniversalCinema.us@SD" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Universal Cinema 
-http://190.2.212.209:8050/play/a0q3
-#EXTINF:-1 tvg-id="UniversalComedy.us@SD" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Universal Comedy 
-http://190.2.212.209:8050/play/a0q4
-#EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Universal Crime
-https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Universal Monsters
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Universal Monsters
 https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Universal Westerns
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="CINE Y ENTRETENIMIENTO 🎬",24 Hour Free Movies 
+#EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="PELICULAS 🎬",24 Hour Free Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="Circle.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/960px-Circle_Network_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Circle 
-https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyTV.us@SD" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Comedy TV
-https://dvrfl04.tulix.tv/teleup-comedytv/mpegts
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Classic TV 
-https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
-#EXTINF:-1 tvg-id="FilmRiseWestern.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Westerns 
-https://dz05z8iljgvbe.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Charge!
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Cine Sony
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS 🎬",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Cinemax East (Geoblock)
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="PELICULAS 🎬",Cinemax East (Geoblock)
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="CINE Y ENTRETENIMIENTO 🎬",Cinevision Canal 19
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="PELICULAS 🎬",Cinevision Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE Y ENTRETENIMIENTO 🎬" http-referrer="https://xtrematv.com/?p=1434",Xtrema Accion
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="PELICULAS 🎬" http-referrer="https://xtrematv.com/?p=1434",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="CINE Y ENTRETENIMIENTO 🎬" http-referrer="https://xtrematv.com/?p=1460",Xtrema Cine Clasico
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="PELICULAS 🎬" http-referrer="https://xtrematv.com/?p=1460",Xtrema Cine Clasico
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="CINE Y ENTRETENIMIENTO 🎬" http-referrer="https://xtrematv.com/?p=1456",Xtrema Terror
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="PELICULAS 🎬" http-referrer="https://xtrematv.com/?p=1456",Xtrema Terror
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="CINE Y ENTRETENIMIENTO 🎬",De Película
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="PELICULAS 🎬",De Película
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="CINE Y ENTRETENIMIENTO 🎬",De Película Plus
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="PELICULAS 🎬",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Filmex (Xumo) (Geoblock)
+#EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="PELICULAS 🎬",Filmex (Xumo) (Geoblock)
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Filmex Clásico (Geoblock)
+#EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="PELICULAS 🎬",Filmex Clásico (Geoblock)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Golden Edge Panregional 
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="PELICULAS 🎬",Golden Edge Panregional 
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Golden Plus 
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="PELICULAS 🎬",Golden Plus 
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Golden Premier 
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="PELICULAS 🎬",Golden Premier 
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",MyTime movie network Mexico 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",MyTime Movie Network (Mexico)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Retro Plus 3 
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="PELICULAS 🎬",Retro Plus 3 
 https://scl.edge.grupoz.cl/retroplustvtres/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Kuriakos Cine 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Kuriakos Cine 
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="CINE Y ENTRETENIMIENTO 🎬", MyTime Movie Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PELICULAS 🎬", MyTime Movie Network
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="CINE Y ENTRETENIMIENTO 🎬",MyTime Movie Network (España)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PELICULAS 🎬",MyTime Movie Network (España)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="CINE Y ENTRETENIMIENTO 🎬",MyTime Movie Network (Francia) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PELICULAS 🎬",MyTime Movie Network (Francia) 
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="CINE Y ENTRETENIMIENTO 🎬",DiscoverFilm
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="PELICULAS 🎬",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Tlnovelas
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="CINE Y ENTRETENIMIENTO 🎬",BBC Drama
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Tlnovelas Europa
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Golden TV 
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="PELICULAS 🎬",Golden TV 
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Recuerdos Retro Radio TV
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="PELICULAS 🎬",Rai Movie
+http://188.60.179.180:8000/play/xxRaiMOviexx
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="PELICULAS 🎬",Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="PELICULAS 🎬",TCM East (Geoblock)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="SamuelGoldwynClassics.us" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="PELICULAS 🎬",Samuel Goldwyn Classics 
+https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamuelGoldwynFilms.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Samuel_Goldwyn_Films_logo.svg" group-title="PELICULAS 🎬",Samuel Goldwyn Films
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="PELICULAS 🎬",Film4 HD 
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png" group-title="PELICULAS 🎬",Mega Cine TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="PELICULAS 🎬",Movie Plus 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.imgur.com/B2wzA67.png" group-title="PELICULAS 🎬",Nihon Eiga Senmon 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="PELICULAS 🎬" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg" group-title="PELICULAS 🎬",Toei Channel 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="PELICULAS 🎬",WOWOW Cinema 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="PELICULAS 🎬",Grjngo Spain 
+https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Action Movies Spain 
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Cine Español 
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Comedy Movies Spain 
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Rakuten TV Crime Series Spain 
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Drama Movies Spain 
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Family Movies Spain 
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Romance Movies Spain 
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Sci-Fi Spain
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Thrillers Spain 
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Top Movies Spain 
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Trailers Spain 
+https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="PELICULAS 🎬",Zylo Cine Friki 
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="PELICULAS 🎬",Zylo Cine Western 
+https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Bref Cinéma 100% Court Métrage
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",FilmRise Binge Watch France 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="PELICULAS 🎬",Grjngo Films de Western 
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Action 
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Comédie 
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Drames 
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Famille
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Français 
+https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Romance 
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Films Thriller 
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Séries Crime 
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Top Films France 
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Trailers France 
+https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4546/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="PELICULAS 🎬",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="PELICULAS 🎬",Zylo Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="PELICULAS 🎬",Zylo Emotion' L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="PELICULAS 🎬",Zylo Into Crime 
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="PELICULAS 🎬",Zylo ScreamIN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Alberto Sordi & Co 
+https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Brividy Cinema 
+https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",CG Grandi Film 
+https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Cine Aliens 
+https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Cine Western 
+https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Comicità Piccante Movies 
+https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="PELICULAS 🎬",Grjngo Italy 
+https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Action Movies Italy 
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Asian Cinema Italy 
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Comedy Movies Italy 
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Drama Movies Italy 
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Family Movies Italy 
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Romance Movies Italy 
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Sci-Fi Italy 
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Top Movies Italy 
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Trailers Italy 
+https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4548/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬", Filmzie 
+https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬", Popflix 
+https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten Top Movies UK 
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Action Movies UK 
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Comedy Movies UK 
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Drama Movies UK 
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Family Movies UK 
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Reality UK 
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Romance Movies UK 
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Sci-Fi UK 
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Thrillers UK 
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬", Rakuten TV Trailers UK 
+https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AlanBeckerTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="COMEDIA 🤣",Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="COMEDIA 🤣",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="COMEDIA 🤣",Comedy TV
+https://dvrfl04.tulix.tv/teleup-comedytv/mpegts
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="COMEDIA 🤣",Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="COMEDIA 🤣",Distrito Comedia 
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="COMEDIA 🤣",13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsItaly.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="COMEDIA 🤣",Just for Laughs
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Mr Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Generation Sitcoms 
+https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Le Meilleur d'Arthur
+https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Risate Dal Sud 
+https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣", Just for Laughs 
+https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣", LOL! Network 
+https://lol-lolnetwork-2-gb.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="ESTILO DE VIDA 🏡",NBC LX Home 
+https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="ESTILO DE VIDA 🏡",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVParis.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="ESTILO DE VIDA 🏡",Fashion TV Paris 
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVPG16.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="ESTILO DE VIDA 🏡",Fashion TV PG16 
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="ESTILO DE VIDA 🏡",FashionTV Europe 
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="ESTILO DE VIDA 🏡",FashionTV Paris L'Original 
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="ESTILO DE VIDA 🏡",TV5Monde Style (Geoblock)
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="HOLAPlay.es@SD" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="ESTILO DE VIDA 🏡",HOLA! Play 
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-id="9Life.au@Sydney" tvg-logo="https://i.imgur.com/HlJOrGI.png" group-title="ESTILO DE VIDA 🏡",9Life (Geoblock)
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",Ideas en 5 minutos 
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",Vogue Europe
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡", Homeful 
+https://amg00090-amg00090c4-rakuten-uk-2806.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡", Homes Under Hammer 
+https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡", Love Pets 
+https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡", The Design Network 
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="SERIES 📺",Memorias TV Series 
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Universal Action
+https://jmp2.uk/plu-654933e253fc970008390114.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="SERIES 📺",Universal Crime
+https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="SERIES 📺",FilmRise Classic TV 
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseWestern.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="SERIES 📺",FilmRise Westerns 
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="SERIES 📺",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="SERIES 📺",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="SERIES 📺",TVE Star HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="SERIES 📺",Factoria de Ficcion
+http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",FilmRise DeGrassi la nouvelle génération
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",FilmRise Les Routes du Paradis 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",FilmRise Séries France 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",FilmRise Z Nation France
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",ITV Un Village Français
+https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Rakuten TV Alerte Cobra
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",BBC Doctor Who Italy 
+https://amg00793-amg00793c17-rakuten-it-5361.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",BBC Drama Italy 
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="SERIES 📺",Rakuten TV Crime Series Italy 
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺", Baywatch 
+https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺", Flipping Nation 
+https://a64543d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZsaXBwaW5nTmF0aW9uX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="ENTRETENIMIENTO 🎙️",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Vice TV 
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" group-title="ENTRETENIMIENTO 🎙️",Univision Tlnovelas 
+https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
+#EXTINF:-1 tvg-id="Pasiones.us@SD" tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="ENTRETENIMIENTO 🎙️",Pasiones
+https://dvrfl04.tulix.tv/teleup-pasiones/mpegts
+#EXTINF:-1 tvg-id="Circle.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/960px-Circle_Network_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Circle 
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="ENTRETENIMIENTO 🎙️",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO 🎙️",Tlnovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="ENTRETENIMIENTO 🎙️",Tlnovelas Europa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png" group-title="ENTRETENIMIENTO 🎙️", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg" group-title="CINE Y ENTRETENIMIENTO 🎬", TV Pop
-https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Sony Canal Novelas
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="ENTRETENIMIENTO 🎙️",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="CINE Y ENTRETENIMIENTO 🎬",MDA Televisión
+#EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="ENTRETENIMIENTO 🎙️",MDA Televisión
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="ENTRETENIMIENTO 🎙️",Metro TV Canal 12
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Vorterix
+#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="ENTRETENIMIENTO 🎙️",Vorterix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Real Stories
-https://lds-realstories-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Latest TV
-https://5a0e89631aa14.streamlock.net/LatestTelevision/LatestTelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Adult Swim East
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Adult Swim East
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="CINE Y ENTRETENIMIENTO 🎬",AsianCrush
+#EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="ENTRETENIMIENTO 🎙️",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Comet
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://i.imgur.com/1AcrX8T.png" group-title="CINE Y ENTRETENIMIENTO 🎬",IGN 
+#EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://i.imgur.com/1AcrX8T.png" group-title="ENTRETENIMIENTO 🎙️",IGN 
 https://ign-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="CINE Y ENTRETENIMIENTO 🎬",bitMe
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ENTRETENIMIENTO 🎙️",bitMe
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonaPlayTV.cl" tvg-logo="https://i.imgur.com/GewcpHv.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zona Play TV
+#EXTINF:-1 tvg-id="ZonaPlayTV.cl" tvg-logo="https://i.imgur.com/GewcpHv.png" group-title="ENTRETENIMIENTO 🎙️",Zona Play TV
 https://paneltv.online:1936/8100/8100/playlist.m3u8
-#EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Chroma TV 
+#EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="ENTRETENIMIENTO 🎙️",Chroma TV 
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="CGEntertainment.it" tvg-logo="https://i.imgur.com/XeWzy7e.png" group-title="CINE Y ENTRETENIMIENTO 🎬",CG Entertainment
-https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="CINE Y ENTRETENIMIENTO 🎬", LIM TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="ENTRETENIMIENTO 🎙️", LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="CINE Y ENTRETENIMIENTO 🎬",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="CINE Y ENTRETENIMIENTO 🎬",TVS Retro
+#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="ENTRETENIMIENTO 🎙️",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Just for Laughs Gags
-https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Distrito Comedia 
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="CINE Y ENTRETENIMIENTO 🎬",13 Humor
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsItaly.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Just for Laughs
-https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rai Movie
-http://188.60.179.180:8000/play/xxRaiMOviexx
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Classic Cinema
-https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",TCM East (Geoblock)
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="FashionTVParis.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Fashion TV Paris 
-https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVPG16.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Fashion TV PG16 
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",FashionTV Europe 
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="CINE Y ENTRETENIMIENTO 🎬",FashionTV Paris L'Original 
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="SamuelGoldwynClassics.us" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Samuel Goldwyn Classics 
-https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SamuelGoldwynFilms.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Samuel_Goldwyn_Films_logo.svg" group-title="CINE Y ENTRETENIMIENTO 🎬",Samuel Goldwyn Films
-https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="CINE Y ENTRETENIMIENTO 🎬",TVE Star HD
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="CINE Y ENTRETENIMIENTO 🎬",TV5Monde Style (Geoblock)
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="GREATmovies.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="CINE Y ENTRETENIMIENTO 🎬",GREAT! movies 
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="GREATmystery.uk@SD" tvg-logo="https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png" group-title="CINE Y ENTRETENIMIENTO 🎬",GREAT! Mystery 
-https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",GREAT! real 
-https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GREATromance.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="CINE Y ENTRETENIMIENTO 🎬",GREAT! romance 
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/mascine-2.jpg" group-title="CINE Y ENTRETENIMIENTO 🎬" tvg-id="MasCine" tvg-name="+ Cine", + Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Young Hollywood
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Factoria de Ficcion
-http://176.65.146.237:8401/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Paramount Network (España)
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="ENTRETENIMIENTO 🎙️",Paramount Network (España)
 http://176.65.146.237:8401/play/a09i/index.m3u8
-#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Aurora Media Films 
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="ENTRETENIMIENTO 🎙️",Aurora Media Films 
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us" tvg-logo="https://comteco.com.bo/img/upload/canales/qvJQXi.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="PlayTelevision.ar" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="CINE Y ENTRETENIMIENTO 🎬",Play Television
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Film4 HD 
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Paramount Channel France
+#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="ENTRETENIMIENTO 🎙️",Paramount Channel France
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
-#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Az Corazon
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="ENTRETENIMIENTO 🎙️",Az Corazon
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/aztecacorazon/playlist.m3u8
-#EXTINF:-1 tvg-id="HOLAPlay.es@SD" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="CINE Y ENTRETENIMIENTO 🎬",HOLA! Play 
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-id="IberoamericaTV.es@SD" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="CINE Y ENTRETENIMIENTO 🎬",IberoAmerica TV 
+#EXTINF:-1 tvg-id="IberoamericaTV.es@SD" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="ENTRETENIMIENTO 🎙️",IberoAmerica TV 
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
-#EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Nova
+#EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="ENTRETENIMIENTO 🎙️",Nova
 http://176.65.146.237:8401/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-id="9Gem.au@Sydney" tvg-logo="https://i.imgur.com/cwLzqaw.png" group-title="CINE Y ENTRETENIMIENTO 🎬",9Gem (Geoblock)
+#EXTINF:-1 tvg-id="9Gem.au@Sydney" tvg-logo="https://i.imgur.com/cwLzqaw.png" group-title="ENTRETENIMIENTO 🎙️",9Gem (Geoblock)
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-id="9Life.au@Sydney" tvg-logo="https://i.imgur.com/HlJOrGI.png" group-title="CINE Y ENTRETENIMIENTO 🎬",9Life 
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="CINE Y ENTRETENIMIENTO 🎬",10 Bold Adelaide 
+#EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="ENTRETENIMIENTO 🎙️",10 Bold Adelaide 
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="CINE Y ENTRETENIMIENTO 🎬",Más Talk 
+#EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="ENTRETENIMIENTO 🎙️",Más Talk 
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-#EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Mega Cine TV
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="CINE Y ENTRETENIMIENTO 🎬",Monte Carlo Digital Television
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="ENTRETENIMIENTO 🎙️",Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://i.imgur.com/PCx6Qz3.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Family Gekijo 
+#EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://i.imgur.com/PCx6Qz3.png" group-title="ENTRETENIMIENTO 🎙️",Family Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Movie Plus 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.imgur.com/B2wzA67.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Nihon Eiga Senmon 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO 🎬" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg" group-title="CINE Y ENTRETENIMIENTO 🎬",Toei Channel 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="CINE Y ENTRETENIMIENTO 🎬",WOWOW Cinema 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-id="WOWOWLive.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="CINE Y ENTRETENIMIENTO 🎬",WOWOW Live
+#EXTINF:-1 tvg-id="WOWOWLive.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="ENTRETENIMIENTO 🎙️",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="CINE Y ENTRETENIMIENTO 🎬",WOWOW Prime 
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="ENTRETENIMIENTO 🎙️",WOWOW Prime 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Univision Tlnovelas 
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png" group-title="ENTRETENIMIENTO 🎙️",Univision Tlnovelas 
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Cops en Español 
-https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Crímenes Reales 
-https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Estilo y Vida 
-https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="CINE Y ENTRETENIMIENTO 🎬",Grjngo Spain 
-https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Ideas en 5 minutos 
-https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Lone Star 
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="ENTRETENIMIENTO 🎙️",Lone Star 
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Los Gipsy Kings
-https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Action Movies Spain 
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Cine Español 
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Comedy Movies Spain 
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Crime Series Spain 
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Drama Movies Spain 
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Family Movies Spain 
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Romance Movies Spain 
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Sci-Fi Spain
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Thrillers Spain 
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Top Movies Spain 
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Trailers Spain 
-https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten Viki Spain 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Rakuten Viki Spain 
 https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Stormcast Novelas
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Stormcast Novelas
 https://stormcast-novelas-2-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Travelxp Spain 
-https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Vive Kanal D Drama 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Vive Kanal D Drama 
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Wonder 
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Cine Friki 
-https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Cine Western 
-https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Todo Novelas 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="ENTRETENIMIENTO 🎙️",Zylo Todo Novelas 
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",100% Docs
-https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Mr Bean Classic
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",BBC Top Gear France 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",BBC Top Gear France 
 https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Bref Cinéma 100% Court Métrage
-https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Drive TV 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Drive TV 
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Enquetes de Choc 
-https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FashionTV Europe 
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Binge Watch France 
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise DeGrassi la nouvelle génération
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Hot Ones 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",FilmRise Hot Ones 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Les Routes du Paradis 
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Séries France 
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",FilmRise Z Nation France
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Generation Sitcoms 
-https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="CINE Y ENTRETENIMIENTO 🎬",Grjngo Films de Western 
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Homicide la chaîne du fait divers
-https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",ITV Un Village Français
-https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",L'Effet Papillon
-https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Le Meilleur d'Arthur
-https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Le Meilleur de la TV Realite 
-https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Anges
-https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Secrets de Nos Régions
-https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Z'Amours
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Les Z'Amours
 https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Motorvision.tv (French)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="ENTRETENIMIENTO 🎙️",Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Motus La Chaîne
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Motus La Chaîne
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Nature Time France 
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Qui Veut Gagner Des Millions La Chaîne
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Qui Veut Gagner Des Millions La Chaîne
 https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Alerte Cobra
-https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Action 
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Comédie 
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Drames 
-https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Famille
-https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Français 
-https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Romance 
-https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Films Thriller 
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Séries Crime 
-https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Top Films France 
-https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Trailers France 
-https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4546/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Viki Europe 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Rakuten TV Viki Europe 
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Revry Europe 
-https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Revry News Europe 
-https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Televisa Telenovela Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Televisa Telenovela Channel
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Travelxp France 
-https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Vogue Europe
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Y'a Que La Vérité Qui Compte La Chaîne
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Y'a Que La Vérité Qui Compte La Chaîne
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Zee One
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Zee One
 https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Ciné Nanar
-https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Ciné Western
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Emotion' L
-https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Fréquence Novelas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="ENTRETENIMIENTO 🎙️",Zylo Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo Into Crime 
-https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Zylo ScreamIN
-https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Alberto Sordi & Co 
-https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",BBC Doctor Who Italy 
-https://amg00793-amg00793c17-rakuten-it-5361.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",BBC Drama Italy 
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",BBC Top Gear Italy 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",BBC Top Gear Italy 
 https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Brividy Cinema 
-https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",CG Grandi Film 
-https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Cine Aliens 
-https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Cine Western 
-https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Comicità Piccante Movies 
-https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="CINE Y ENTRETENIMIENTO 🎬",Grjngo Italy 
-https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Hell's Kitchen Italy 
-https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Action Movies Italy 
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Asian Cinema Italy 
-https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Comedy Movies Italy 
-https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Crime Series Italy 
-https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Drama Movies Italy 
-https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Family Movies Italy 
-https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Romance Movies Italy 
-https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Sci-Fi Italy 
-https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Top Movies Italy 
-https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬",Rakuten TV Trailers Italy 
-https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4548/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Risate Dal Sud 
-https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Serially Crime 
-https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Soap Latino 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Soap Latino 
 https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Soap Turco
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Soap Turco
 https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Ax Men 
-https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Baywatch 
-https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Cops 
-https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Cosmic Frontiers 
-https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Crime Beat TV 
-https://8e6c868c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lQmVhdF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Escape to The Country 
-https://amg00145-amg00145c11-rakuten-uk-5450.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Fashion TV 
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Filmzie 
-https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Flipping Nation 
-https://a64543d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZsaXBwaW5nTmF0aW9uX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Graham Norton 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️", Graham Norton 
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Great British Menu 
-https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", GREAT! mystery 
-https://7d963f6f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0dyZWF0TXlzdGVyeV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", GREAT! real 
-https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Hardcore Pawn 
+
+#EXTINF:-1 tvg-id="XploreTV.us@SD" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="VIAJES 🗺️",Xplore 
+https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="VIAJES 🗺️",Travelxp Spain 
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VIAJES 🗺️",Les Secrets de Nos Régions
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="VIAJES 🗺️",Travelxp France 
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VIAJES 🗺️", Travel XP 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Cops en Español 
+https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Le Meilleur de la TV Realite 
+https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Les Anges
+https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Ax Men 
+https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Cops 
+https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Hardcore Pawn 
 https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Haunt TV 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Haunt TV 
 https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Hell's Kitchen 
-https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Highway Thru Hell 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Highway Thru Hell 
 https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", History Hunters 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", History Hunters 
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Hoarders 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Hoarders 
 https://8f2546fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0hvYXJkZXJzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Homeful 
-https://amg00090-amg00090c4-rakuten-uk-2806.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Homes Under Hammer 
-https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Hotel Inspector 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Hotel Inspector 
 https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", I Survived 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", I Survived 
 https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Ice Road Truckers 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Ice Road Truckers 
 https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", INFAST 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", INFAST 
 https://lifestyle-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Inside Crime 
-https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Jail 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥", Jail 
 https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Just for Laughs 
-https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", LOL! Network 
-https://lol-lolnetwork-2-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Love Pets 
-https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Crímenes Reales 
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Enquetes de Choc 
+https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Homicide la chaîne du fait divers
+https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Serially Crime 
+https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎", Crime Beat TV 
+https://8e6c868c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lQmVhdF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎", Inside Crime 
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎", True Crime Now 
+https://amg00376-magellan-amg00376c9-rakuten-uk-1941.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowcauk-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎", True Lives 
+https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Hell's Kitchen Italy 
+https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳", Great British Menu 
+https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳", Hell's Kitchen 
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳", Tastemade
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LuzDivinaTV.do@HD" tvg-logo="https://imgur.com/BHZw3PK.jpeg" group-title="RELIGIÓN ⛪",Luz Divina TV 
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="RELIGIÓN ⛪",Canal Santa María
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="RELIGIÓN ⛪", Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN el Canal Católico
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="RELIGIÓN ⛪",Agape TV 
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MarivisionTV.bo" tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="RELIGIÓN ⛪", Marivisión TV
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="RELIGIÓN ⛪",La Voz de María
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="RELIGIÓN ⛪", TVCa Televisión Católica Arquidiocesana
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="SanJoseTV.cr" tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="RELIGIÓN ⛪", San José TV
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Telefides.cr" tvg-logo="https://i.ibb.co/yn5M8dw/telefides-costa-rica.png" group-title="RELIGIÓN ⛪", Telefides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
+#EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="RELIGIÓN ⛪", Cáritas TV
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVisionItalia.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png" group-title="RELIGIÓN ⛪",Maria Vision Italia
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="RELIGIÓN ⛪", María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="RELIGIÓN ⛪", Monte Maria
+https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TreceTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png" group-title="RELIGIÓN ⛪", Trece TV
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="CandelariaTV.gt" tvg-logo="https://i.imgur.com/Mq1yoUQ.png" group-title="RELIGIÓN ⛪", Candelaria TV
+http://204.12.202.90:8080/playgt/playgt2023/128
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MIlw7GI.png" group-title="RELIGIÓN ⛪", RTV Católica Canal 40
+https://stream.giostreaming.app/canal40/canal40.m3u8
+#EXTINF:-1 tvg-id="CNI.gt" tvg-logo="https://i.imgur.com/9kRYdSp.png" group-title="RELIGIÓN ⛪", CNI Digital
+https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
+#EXTINF:-1 tvg-id="TVMaria.gt" tvg-logo="https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg" group-title="RELIGIÓN ⛪", TV María
+https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
+#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="RELIGIÓN ⛪", KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-logo="https://i.imgur.com/3dPE3aw.png" group-title="RELIGIÓN ⛪", Loveworld TV 
+https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIÓN ⛪", Padre Pio TV 
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="RELIGIÓN ⛪", TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="GiovanniPaoloTV.it" tvg-logo="https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png" group-title="RELIGIÓN ⛪",Giovanni Paolo TV
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us" tvg-logo="https://i.imgur.com/bwAuFgx.png" group-title="RELIGIÓN ⛪",ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="EWTN.us" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="RELIGIÓN ⛪",EWTN USA
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVCatolica.sv" tvg-logo="https://i.imgur.com/MIlw7GI.png" group-title="RELIGIÓN ⛪",RTV Católica Canal 40 
+https://streaming.grupocsanetwork.com:19360/canal40/canal40.m3u8
+#EXTINF:-1 tvg-id="TVMaria.gt" tvg-logo="https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg" group-title="RELIGIÓN ⛪",TV María 
+https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
+#EXTINF:-1 tvg-id="InmaculadaTV.hn" tvg-logo="https://i.imgur.com/2lisFJV.png" group-title="RELIGIÓN ⛪",Inmaculada TV 
+https://rpn3.bozztv.com/ssh101/ssh101/inmaculadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalISB.cl" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="RELIGIÓN ⛪",Canal ISB (Iglesia San Bernardo) 
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="RELIGIÓN ⛪",Nazarenas TV 
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDiocesano.es@SD" tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="RELIGIÓN ⛪",Canal Diocesano
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-id="SanPedroTV.ar@SD" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="RELIGIÓN ⛪",San Pedro TV 
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="RELIGIÓN ⛪",Monte Maria 
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1 tvg-id="GuadalupeMedia.bz@SD" tvg-logo="https://i.imgur.com/EfaOwRE.png" group-title="RELIGIÓN ⛪",Guadalupe Media
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="SURSAT 📡",A&E 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="SURSAT 📡",AMC 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" tvg-logo="https://i.imgur.com/mqUqMU6.png" group-title="SURSAT 📡",America Internacional 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="SURSAT 📡",AXN 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="SURSAT 📡",Cinecanal 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="SURSAT 📡",Comedy Central 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="SURSAT 📡",Disney Channel 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="SURSAT 📡",E! 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="SURSAT 📡",El Gourmet 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="SURSAT 📡",Fox Sports 
+#EXTVLCOPT:http-referrer=https://foxsports.com.ar/
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="SURSAT 📡",Fox Sports 3 
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="SURSAT 📡",FX 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="SURSAT 📡",History 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="SURSAT 📡",History 2 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="SURSAT 📡",Las Estrellas Latinoamérica
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="SURSAT 📡",Lifetime 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="SURSAT 📡",MTV 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="SURSAT 📡",National Geographic 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="SURSAT 📡",Nickelodeon 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="SURSAT 📡",Star Channel 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="SURSAT 📡",Studio Universal 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="SURSAT 📡",Telemundo Internacional 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="SURSAT 📡",Universal TV 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-75_480.m3u8
+
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ABC EAST
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ACC NETWORK
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", AMC NETWORK
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", American Heroes Channel
+https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Animal Planet
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Antenna
+https://fl1.moveonjoy.com/Antenna/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BBC AMERICA
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BBC WORLD NEWS
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BEIN SPORTS
+https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BET EAST
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BET GOSPEL
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BET HER
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BET JAMS
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BET SOUL
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BIG TEN NETWORK
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BLOOMBERG
+https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BOOMERANG
+https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BOUNCE TV
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BRAVO
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", BUZZR
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", C SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CARTOON NETWORK
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CBS EAST
+https://fl1.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CBS SPORTS NETWORK
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX
+http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX EAST
+https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX WEST
+https://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX MOREMAX
+https://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CLEO TV
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CMT
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CNN
+https://fl1.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CNN INTERNATIONAL
+https://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", COMEDY CENTRAL
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", COMEDY TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", COMET
+https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", COOKING CHANNEL
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", COURT TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", COZI TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CRIME AND INVESTIGATION NET
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 2
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CURIOSITY STREAM
+https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DESTINATION AMERICA
+https://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY CHANNEL
+https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY FAMILY CHANNEL
+https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY LIFE
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY SCIENCE
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY CHANNEL
+http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY JR
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", DIY
+https://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", E!
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX 2
+https://fl1.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX DRIVE IN
+https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX HITS
+https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN
+https://fl1.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN 2
+https://fl1.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN NEWS
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN U
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN NETWORK
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOOD NETWORK
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX EAST
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX BUSSINESS NET
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX NEWS CHANNEL
+https://fl1.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SOCCER PLUS
+https://fl1.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8 
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SPORTS 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SPORTS 2
+https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SOUL
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FREE FORM
+https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FUSE
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FX
+http://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FX MOVIE
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FXX
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FYI
+http://fl5.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", GAME SHOW NET
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", GET TV
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", GOLF CHANNEL
+https://fl1.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", GRIT TV
+https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HALLMARK CHANNEL
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HALLMARK DRAMA
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO 2
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO COMEDY
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO FAMILY
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO ZONE
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HGTV
+http://fl5.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HLN
+https://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", INSP
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ID
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ION TV
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ION PLUS
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", LIFETIME
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", LIFETIME MOVIE NET
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", LOGO
+https://fl1.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", LONGHORN NETWORK
+http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", LMAV TV
+https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", ME TV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MILITARY HISTORY
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MLB NETWORK
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MOTOR TREND
+https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MSG
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MSNBC
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV 2
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV CLASSIC
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV LIVE
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV U
+https://fl1.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NAT GEO
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NAT GEO WILD
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC EAST
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC SPORT NET
+https://fl1.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NEWS NATION
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NEWS Y
+https://fl1.moveonjoy.com/Newsy/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NFL NETWORK
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NHL NETWORK
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NICKELODEON
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NICK JR
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NICK MUSIC
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NICKTOONS
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TEEN NICK
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8 
+#EXTINF:-1 group-title="USA Premium 🇺🇸", OUTDOOR CHANNEL
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", OUTSIDE TV
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", OVATION
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", OWN
+https://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", OXYGEN
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", OUTER MAX
+https://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", PAC 12 [STOPPED BROADCASTING]
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", PARAMOUNT NETWORK
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", POP TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", PURSUIT CHANNEL
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", QVC
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", REELZ
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", REVOLT
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SEC NETWORK [Not Working]
+https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8 
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME 2
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME EXTREME
+https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME NEXT
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME WOMEN
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME WEST
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SMITHSONIAN CHANNEL
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SONY MOVIE CHANNEL
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STADIUM
+https://fl1.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ COMEDY
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ EDGE
+http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE
+http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE ACTION
+http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE CLASSIC
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE WESTERNS
+http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ WEST
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SUNDANCE
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", SYFY
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TBS
+https://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TCM
+https://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TENNIS CHANNEL
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", THE WEATHER CHANNEL
+https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TLC
+http://fl5.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TNT
+http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TRAVEL CHANNEL
+https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TRU TV
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TV LAND
+https://fl1.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TV ONE
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TVG
+https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", UFC
+http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", USA NETWORK
+https://fl1.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", VH1 
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", VICELAND
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WE TV
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WGN
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WWE
+https://fl1.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 group-title="USA Premium 🇺🇸", YES NETWORK
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="USA Premium 🇺🇸", A&E East 
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", C-SPAN 2 
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", CNBC 
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Crime + Investigation 
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Disney Channel East 
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Disney XD East 
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", E! East 
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Fox News Channel 
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Fox Sports 2 
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Fuse East 
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FX East 
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FX Movie Channel 
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FXX East
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", FYI East 
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Hallmark Drama 
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Hallmark Movies & Mysteries East 
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", IFC East 
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", KABC-DT1 
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", KCBS-DT1 
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", KFMB-DT2 
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", KNBC-DT1 
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+##EXTINF:-1 group-title="USA Premium 🇺🇸", KTTV-DT1 
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Lifetime Movies East 
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MSG 
+https://tvpass.org/live/msg-madison-square-gardens/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MSG Plus 
+https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", MSNBC 
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", National Geographic HD East 
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", National Geographic Wild HD East 
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC Sports Bay Area 
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC Sports Boston 
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC Sports Philadelphia 
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", NFL RedZone 
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", Starz East
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN1 
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN2 
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN3 
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN4 
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN5 
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", USA Network East 
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WABC-DT1 
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WCBS-DT1 
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WIS-DT2 
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WNBC-DT1 
+https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WNET-DT1 
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WNJU-DT1 
+https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 group-title="USA Premium 🇺🇸", WNYW-DT1 
+https://tvpass.org/live/WNYWDT1/hd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Mech+ 
 https://mechtvltd-mechplus-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Mystery TV 
-https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Mythbusters 
-https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", MyZen Wellbeing TV 
-https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", NEW K.MOVIES 
-https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Nitro Circus 
-https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Pointless 
-https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Popflix 
-https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten Top Movies UK 
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Action Movies UK 
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Comedy Movies UK 
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Drama Movies UK 
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Family Movies UK 
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Reality UK 
-https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Romance Movies UK 
-https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Sci-Fi UK 
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Thrillers UK 
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="CINE Y ENTRETENIMIENTO 🎬", Rakuten TV Trailers UK 
-https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Real Crime Beta 
-https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", RomCom K-Drama 
-https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Tastemade
-https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", The Chat Show Channel 
-https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", The Design Network 
-https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Travel XP 
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", True Crime Now 
-https://amg00376-magellan-amg00376c9-rakuten-uk-1941.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowcauk-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", True Lives 
-https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Waterbear 
 https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬", Wicked Tuna 
@@ -5954,589 +6484,4 @@ https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Z Nation
 https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
-
-#EXTINF:-1 tvg-id="LuzDivinaTV.do@HD" tvg-logo="https://imgur.com/BHZw3PK.jpeg" group-title="RELIGIÓN ⛪",Luz Divina TV 
-https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-#EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="RELIGIÓN ⛪",Canal Santa María
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="RELIGIÓN ⛪", Canal Orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN el Canal Católico
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="RELIGIÓN ⛪",Agape TV 
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MarivisionTV.bo" tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="RELIGIÓN ⛪", Marivisión TV
-https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
-#EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="RELIGIÓN ⛪",La Voz de María
-https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-#EXTINF:-1 tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="RELIGIÓN ⛪", TVCa Televisión Católica Arquidiocesana
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:-1 tvg-id="SanJoseTV.cr" tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="RELIGIÓN ⛪", San José TV
-https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefides.cr" tvg-logo="https://i.ibb.co/yn5M8dw/telefides-costa-rica.png" group-title="RELIGIÓN ⛪", Telefides
-https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-#EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="RELIGIÓN ⛪", Cáritas TV
-https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVisionItalia.it@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png" group-title="RELIGIÓN ⛪",Maria Vision Italia
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="RELIGIÓN ⛪", María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="RELIGIÓN ⛪", Monte Maria
-https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN Asia-Pacific
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN Europe
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TreceTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png" group-title="RELIGIÓN ⛪", Trece TV
-http://176.65.146.237:8401/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="CandelariaTV.gt" tvg-logo="https://i.imgur.com/Mq1yoUQ.png" group-title="RELIGIÓN ⛪", Candelaria TV
-http://204.12.202.90:8080/playgt/playgt2023/128
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MIlw7GI.png" group-title="RELIGIÓN ⛪", RTV Católica Canal 40
-https://stream.giostreaming.app/canal40/canal40.m3u8
-#EXTINF:-1 tvg-id="CNI.gt" tvg-logo="https://i.imgur.com/9kRYdSp.png" group-title="RELIGIÓN ⛪", CNI Digital
-https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
-#EXTINF:-1 tvg-id="TVMaria.gt" tvg-logo="https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg" group-title="RELIGIÓN ⛪", TV María
-https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="RELIGIÓN ⛪", KTO
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-logo="https://i.imgur.com/3dPE3aw.png" group-title="RELIGIÓN ⛪", Loveworld TV 
-https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="RELIGIÓN ⛪", Padre Pio TV 
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="RELIGIÓN ⛪", TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="GiovanniPaoloTV.it" tvg-logo="https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png" group-title="RELIGIÓN ⛪",Giovanni Paolo TV
-https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ESNETV.us" tvg-logo="https://i.imgur.com/bwAuFgx.png" group-title="RELIGIÓN ⛪",ESNE TV
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="EWTN.us" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="RELIGIÓN ⛪",EWTN USA
-https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVCatolica.sv" tvg-logo="https://i.imgur.com/MIlw7GI.png" group-title="RELIGIÓN ⛪",RTV Católica Canal 40 
-https://streaming.grupocsanetwork.com:19360/canal40/canal40.m3u8
-#EXTINF:-1 tvg-id="TVMaria.gt" tvg-logo="https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg" group-title="RELIGIÓN ⛪",TV María 
-https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
-#EXTINF:-1 tvg-id="InmaculadaTV.hn" tvg-logo="https://i.imgur.com/2lisFJV.png" group-title="RELIGIÓN ⛪",Inmaculada TV 
-https://rpn3.bozztv.com/ssh101/ssh101/inmaculadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalISB.cl" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="RELIGIÓN ⛪",Canal ISB (Iglesia San Bernardo) 
-https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="RELIGIÓN ⛪",Nazarenas TV 
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalDiocesano.es@SD" tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="RELIGIÓN ⛪",Canal Diocesano
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-#EXTINF:-1 tvg-id="SanPedroTV.ar@SD" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="RELIGIÓN ⛪",San Pedro TV 
-https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="RELIGIÓN ⛪",Monte Maria 
-https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:-1 tvg-id="GuadalupeMedia.bz@SD" tvg-logo="https://i.imgur.com/EfaOwRE.png" group-title="RELIGIÓN ⛪",Guadalupe Media
-https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
-
-#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="SURSAT 📡",A&E 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="SURSAT 📡",AMC 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" tvg-logo="https://i.imgur.com/mqUqMU6.png" group-title="SURSAT 📡",America Internacional 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="SURSAT 📡",AXN 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="SURSAT 📡",Cinecanal 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="SURSAT 📡",Comedy Central 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="SURSAT 📡",Disney Channel 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="SURSAT 📡",E! 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="SURSAT 📡",El Gourmet 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="SURSAT 📡",Fox Sports 
-#EXTVLCOPT:http-referrer=https://foxsports.com.ar/
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="SURSAT 📡",Fox Sports 3 
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="SURSAT 📡",FX 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="SURSAT 📡",History 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="SURSAT 📡",History 2 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="SURSAT 📡",Las Estrellas Latinoamérica
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="SURSAT 📡",Lifetime 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="SURSAT 📡",MTV 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="SURSAT 📡",National Geographic 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="SURSAT 📡",Nickelodeon 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="SURSAT 📡",Star Channel 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="SURSAT 📡",Studio Universal 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="SURSAT 📡",Telemundo Internacional 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="SURSAT 📡",Universal TV 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-75_480.m3u8
-
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ABC EAST
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ACC NETWORK
-https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", AMC NETWORK
-https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", American Heroes Channel
-https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Animal Planet
-https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Antenna
-https://fl1.moveonjoy.com/Antenna/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Aspire
-https://fl1.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BBC AMERICA
-https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BBC WORLD NEWS
-https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BEIN SPORTS
-https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BET EAST
-https://fl1.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BET GOSPEL
-https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BET HER
-https://fl1.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BET JAMS
-https://fl1.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BET SOUL
-https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BIG TEN NETWORK
-https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BLOOMBERG
-https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BOOMERANG
-https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BOUNCE TV
-https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BRAVO
-https://fl1.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", BUZZR
-https://fl1.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", C SPAN
-https://fl1.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CARTOON NETWORK
-https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CBS EAST
-https://fl1.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CBS SPORTS NETWORK
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX
-http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX EAST
-https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX WEST
-https://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CINEMAX MOREMAX
-https://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CLEO TV
-https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CMT
-https://fl1.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CNN
-https://fl1.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CNN INTERNATIONAL
-https://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", COMEDY CENTRAL
-https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", COMEDY TV
-https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", COMET
-https://fl1.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", COOKING CHANNEL
-https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", COURT TV
-https://fl1.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", COZI TV
-https://fl1.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CRIME AND INVESTIGATION NET
-https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 1
-https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 2
-https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 3
-https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CRAVE 4
-https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CURIOSITY STREAM
-https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DESTINATION AMERICA
-https://fl1.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY CHANNEL
-https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY FAMILY CHANNEL
-https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY LIFE
-https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISCOVERY SCIENCE
-https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY CHANNEL
-http://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY JR
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DISNEY XD
-https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", DIY
-https://fl1.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", E!
-https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX
-https://fl1.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX 2
-https://fl1.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX DRIVE IN
-https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", EPIX HITS
-https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN
-https://fl1.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN 2
-https://fl1.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN NEWS
-https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN U
-https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ESPN NETWORK
-https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOOD NETWORK
-https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX EAST
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX BUSSINESS NET
-https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX NEWS CHANNEL
-https://fl1.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SOCCER PLUS
-https://fl1.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8 
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SPORTS 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SPORTS 2
-https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FOX SOUL
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FREE FORM
-https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FUSE
-https://fl1.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FX
-http://fl5.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FX MOVIE
-https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FXX
-https://fl1.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FYI
-http://fl5.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", GAME SHOW NET
-http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", GET TV
-https://fl1.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", GOLF CHANNEL
-https://fl1.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", GRIT TV
-https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HALLMARK CHANNEL
-https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HALLMARK DRAMA
-https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO
-http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO 2
-http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO COMEDY
-http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO FAMILY
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HBO ZONE
-http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HGTV
-http://fl5.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HLN
-https://fl1.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", HSN
-https://fl1.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", INSP
-https://fl1.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ID
-https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ION TV
-https://fl1.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ION PLUS
-https://fl1.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", LIFETIME
-https://fl1.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", LIFETIME MOVIE NET
-https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", LOGO
-https://fl1.moveonjoy.com/Logo/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", LONGHORN NETWORK
-http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", LMAV TV
-https://fl1.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", ME TV
-https://fl1.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MILITARY HISTORY
-https://fl1.moveonjoy.com/Military_History/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MLB NETWORK
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MOTOR TREND
-https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MSG
-https://fl1.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MSNBC
-https://fl1.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV
-https://fl1.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV 2
-https://fl1.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV CLASSIC
-https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV LIVE
-https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MTV U
-https://fl1.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NAT GEO
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NAT GEO WILD
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC EAST
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC SPORT NET
-https://fl1.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NEWS NATION
-https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NEWS Y
-https://fl1.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NFL NETWORK
-https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NHL NETWORK
-https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NICKELODEON
-https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NICK JR
-https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NICK MUSIC
-https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NICKTOONS
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TEEN NICK
-https://fl3.moveonjoy.com/Teen_Nick/index.m3u8 
-#EXTINF:-1 group-title="USA Premium 🇺🇸", OUTDOOR CHANNEL
-https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", OUTSIDE TV
-https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", OVATION
-https://fl1.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", OWN
-https://fl1.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", OXYGEN
-https://fl1.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", OUTER MAX
-https://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", PAC 12 [STOPPED BROADCASTING]
-https://fl1.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", PARAMOUNT NETWORK
-https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", POP TV
-https://fl1.moveonjoy.com/Pop_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", PURSUIT CHANNEL
-https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", QVC
-https://fl1.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", REELZ
-https://fl1.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", REVOLT
-https://fl1.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SEC NETWORK [Not Working]
-https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8 
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME
-https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME 2
-https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME EXTREME
-https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME NEXT
-https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME WOMEN
-https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SHOWTIME WEST
-https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SMITHSONIAN CHANNEL
-https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SONY MOVIE CHANNEL
-https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STADIUM
-https://fl1.moveonjoy.com/STADIUM/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ
-http://fl5.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ COMEDY
-http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ EDGE
-http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE
-http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE ACTION
-http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE CLASSIC
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ ENCORE WESTERNS
-http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", STARZ WEST
-https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SUNDANCE
-https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", SYFY
-https://fl1.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TBS
-https://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TCM
-https://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TENNIS CHANNEL
-https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", THE WEATHER CHANNEL
-https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TLC
-http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TNT
-http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TRAVEL CHANNEL
-https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TRU TV
-https://fl1.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TV LAND
-https://fl1.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TV ONE
-https://fl1.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TVG
-https://fl1.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", UFC
-http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", USA NETWORK
-https://fl1.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", VH1 
-https://fl1.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", VICELAND
-https://fl1.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WE TV
-https://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WGN
-https://fl1.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WWE
-https://fl1.moveonjoy.com/WWE/index.m3u8
-#EXTINF:-1 group-title="USA Premium 🇺🇸", YES NETWORK
-https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="USA Premium 🇺🇸", A&E East 
-https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", C-SPAN 2 
-https://tvpass.org/live/CSPAN2/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", CNBC 
-https://tvpass.org/live/CNBC/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Crime + Investigation 
-https://tvpass.org/live/CrimePlusInvestigation/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Disney Channel East 
-https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Disney XD East 
-https://tvpass.org/live/DisneyXDEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", E! East 
-https://tvpass.org/live/EEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Fox News Channel 
-https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Fox Sports 2 
-https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Fuse East 
-https://tvpass.org/live/FuseEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FX East 
-https://tvpass.org/live/FXEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FX Movie Channel 
-https://tvpass.org/live/FXMovieChannel/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FXX East
-https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", FYI East 
-https://tvpass.org/live/FYIEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Hallmark Drama 
-https://tvpass.org/live/HallmarkDrama/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Hallmark Movies & Mysteries East 
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", IFC East 
-https://tvpass.org/live/IFCEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", KABC-DT1 
-https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", KCBS-DT1 
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", KFMB-DT2 
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", KNBC-DT1 
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
-##EXTINF:-1 group-title="USA Premium 🇺🇸", KTTV-DT1 
-https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Lifetime Movies East 
-https://tvpass.org/live/LifetimeMoviesEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MSG 
-https://tvpass.org/live/msg-madison-square-gardens/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MSG Plus 
-https://tvpass.org/live/msg-plus/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", MSNBC 
-https://tvpass.org/live/MSNBC/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", National Geographic HD East 
-https://tvpass.org/live/NationalGeographicEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", National Geographic Wild HD East 
-https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC Sports Bay Area 
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC Sports Boston 
-https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NBC Sports Philadelphia 
-https://tvpass.org/live/nbc-sports-philadelphia/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", NFL RedZone 
-https://tvpass.org/live/NFLRedZone/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", Starz East
-https://tvpass.org/live/StarzEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN1 
-https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN2 
-https://tvpass.org/live/tsn2/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN3 
-https://tvpass.org/live/tsn3/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN4 
-https://tvpass.org/live/tsn4/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", TSN5 
-https://tvpass.org/live/tsn5/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", USA Network East 
-https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WABC-DT1 
-https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WCBS-DT1 
-https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WIS-DT2 
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WNBC-DT1 
-https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WNET-DT1 
-https://tvpass.org/live/WNET/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WNJU-DT1 
-https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1 group-title="USA Premium 🇺🇸", WNYW-DT1 
-https://tvpass.org/live/WNYWDT1/hd
 
