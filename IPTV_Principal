@@ -3156,6 +3156,8 @@ https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Digimon Adventure
 https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Olive & Tom
+https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="ANIMACIÓN E INFANTILES 🎁",FilmRise Anime 
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",It’s Anime 
@@ -3316,7 +3318,6 @@ https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Avatar 
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Barney & Friends 
 https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Inspector Gadget
@@ -3365,6 +3366,8 @@ https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Pluto TV Toons
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Tortues Ninja TV
+https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Yu-Gi-Oh!
 https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Barbie & Friends
@@ -3571,6 +3574,8 @@ https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕",U&The Past
 https://jmp2.uk/plu-64c0d697b0cf5c000824e5d9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 
 
 #EXTINF:-1 tvg-id="Nicasports.ni" tvg-logo="https://i.imgur.com/jrBTh84.png" group-title="DEPORTES ⚽️",NicaSports
@@ -4117,6 +4122,76 @@ https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Family Club
+https://jmp2.uk/plu-64c9260ac0222700089ee62b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Ciné+
+https://jmp2.uk/stvp-FRAJ3800002W5?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Cinema Poliziottesco
+https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",CineThriller
+https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Duri a Morire
+https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Gli Immortali | Van Damme vs Lundgren
+https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Horror Club
+https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Dive Italiane
+https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Eros
+https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film+
+https://jmp2.uk/stvp-ITAJ38000055E?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Azione+
+https://jmp2.uk/stvp-ITBC3000003CT?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Commedia+
+https://jmp2.uk/stvp-ITBC3000002WL?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Romantici+
+https://jmp2.uk/stvp-ITAJ3800009J1?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Legami Letali
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Notti di Sangue
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Notti di Terrore
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Real Life+
+https://jmp2.uk/stvp-ITAJ3800006UB?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Totò
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Western
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Clube do Terror
+https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8
 
 #EXTINF:-1 tvg-id="AlanBeckerTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="COMEDIA 🤣",Becker
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
@@ -4176,6 +4251,16 @@ https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",U&Laughs
 https://jmp2.uk/plu-64c0d6f34096290008132d6b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Génération Sitcoms
+https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Pluto TV Comédie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Ridiculousness
+https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Pluto TV Scherzi e risate
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="ESTILO DE VIDA 🏡",NBC LX Home 
 https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
@@ -4251,6 +4336,14 @@ https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8
 https://jmp2.uk/plu-5c5c2e9d8002db3c3e0b1c72.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",Location location location
 https://jmp2.uk/plu-620f6f9e36a49b000761f0d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",Incroyables Transformations
+https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",La maison France 5
+https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",Zone Interdite
+https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTILO DE VIDA 🏡",Extreme Makeover Home Edition
+https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
 
 #EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="SERIES 📺",Memorias TV Series 
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
@@ -4648,11 +4741,157 @@ https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
 https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Don Matteo
 https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Flashpoint
+https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Flynn Carson et The Outpost
+https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Hélène et les garçons
+https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",iCarly TV
+https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",JAG
+https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Les Années fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Les filles d'à côté
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Les Routes du Paradis
+https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Les Z'amours
+https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Louis La Brocante
+https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",MacGyver
+https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Mission Impossible
+https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pacific Blue
+https://jmp2.uk/plu-68d279fc840d8021ee1f1e50.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Plus Belle la Vie 2
+https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Séries Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Teen
+https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Star Trek: The Original Series
+https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",The Asylum
+https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Tout le monde déteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Un gars une fille
+https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Un Si Grand Soleil
+https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Un Village Français
+https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Walker Texas Ranger
+https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Z Nation
+https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Alice Nevers
+https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Andromeda
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Autostop per il cielo
+https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",BBC Series
+https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Carabinieri
+https://jmp2.uk/plu-66a0eea88561260008b1c5d0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Cherif
+https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Dynasty
+https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Flashpoint
+https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",I soliti idioti 
+https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Il Testimone
+https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Le sorelle McLeod
+https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Love Boat
+https://jmp2.uk/plu-65cb76723a116800079e1fc3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Mai dire sì
+https://jmp2.uk/plu-6349279ed5023700078f2bc2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Mission Impossible
+https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Horror
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Serie
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Serie+
+https://jmp2.uk/stvp-ITAJ3800007P8?.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Pluto TV Teen 
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Relic Hunter
+https://jmp2.uk/plu-67d9836ba1609bdb523f0c9d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Renegade
+https://jmp2.uk/plu-634926e4b51d2d00077819a2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Sanctuary
+https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Settimo Cielo
+https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Squadra Speciale Cobra 11
+https://jmp2.uk/plu-625e6cc905e09f00073addee.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Star Trek: The Original Series
+https://jmp2.uk/plu-6581a09edfed030008e12b39.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Sulle tracce del crimine
+https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Super! Big Time Rush
+https://jmp2.uk/plu-666174c9f999220008769012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Super! iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Super! Pop
+https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Super! Victorious
+https://jmp2.uk/plu-63c012504faf1c0007abfa93.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Super! Zoey 101
+https://jmp2.uk/plu-6304ed62410a4c00083c0291.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Tandem
+https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",The Asylum
+https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",A Caçadora de Relíquias
+https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",A Feiticeira
+https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Assombrações
+https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Charmed: Jovens Bruxas
+https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Diff’rent Strokes Arnold
+https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 
 #EXTINF:-1 tvg-id="Chiquilines.us" tvg-logo="https://www.freetv.com/themes/custom/oly/freetv/logo.png" group-title="ENTRETENIMIENTO 🎙️",Chiquilines-FreeTV.com
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="ENTRETENIMIENTO 🎙️",Young Hollywood
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Vice TV 
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" group-title="ENTRETENIMIENTO 🎙️",Univision Tlnovelas 
@@ -4923,6 +5162,22 @@ https://jmp2.uk/plu-64c0d6765dc1660008a3e033.m3u8
 https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",C'est pas sorcier
 https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Instant Saga
+https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Pluto TV Inside
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Qui veut gagner des millions?
+https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Top Gear
+https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Wild Side TV
+https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Top Gear
+https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
 
 #EXTINF:-1 tvg-id="XploreTV.us@SD" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="VIAJES 🗺️",Xplore 
 https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
@@ -4942,6 +5197,12 @@ https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
 https://jmp2.uk/plu-65f0166566eec80008b96f7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VIAJES 🗺️",Echappées Belles & Co
 https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VIAJES 🗺️",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VIAJES 🗺️",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VIAJES 🗺️",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Cops en Español 
 https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
@@ -5165,6 +5426,34 @@ https://jmp2.uk/plu-64c0d6b424ade50008bc8883.m3u8
 https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",CATFISH TV
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Les Anges
+https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Les Marseillais
+https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Les Reines du Shopping
+https://jmp2.uk/plu-66f55c55940963000810bb14.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Pêche à haut risque
+https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Pluto TV Dating
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Pluto TV Reality
+https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Teen Mom
+https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",16 Anni e Incinta
+https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Affare Fatto
+https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Catfish
+https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Geordie Shore
+https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Il Banco dei Pugni
+https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Pluto TV Shore
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITIES 🎥",Acumuladores Obsessivos
+https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Crímenes Reales 
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
@@ -5342,6 +5631,40 @@ https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Enquêtes Criminelles
 https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Faites entrer l'accusé
+https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Homicide
+https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Mayday: Catastrophe Aérienne
+https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Most Haunted
+https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Pluto TV Paranormal
+https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Forensic Files
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Mayday: Disastro Aereo
+https://jmp2.uk/plu-690cb9140d121b44ad925ac9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Pluto TV Paranormal
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Pluto TV True Crime
+https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Caçadores de Óvnis
+https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Detetives Médicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Estado Paranormal
+https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Hell's Kitchen Italy 
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
@@ -5387,6 +5710,14 @@ https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
 https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Top Chef
 https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Hell's Kitchen
+https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+
 
 #EXTINF:-1 tvg-id="LuzDivinaTV.do@HD" tvg-logo="https://imgur.com/BHZw3PK.jpeg" group-title="RELIGIÓN ⛪",Luz Divina TV 
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
@@ -5973,344 +6304,6 @@ https://tvpass.org/live/TelemundoEast/hd
 #EXTINF:-1 group-title="USA Premium 🇺🇸", WNYW-DT1 
 https://tvpass.org/live/WNYWDT1/hd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Faites entrer l'accusé
-https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Family Club
-https://jmp2.uk/plu-64c9260ac0222700089ee62b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Flashpoint
-https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Flynn Carson et The Outpost
-https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Génération Sitcoms
-https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Hélène et les garçons
-https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Homicide
-https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",iCarly TV
-https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Incroyables Transformations
-https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Instant Saga
-https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Investigation by Pluto TV
-https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",JAG
-https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",La maison France 5
-https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Le miracle de l'amour
-https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Anges
-https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Années fac
-https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les filles d'à côté
-https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Marseillais
-https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Nouveaux Detectives
-https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Reines du Shopping
-https://jmp2.uk/plu-66f55c55940963000810bb14.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Routes du Paradis
-https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Les Z'amours
-https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Louis La Brocante
-https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",MacGyver
-https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Mayday: Catastrophe Aérienne
-https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Mission Impossible
-https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Most Haunted
-https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Olive & Tom
-https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pacific Blue
-https://jmp2.uk/plu-68d279fc840d8021ee1f1e50.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pêche à haut risque
-https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Plus Belle la Vie 2
-https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV 90's Classics
-https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV 2010's Classics
-https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Aventure
-https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Brigade Criminelle
-https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Ciné+
-https://jmp2.uk/stvp-FRAJ3800002W5?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Classic TV FR
-https://jmp2.uk/plu-5e46ae801f347500099d461a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Comédie
-https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Comédies Cultes
-https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Cuisine
-https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Dating
-https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV French Collection
-https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Histoire
-https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Inside
-https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Paranormal
-https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Polar
-https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Reality
-https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Séries Fantastiques
-https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Teen
-https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Qui veut gagner des millions?
-https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Ridiculousness
-https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Series by Pluto TV
-https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Star Trek: The Original Series
-https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Teen Mom
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",The Asylum
-https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Top Gear
-https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Tortues Ninja TV
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Tout le monde déteste Chris
-https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Toute une histoire
-https://jmp2.uk/plu-62f3e6aebcdda4000754fa47.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",True Crime by Pluto TV
-https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Un gars une fille
-https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Un Si Grand Soleil
-https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Un Village Français
-https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Voyages & Saveurs
-https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Walker Texas Ranger
-https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Wild Side TV
-https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Y'a que la vérité qui compte
-https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Z Nation
-https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Zone Interdite
-https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",16 Anni e Incinta
-https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Affare Fatto
-https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Alice Nevers
-https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Andromeda
-https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Autostop per il cielo
-https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",BBC Series
-https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Carabinieri
-https://jmp2.uk/plu-66a0eea88561260008b1c5d0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Catfish
-https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Cherif
-https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Cin Cin
-https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Cinema Poliziottesco
-https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",CineThriller
-https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Duri a Morire
-https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Dynasty
-https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Extreme Makeover Home Edition
-https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Flashpoint
-https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Forensic Files
-https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Geordie Shore
-https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Gli Immortali | Van Damme vs Lundgren
-https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Hell's Kitchen
-https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Horror Club
-https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",I soliti idioti 
-https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Il Banco dei Pugni
-https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Il Testimone
-https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Le sorelle McLeod
-https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Love Boat
-https://jmp2.uk/plu-65cb76723a116800079e1fc3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Mai dire sì
-https://jmp2.uk/plu-6349279ed5023700078f2bc2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Mayday: Disastro Aereo
-https://jmp2.uk/plu-690cb9140d121b44ad925ac9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Mission Impossible
-https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Alberto Sordi
-https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Christmas tutto l'anno
-https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Cinema Italiano
-https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Cinema Orientale
-https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Cucina
-https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Dive Italiane
-https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Documentari
-https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Eros
-https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film
-https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film+
-https://jmp2.uk/stvp-ITAJ38000055E?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Azione
-https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Azione+
-https://jmp2.uk/stvp-ITBC3000003CT?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Commedia
-https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Commedia+
-https://jmp2.uk/stvp-ITBC3000002WL?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Romantici
-https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Romantici+
-https://jmp2.uk/stvp-ITAJ3800009J1?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Storici
-https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Film Thriller
-https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Horror
-https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Legami Letali
-https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Notti di Crimine
-https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Notti di Passione
-https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Notti di Sangue
-https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Notti di Terrore
-https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Paranormal
-https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Real Life
-https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Real Life+
-https://jmp2.uk/stvp-ITAJ3800006UB?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Scherzi e risate
-https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Serie
-https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Serie+
-https://jmp2.uk/stvp-ITAJ3800007P8?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Serie Crime
-https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Serie Sci-Fi
-https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Shore
-https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Teen 
-https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Totò
-https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV True Crime
-https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Viaggi
-https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Pluto TV Western
-https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Relic Hunter
-https://jmp2.uk/plu-67d9836ba1609bdb523f0c9d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Renegade
-https://jmp2.uk/plu-634926e4b51d2d00077819a2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Sanctuary
-https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Settimo Cielo
-https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Squadra Speciale Cobra 11
-https://jmp2.uk/plu-625e6cc905e09f00073addee.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Star Trek: The Original Series
-https://jmp2.uk/plu-6581a09edfed030008e12b39.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Storie Criminali
-https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Sulle tracce del crimine
-https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Super! Big Time Rush
-https://jmp2.uk/plu-666174c9f999220008769012.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Super! iCarly
-https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Super! Pop
-https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Super! Victorious
-https://jmp2.uk/plu-63c012504faf1c0007abfa93.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Super! Zoey 101
-https://jmp2.uk/plu-6304ed62410a4c00083c0291.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Tandem
-https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Teen Mom
-https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",The Asylum
-https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Top Gear
-https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",A Caçadora de Relíquias
-https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",A Feiticeira
-https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Acumuladores Obsessivos
-https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Adrenalina Pura TV
-https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Assombrações
-https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Caçadores de Óvnis
-https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Charmed: Jovens Bruxas
-https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Clube do Terror
-https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Comedy Central Pluto TV
-https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",CSI: Miami
-https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Detetives Médicos
-https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Diff’rent Strokes Arnold
-https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Estado Paranormal
-https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Filmelier TV
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y ENTRETENIMIENTO 🎬",Filmes Suspense
