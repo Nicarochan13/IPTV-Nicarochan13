@@ -619,8 +619,6 @@ https://stv.janus.cl/playlist/stream.m3u8
 https://paneltv.online:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="CHILE 🇨🇱",Taltal TV
 https://183.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal.cl" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="CHILE 🇨🇱",Telecanal
-http://45.232.210.1:8029/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/512px-TV%2B_%282018%29.png" group-title="CHILE 🇨🇱",TV+ 
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="CHILE 🇨🇱",TV Chile
@@ -2465,6 +2463,8 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="MUSICALES 🎼",Taltal TV CityPop
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", group-title="MUSICALES 🎼", ZTV Music
+https://mitv.zplay.cl/ZMusic/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://sicarditv.com.ar/static/custom/logo-movil.png?t=2026-05-14+03%3A00%3A13.877577" group-title="MUSICALES 🎼",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="MUSICALES 🎼",VH1
@@ -2994,8 +2994,6 @@ https://livesg1.rtva.hiway.media/a83e851e-b220-4b7d-955c-6400f8717c40/manifest.m
 #EXTINF:-1 tvg-id="MBCAmerica.us@SD" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="INTERNACIONAL 📡",MBC America 
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 
-#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="ANIMACIÓN E INFANTILES 🎁",Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="ANIMACIÓN E INFANTILES 🎁",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",MAX Anime
@@ -3008,6 +3006,8 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="TLMasSantaAna.sv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOOOOUcMqzOjFAex3-wpbj1hZq5a_SpN9E56wNcpdOWfnSP4_1cR0eHz_ysqY1fKRuVJ5TwpHfIqb_5AeELTvNr9I8q36oPM6rZtjVylrIl_NRAa0bKZv9svGKk4iBx9lJSgYWJoZzuhyhYpnqjmHwMk2VDk5E7XECN-78xo17S7lXAF6NCuaEhcfzzgGs/w610-h267/vlcsnap-2026-01-29-15h09m12s262-Photoroom.png", group-title="ANIMACIÓN E INFANTILES 🎁", TL+ Santa Ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -3121,7 +3121,11 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="ANIMACIÓN E INFANTILES 🎁" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", group-title="ANIMACIÓN E INFANTILES 🎁", ZTV Anime
-https://mitv.zplay.cl/Ztv/index.m3u8
+https://mitv.zplay.cl/ZAnime/video.m3u8?token=TJ_FHjXfH6yrr2
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Kids" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", group-title="ANIMACIÓN E INFANTILES 🎁", ZTV Kids
+https://mitv.zplay.cl/Zkids/video.m3u8?token=TJ_FHjXfH6yrr2
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="", group-title="ANIMACIÓN E INFANTILES 🎁", AVI Kids
+https://mitv.zplay.cl/AKids/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="BeanoTV.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png" group-title="ANIMACIÓN E INFANTILES 🎁",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="ANIMACIÓN E INFANTILES 🎁",Boing (España)
@@ -5099,6 +5103,10 @@ https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="PlanetaTV.cl" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️",Planeta TV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="", group-title="ENTRETENIMIENTO 🎙️", AVI 
+https://mitv.zplay.cl/Avi/video.m3u8?token=TJ_FHjXfH6yrr2
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="", group-title="ENTRETENIMIENTO 🎙️", AVI Rewind
+https://mitv.zplay.cl/Rewind/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="ENTRETENIMIENTO 🎙️",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Vice TV 
