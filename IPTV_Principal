@@ -2467,6 +2467,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
 https://mitv.zplay.cl/ZMusic/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://sicarditv.com.ar/static/custom/logo-movil.png?t=2026-05-14+03%3A00%3A13.877577" group-title="MUSICALES 🎼",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICALES 🎼", Total Music
+https://stream.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICALES 🎼", Total Music 80s
+https://stream.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICALES 🎼", Total Music 00s
+https://stream.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICALES 🎼", Total Music Concerts
+https://stream.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICALES 🎼", Total Music Dance
+https://stream.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="MUSICALES 🎼",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="MUSICALES 🎼",Quiero Musica en mi Idioma 
@@ -3043,6 +3053,14 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Classics
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁", Spark 
+https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/index-1778763718-now.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁", TL+ 
+https://stream.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁", Primered 
+https://stream.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁", Canal LMS 
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="ANIMACIÓN E INFANTILES 🎁",Toon Goggles 
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Zoo Moo (Australia) 
@@ -5107,6 +5125,14 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 https://mitv.zplay.cl/Avi/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="", group-title="ENTRETENIMIENTO 🎙️", AVI Rewind
 https://mitv.zplay.cl/Rewind/video.m3u8?token=TJ_FHjXfH6yrr2
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="", group-title="ENTRETENIMIENTO 🎙️",ENT Channel
+https://stream.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="", group-title="ENTRETENIMIENTO 🎙️",ENT Family
+https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️", Zenith
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTRETENIMIENTO 🎙️", ADA TV
+https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="ENTRETENIMIENTO 🎙️",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-id="VICETV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" group-title="ENTRETENIMIENTO 🎙️",Vice TV 
