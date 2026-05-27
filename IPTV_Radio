@@ -31,7 +31,7 @@ https://stream-145.zeno.fm/gwkd66k0a7duv?zs=WmeZb7goR9SwOKO3Y3_g_Q
 https://server.multimediamb.com:7000/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-02/radio_catolica_de_nicaragua.png.webp?itok=uJ0JkxV0" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Católica de Nicaragua
 http://centova12.instainternet.com:8555/stream
-#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio María Nicaragua (Offline)
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Qu5vkD3jqh.jpg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio María Nicaragua
 https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LY3WagNHvZ.jpg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Sandino
 http://streaming.lasandino.com.ni:8020/lasandino.mp3
@@ -109,6 +109,12 @@ https://beradiostereo.com/assets/index-a3bdf030.css
 https://centova.hostingelectrica.net/proxy/beatradi?mp=/stream&1720536490047=
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-03/radio-la-carinosa-97.3-fm-nicaragua.png.webp?itok=Jzxq8rsT" group-title="RADIO_NICARAGUA🇳🇮 📻", Cariñosa Stereo León
 https://stream.zeno.fm/suyw8eammchvv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Sevilla Radio 93.3 FM Chinandega
+https://cdn.instream.audio/:9074/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Juventud Somotillo
+https://stream.zeno.fm/k6szdz8z1a0uv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Bilwi Stereo 102.1 FM
+https://app0103.sonicpanelradio.com:8154/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/medium/public/2023-06/el-jefe-94.1-fm-nicaragua.png?itok=ANVckVUr" group-title="RADIO_NICARAGUA🇳🇮 📻", El Jefe 94.1 FM Chinandega
 https://stream.zeno.fm/xuga06u5vc9uv
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/91.5-fm-stereo-conexion-nicaragua.png.webp?itok=bu9h1oad" group-title="RADIO_NICARAGUA🇳🇮 📻", FM Stereo Conexión Estelí
@@ -202,6 +208,7 @@ https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-0
 https://stream.zeno.fm/szhnq7azveruv
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Esquipulas Matagalpa
 https://stream.zeno.fm/kbum7waxchruv
+
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2025-04/Radio%252520Stereo%252520Digital%252520100.1%252520FM.png.webp?itok=IWh1UJDh" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Stereo Digital Matagalpa
 https://stream.zeno.fm/5dtqds7hfrruv
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-02/Radio%252520Stereo%252520Madriz.png.webp?itok=p9JcaM5-" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Stereo Madriz
