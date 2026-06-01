@@ -115,6 +115,18 @@ https://cdn.instream.audio/:9074/stream
 https://stream.zeno.fm/k6szdz8z1a0uv
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Bilwi Stereo 102.1 FM
 https://app0103.sonicpanelradio.com:8154/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/91.5-fm-stereo-conexion-nicaragua.png.webp?itok=bu9h1oad" group-title="RADIO_NICARAGUA🇳🇮 📻", FM Stereo Conexión 91.5 FM Estelí
+https://stream.zeno.fm/obwhycdkppsuv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-12/radio-la-parrandera-nicaragua.png.webp?itok=vEjgidA2" group-title="RADIO_NICARAGUA🇳🇮 📻", La Parrandera 101.7 FM Juigalpa
+https://stream.zeno.fm/nktgfm9hffpuvt
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-02/mi-querida-96.5-fm-nicaragua.png.webp?itok=j2g-3LMv" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Mi Querida 96.5 FM
+https://stream.zeno.fm/8pw5769mnrhvv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2026-04/Radio%20Robles-Nicaragua.png.webp?itok=jlFTiPBi" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Stereo Los Robles 94.9 FM
+https://server6.hostradios.com/8126/stream
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/Radio%252520San%252520Miguelito.png.webp?itok=oxZ7zwsP" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio San Miguelito
+https://stream.zeno.fm/n6w3chchfg8uv
+#EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2026-02/RC-RADIO-esteli-nicaragua.png.webp?itok=dx30duUC" group-title="RADIO_NICARAGUA🇳🇮 📻", RC Radio Estelí
+https://rcradioenlinea.radioca.st/;
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/medium/public/2023-06/el-jefe-94.1-fm-nicaragua.png?itok=ANVckVUr" group-title="RADIO_NICARAGUA🇳🇮 📻", El Jefe 94.1 FM Chinandega
 https://stream.zeno.fm/xuga06u5vc9uv
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2023-10/91.5-fm-stereo-conexion-nicaragua.png.webp?itok=bu9h1oad" group-title="RADIO_NICARAGUA🇳🇮 📻", FM Stereo Conexión Estelí
@@ -464,8 +476,28 @@ https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8
 https://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/tokyo-fm.png" group-title="RADIO_JAPON🇯🇵 📻", Tokyo FM 88.0 FM
 http://tokyofmworld.leanstream.co/JOAUFM-MP3
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/122536.v10.png" group-title="RADIO_OTROS 📻", BOX Radio Japan City Pop
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J65CR99GVHS3A7CT7D53C415.jpg" group-title="RADIO_OTROS 📻", BOX Radio Japan City Pop
 https://play.streamafrica.net/japancitypop
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J66D18HNE0X0P21ENKKG5Q4P.png" group-title="RADIO_OTROS 📻", Box Radio Weeb Anime Radio
+https://play.streamafrica.net/weebanimeradio
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J6597G67KVX84QT085DAVFS1.jpg" group-title="RADIO_OTROS 📻", Box Radio Classical Radio
+https://play.streamafrica.net/classicalradio
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J65BJFE2DXV1TC3D0WGKA2BM.png" group-title="RADIO_OTROS 📻", Box Radio Dreamscapes
+https://play.streamafrica.net/dreamscapes
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J65CHQ633YB031RWEJ6GHBJK.jpg" group-title="RADIO_OTROS 📻", Box Radio J-Pop Radio
+https://play.streamafrica.net/jpopradio
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J65CVVQWRJMT8T6ZBKVBEA1Y.png" group-title="RADIO_OTROS 📻", Box Radio K-Pop Radio
+https://play.streamafrica.net/kpopradio
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J65EZCTC4KAVKFBTKXH8ZRNK.jpg" group-title="RADIO_OTROS 📻", Box Radio Lofi Radio
+https://play.streamafrica.net/lofiradio
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J66C47J67J2ZDBW6H7HVJ5SA.jpg" group-title="RADIO_OTROS 📻", Box Radio Pop!
+https://play.streamafrica.net/popmusicradio
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J66CC1N3JMTQD9J9WTEKSKE6.jpg" group-title="RADIO_OTROS 📻", Box Radio 6
+https://play.streamafrica.net/radio6hiphop
+#EXTINF:-1 radio="true" tvg-logo="https://r2.streamafrica.net/radios/01J66CGHBET29BGBSVYQ6RSDER.png" group-title="RADIO_OTROS 📻", Box Radio Jazz
+https://play.streamafrica.net/radiojazz
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_OTROS 📻", Instrumentales de Oro
+https://stream.zeno.fm/sgtsnxe1b1duv
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EcrBmf5qEr.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻", BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/4777.v30.png" group-title="RADIO_FRANCIA🇫🇷 📻", Nostalgie (Francia)
