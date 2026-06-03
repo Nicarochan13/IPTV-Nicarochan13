@@ -29,8 +29,6 @@ https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
 http://138.117.4.70:8075/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="NICARAGUA 🇳🇮",MTV Chontales
 https://altair.hostingnica.net/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/150px-Nicarao_TV_Logo.jpg" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51
-http://138.59.177.34:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" group-title="NICARAGUA 🇳🇮",CVisión TV 
 https://stream.cvision.live/cvision_stream.m3u8
 #EXTINF:-1 tvg-id="Telenorte.ni" tvg-logo="https://i.imgur.com/rvxjAO6.png" group-title="NICARAGUA 🇳🇮",Telenorte
@@ -278,8 +276,6 @@ https://s.emisoras.tv:8081/dtp/index.m3u8
 https://5ca9af4645e15.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="CeibaVisionCanal36.hn" tvg-logo="https://i.imgur.com/90h9abf.png" group-title="HONDURAS 🇭🇳",Ceiba Vision Canal 36
 https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8
-#EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-logo="https://i.imgur.com/6qL2hE5.png" group-title="HONDURAS 🇭🇳",Cholusat Sur 36
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="CHTV.hn" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="HONDURAS 🇭🇳",CHTV
 https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="HONDURAS 🇭🇳",EDN TV 
@@ -3098,6 +3094,8 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ANIMACIÓN E INFANTILES 🎁",bitMe
+http://138.36.253.106:8066/play/a024/index.m3u8?
 #EXTINF:-1 tvg-id="1604" tvg-name="TLMasSantaAna.sv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOOOOUcMqzOjFAex3-wpbj1hZq5a_SpN9E56wNcpdOWfnSP4_1cR0eHz_ysqY1fKRuVJ5TwpHfIqb_5AeELTvNr9I8q36oPM6rZtjVylrIl_NRAa0bKZv9svGKk4iBx9lJSgYWJoZzuhyhYpnqjmHwMk2VDk5E7XECN-78xo17S7lXAF6NCuaEhcfzzgGs/w610-h267/vlcsnap-2026-01-29-15h09m12s262-Photoroom.png", group-title="ANIMACIÓN E INFANTILES 🎁", TL+ Santa Ana
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xtrema Cartoons
@@ -3115,8 +3113,6 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="AnimeVisionClassics.es" tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Vision Classics 
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="ANIMACIÓN E INFANTILES 🎁", Latino Kids TV
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="ANIMACIÓN E INFANTILES 🎁", Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="ANIMACIÓN E INFANTILES 🎁",Taltal TV Animación
@@ -3129,6 +3125,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="ANIMACIÓN E INFANTILES 🎁",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Animotion
+http://138.36.253.106:8066/play/a00h/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Los Simpson
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Dragon Ball + Dragon Ball Z
@@ -5361,8 +5359,6 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://i.imgur.com/1AcrX8T.png" group-title="ENTRETENIMIENTO 🎙️",IGN 
 https://ign-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ENTRETENIMIENTO 🎙️",bitMe
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ZonaPlayTV.cl" tvg-logo="https://i.imgur.com/GewcpHv.png" group-title="ENTRETENIMIENTO 🎙️",Zona Play TV
 https://paneltv.online:1936/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="ENTRETENIMIENTO 🎙️",Chroma TV 
