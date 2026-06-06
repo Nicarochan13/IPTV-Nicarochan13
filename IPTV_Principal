@@ -193,6 +193,10 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="Canal10Solola.gt" tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="GUATEMALA 🇬🇹",Canal 10 Sololá
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
+#EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Canal_11_Guatemala_2022.webp/500px-Canal_11_Guatemala_2022.webp.png" group-title="GUATEMALA 🇬🇹",Canal 11
+http://190.61.101.11:7050/play/a07g/index.m3u8?hls
+#EXTINF:-1 tvg-id="Canal13.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Canal_13_Guatemala_Logo.svg/330px-Canal_13_Guatemala_Logo.svg.png" group-title="GUATEMALA 🇬🇹",Canal 13
+http://190.61.101.11:7050/play/a07f/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="GUATEMALA 🇬🇹",Canal 13 Esquipulas 
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="ConoSurTV.gt" tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="GUATEMALA 🇬🇹",Canal 26 Cono Sur TV
@@ -3031,7 +3035,7 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="INTERNACIONAL 📡",Antena 3 Internacional
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="INTERNACIONAL 📡",Atreseries Internacional
-http://176.65.146.237:8401/play/a0ai/index.m3u8
+http://astra.fibernetisp.com.co/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="INTERNACIONAL 📡",TV5Monde Pacifique (Geoblock)
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="INTERNACIONAL 📡",TVE Internacional America
@@ -3761,6 +3765,10 @@ https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="DEPORTES ⚽️",Canela TV Deportes
 https://amg00658-amg00658c10-tv-international-7279.playouts.now.amagi.tv/playlist/amg00658-mediafast-deporteslt-tvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES ⚽️",Win Sports
+http://astra.fibernetisp.com.co/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES ⚽️",Win Sports +
+http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="DEPORTES ⚽️",Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES ⚽️",TUDN México
@@ -4063,7 +4071,7 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="PELICULAS 🎬",De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+http://astra.fibernetisp.com.co/play/a0m9/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="PELICULAS 🎬",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="PELICULAS 🎬",Filmex (Xumo) (Geoblock)
@@ -4071,9 +4079,9 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="PELICULAS 🎬",Filmex Clásico (Geoblock)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="PELICULAS 🎬",Golden Edge Panregional 
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://astra.fibernetisp.com.co/play/a0m8/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="PELICULAS 🎬",Golden Plus 
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://astra.fibernetisp.com.co/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="PELICULAS 🎬",Golden Premier 
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",MyTime Movie Network (Mexico)
@@ -5336,7 +5344,7 @@ https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="ENTRETENIMIENTO 🎙️",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO 🎙️",Tlnovelas
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="ENTRETENIMIENTO 🎙️",Tlnovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png" group-title="ENTRETENIMIENTO 🎙️", Recuerdos Retro Radio TV
@@ -5372,9 +5380,9 @@ http://176.65.146.237:8401/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="ENTRETENIMIENTO 🎙️",Aurora Media Films 
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="ENTRETENIMIENTO 🎙️",Paramount Channel France
-s/paramount/browser-HLS8/paramount.m3u8
+https/paramount/browser-HLS8/paramount.m3u8
 #EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="ENTRETENIMIENTO 🎙️",Az Corazon
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119960/aztecacorazon/playlist.m3u8
+http://astra.fibernetisp.com.co/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="IberoamericaTV.es@SD" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="ENTRETENIMIENTO 🎙️",IberoAmerica TV 
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="ENTRETENIMIENTO 🎙️",Nova
@@ -6302,17 +6310,37 @@ http://astra.fibernetisp.com.co/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="SURSAT 📡",AMC 
 http://astra.fibernetisp.com.co/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" tvg-logo="https://i.imgur.com/mqUqMU6.png" group-title="SURSAT 📡",America Internacional 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
+http://181.13.252.102:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="SURSAT 📡",Animal Planet
+http://astra.fibernetisp.com.co/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="SURSAT 📡",AXN 
 http://astra.fibernetisp.com.co/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png" group-title="SURSAT 📡",Cartoon Network
 http://astra.fibernetisp.com.co/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="SURSAT 📡",Cinecanal 
 http://astra.fibernetisp.com.co/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="SURSAT 📡",Cinemax 
+http://astra.fibernetisp.com.co/play/a05l/index.m3u8
+#EXTINF:-1 tvg-id="CNNEnEspanolLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/250px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SURSAT 📡",CNN en Español 
+http://astra.fibernetisp.com.co/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="SURSAT 📡",Comedy Central 
 http://astra.fibernetisp.com.co/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-id="DHELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/330px-2020_Canal_DHE_logo.svg.png" group-title="SURSAT 📡",DHE
+http://astra.fibernetisp.com.co/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" group-title="SURSAT 📡",Discovery
+http://astra.fibernetisp.com.co/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealthLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/330px-Discovery_Home_%26_Health_logo.svg.png" group-title="SURSAT 📡",Discovery Home & Health
+http://astra.fibernetisp.com.co/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/500px-Discovery_Kids_2021_2D_Gradient.svg.png" group-title="SURSAT 📡",Discovery Kids
 http://astra.fibernetisp.com.co/play/a0da/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/330px-Science_Channel_logo.svg.png" group-title="SURSAT 📡",Discovery Science
+http://astra.fibernetisp.com.co/play/a0m2/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheatherLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/960px-2015_Discovery_theater_HD_logo.svg.png" group-title="SURSAT 📡",Discovery Theater
+http://astra.fibernetisp.com.co/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/500px-Discovery_Turbo_logo.svg.png" group-title="SURSAT 📡",Discovery Turbo
+http://astra.fibernetisp.com.co/play/a0pa/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorldLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/960px-World_Discovery_HD_logo.svg.png" group-title="SURSAT 📡",Discovery World
+http://astra.fibernetisp.com.co/play/a0iq/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="SURSAT 📡",Disney Channel 
 http://astra.fibernetisp.com.co/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DreamWorks2016.svg/960px-DreamWorks2016.svg.png" group-title="SURSAT 📡",DreamWorks Channel
@@ -6321,6 +6349,26 @@ http://astra.fibernetisp.com.co/play/a0lo/index.m3u8
 http://astra.fibernetisp.com.co/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="SURSAT 📡",El Gourmet 
 http://astra.fibernetisp.com.co/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="SURSAT 📡",ESPN 
+http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png" group-title="SURSAT 📡",ESPN 2
+http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/500px-ESPN2_logo.svg.png" group-title="SURSAT 📡",ESPN 2 LATAM
+http://astra.fibernetisp.com.co/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/500px-ESPN3_Logo.png" group-title="SURSAT 📡",ESPN 3 
+http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/500px-ESPN_4_logo.svg.png" group-title="SURSAT 📡",ESPN 4 
+http://astra.fibernetisp.com.co/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="SURSAT 📡",ESPN 5
+http://astra.fibernetisp.com.co/play/a0id/index.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="SURSAT 📡",ESPN 6
+http://astra.fibernetisp.com.co/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/500px-ESPN_7_logo.svg.png" group-title="SURSAT 📡",ESPN 7
+http://astra.fibernetisp.com.co/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropaLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="SURSAT 📡",
+http://181.13.252.102:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="FilmandArtsLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="SURSAT 📡",Film & Arts
+http://181.13.252.102:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="SURSAT 📡",Fox Sports 
 http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="SURSAT 📡",Fox Sports 2
@@ -6329,10 +6377,24 @@ http://181.13.252.102:8000/play/a05c/index.m3u8
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="SURSAT 📡",FX 
 http://astra.fibernetisp.com.co/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="SURSAT 📡",HBO
+http://astra.fibernetisp.com.co/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png" group-title="SURSAT 📡",HBO Family
+http://astra.fibernetisp.com.co/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png" group-title="SURSAT 📡",HBO Mundi
+http://astra.fibernetisp.com.co/play/a0di/index.m3u8
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png" group-title="SURSAT 📡",HBO POP
+http://astra.fibernetisp.com.co/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png" group-title="SURSAT 📡",HBO Xtreme
+http://astra.fibernetisp.com.co/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/500px-HGTV_2010.svg.png" group-title="SURSAT 📡",HGTV
+http://astra.fibernetisp.com.co/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="SURSAT 📡",History 
 http://astra.fibernetisp.com.co/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="SURSAT 📡",History 2 
 http://astra.fibernetisp.com.co/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="SURSAT 📡",Investigation Discovery
+http://astra.fibernetisp.com.co/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="SURSAT 📡",Las Estrellas Latinoamérica
 http://astra.fibernetisp.com.co/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="SURSAT 📡",Lifetime 
@@ -6343,8 +6405,12 @@ http://astra.fibernetisp.com.co/play/a0op/index.m3u8
 http://astra.fibernetisp.com.co/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="SURSAT 📡",Nickelodeon 
 http://astra.fibernetisp.com.co/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/250px-Pasiones_Tv_logo.svg.png" group-title="SURSAT 📡",Pasiones
+http://astra.fibernetisp.com.co/play/a0j7/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/250px-Sony_Channel_Logo.png" group-title="SURSAT 📡",Sony Channel
 http://astra.fibernetisp.com.co/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="SpaceLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/500px-SpaceLogo.svg.png" group-title="SURSAT 📡",Space
+http://astra.fibernetisp.com.co/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="SURSAT 📡",Star Channel 
 http://astra.fibernetisp.com.co/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="SURSAT 📡",Studio Universal 
@@ -6353,8 +6419,14 @@ http://astra.fibernetisp.com.co/play/a0tn/index.m3u8
 http://astra.fibernetisp.com.co/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="SURSAT 📡",Telemundo Internacional 
 http://astra.fibernetisp.com.co/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/330px-TLC_logo_%282023%29.svg.png" group-title="SURSAT 📡",TLC 
+http://astra.fibernetisp.com.co/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png" group-title="SURSAT 📡",TNT
 http://astra.fibernetisp.com.co/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelasLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png" group-title="SURSAT 📡",TNT Novelas
+http://astra.fibernetisp.com.co/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/250px-TNT_Series_2025.svg.png" group-title="SURSAT 📡",TNT Series
+http://astra.fibernetisp.com.co/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/500px-Logo_de_Tooncast.svg.png" group-title="SURSAT 📡",Tooncast
 http://astra.fibernetisp.com.co/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="SURSAT 📡",Universal TV 
