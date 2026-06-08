@@ -2486,47 +2486,48 @@ https://ythls.armelin.one/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
 https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 
 #EXTINF:-1 tvg-id="ABC.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="JAPON 🇯🇵", ABC
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+https://naori-test.netgenx.site/px.php?shk_cid=gx02
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg" group-title="JAPON 🇯🇵",BS Asahi
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+https://naori-test.netgenx.site/px.php?shk_cid=bs03
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png" group-title="JAPON 🇯🇵",BS Fuji
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+https://naori-test.netgenx.site/px.php?shk_cid=bs06
 #EXTINF:-1 tvg-id="BSNTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png" group-title="JAPON 🇯🇵",BS NTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+https://naori-test.netgenx.site/px.php?shk_cid=bs02
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png" group-title="JAPON 🇯🇵",BS TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+https://naori-test.netgenx.site/px.php?shk_cid=bs04
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="JAPON 🇯🇵",BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+https://naori-test.netgenx.site/px.php?shk_cid=bs05
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="JAPON 🇯🇵",Fuji TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd05
 #EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+https://naori-test.netgenx.site/px.php?shk_cid=cs26
 #EXTINF:-1 tvg-id="JCOMBS.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119" group-title="JAPON 🇯🇵",JCOM BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+https://naori-test.netgenx.site/px.php?shk_cid=bs31
 #EXTINF:-1 tvg-id="MBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JAPON 🇯🇵", MBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+https://naori-test.netgenx.site/px.php?shk_cid=gx01
 #EXTINF:-1 tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="JAPON 🇯🇵", Mondo TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+https://naori-test.netgenx.site/px.php?shk_cid=cs21
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="JAPON 🇯🇵",NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+https://naori-test.netgenx.site/px.php?shk_cid=bs11
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="JAPON 🇯🇵",NHK BSP4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+https://naori-test.netgenx.site/px.php?shk_cid=bs01
 #EXTINF:-1 tvg-id="NHKE.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JAPON 🇯🇵",NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd02
 #EXTINF:-1 tvg-id="NHKG.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPON 🇯🇵",NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd01
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="JAPON 🇯🇵",Nippon TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd03
 #EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+https://naori-test.netgenx.site/px.php?shk_cid=gx07
 #EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPON 🇯🇵",TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd04
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JAPON 🇯🇵",TOKYO MX 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd08
+
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="JAPON 🇯🇵",TV Asahi
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd06
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="JAPON 🇯🇵",TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+https://naori-test.netgenx.site/px.php?shk_cid=hdgd07
 
 #EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="MUSICALES 🎼",Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -2740,13 +2741,15 @@ https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="7080TV.it@SD" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="MUSICALES 🎼",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="KayoPops.jp" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1AFOxZHFBvf-eLgADxBaFKa54T5oDOvxEaQfz9VMCU_c=s512-c-k-c0x00ffffff-no-rj" group-title="MUSICALES 🎼",Kayo Pops
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+https://naori-test.netgenx.site/px.php?shk_cid=cs13
 #EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSICALES 🎼",MTV Japan 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+https://naori-test.netgenx.site/px.php?shk_cid=cs18
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg" group-title="MUSICALES 🎼",Music Japan TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+https://naori-test.netgenx.site/px.php?shk_cid=cs06
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Space_Shower_-_1999.svg/revision/latest/scale-to-width-down/512" group-title="MUSICALES 🎼",Space Shower TV 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+https://naori-test.netgenx.site/px.php?shk_cid=bs26
+#EXTINF:-1 tvg-id="SkyStage.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png" group-title="MUSICALES 🎼",Takarazuka Sky Stage 
+https://naori-test.netgenx.site/px.php?shk_cid=cs28
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="MUSICALES 🎼",Trace Urban 
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HNrKqGM.png" group-title="MUSICALES 🎼",Radio Italia Trend 
@@ -2935,7 +2938,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="NOTICIAS 🌐",BBC News  
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="NOTICIAS 🌐",BBC News (Japón)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+https://naori-test.netgenx.site/px.php?shk_cid=cs15
 #EXTINF:-1 tvg-id="GiornaleRadioTV.it" tvg-logo="https://i.imgur.com/2Y5qiao.png" group-title="NOTICIAS 🌐",Giornale Radio TV 
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MinformoTV.it" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="NOTICIAS 🌐",Minformo TV 
@@ -2997,9 +3000,9 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="NOTICIAS 🌐" tvg-name="Bloomberg Europe",Bloomberg Europe EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="TBSNewsCS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" group-title="NOTICIAS 🌐",TBS News 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+https://naori-test.netgenx.site/px.php?shk_cid=cs11
 #EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg" group-title="NOTICIAS 🌐",CNNj
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+https://naori-test.netgenx.site/px.php?shk_cid=cs16
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="NOTICIAS 🌐",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 
@@ -3141,6 +3144,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us@SD" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="ANIMACIÓN E INFANTILES 🎁",MBC 3 USA 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-id="JapanimTV.be@SD" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="ANIMACIÓN E INFANTILES 🎁",Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="ANIMACIÓN E INFANTILES 🎁",Monte Grande TV Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="ANIMACIÓN E INFANTILES 🎁",Pakapaka 
@@ -3277,13 +3282,13 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Q8ajooLoUcC8rieersHieiDPHToDjytGCrECP_DxknEPRfnQgMdwcQ22ncDGuf4CffgEcpJaDw=s200" group-title="ANIMACIÓN E INFANTILES 🎁" tvg-name="What a Toon TV",What a Toon TV 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16111&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_id=mirametv_live&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&min_ad_duration=6&max_ad_duration=120&ifa_type=[IFA_TYPE]
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" group-title="ANIMACIÓN E INFANTILES 🎁",Animax 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+https://naori-test.netgenx.site/px.php?shk_cid=bs15
 #EXTINF:-1 tvg-id="CartoonNetworkJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Network (Japón)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+https://naori-test.netgenx.site/px.php?shk_cid=cs25
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel Japan 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+https://naori-test.netgenx.site/px.php?shk_cid=bs24
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/Z2HEh0A.jpeg" group-title="ANIMACIÓN E INFANTILES 🎁",Kids Station 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+https://naori-test.netgenx.site/px.php?shk_cid=cs07
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Beyblade (Español) 
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Mr. Bean Animado (Español) 
@@ -3707,7 +3712,13 @@ https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PZRQvFv.png" group-title="CULTURA Y CIENCIA 📕",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="CULTURA Y CIENCIA 📕",National Geographic Japan 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+https://naori-test.netgenx.site/px.php?shk_cid=cs10
+#EXTINF:-1 tvg-id="Discovery.jp@SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CULTURA Y CIENCIA 📕",Discovery Japan 
+https://naori-test.netgenx.site/px.php?shk_cid=cs08
+#EXTINF:-1 tvg-id="AnimalPlanet.jp@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="CULTURA Y CIENCIA 📕",Animal Planet Japan 
+https://naori-test.netgenx.site/px.php?shk_cid=cs24
+#EXTINF:-1 tvg-id="History.jp@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg" group-title="CULTURA Y CIENCIA 📕",History Japan 
+https://naori-test.netgenx.site/px.php?shk_cid=cs09
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="CULTURA Y CIENCIA 📕",Wonder 
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕",Nature Time France 
@@ -3859,18 +3870,20 @@ https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES ⚽️",DirecTV Sports 
 http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1 tvg-id="GAORASPORTS.jp" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="DEPORTES ⚽️",Gaora Sports
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 tvg-id="GAORASPORTS.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg" group-title="DEPORTES ⚽️",Gaora Sports
+https://naori-test.netgenx.site/px.php?shk_cid=cs17
+#EXTINF:-1 tvg-id="GREENCHANNEL.jp" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="DEPORTES ⚽️",Green Channel
+https://naori-test.netgenx.site/px.php?shk_cid=bs14
 #EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="DEPORTES ⚽️",J Sports 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+https://naori-test.netgenx.site/px.php?shk_cid=bs18
 #EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="DEPORTES ⚽️",J Sports 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+https://naori-test.netgenx.site/px.php?shk_cid=bs19
 #EXTINF:-1 tvg-id="JSPORTS3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="DEPORTES ⚽️",J Sports 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+https://naori-test.netgenx.site/px.php?shk_cid=bs21
 #EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="DEPORTES ⚽️",J Sports 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+https://naori-test.netgenx.site/px.php?shk_cid=bs22
 #EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://i.imgur.com/7237pCC.png" group-title="DEPORTES ⚽️",Nittele G Plus
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+https://naori-test.netgenx.site/px.php?shk_cid=cs02
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="DEPORTES ⚽️",Sport Italia 
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES ⚽️", 21 Jump Street 
@@ -4115,15 +4128,15 @@ s/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png" group-title="PELICULAS 🎬",Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="PELICULAS 🎬",Movie Plus 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+https://naori-test.netgenx.site/px.php?shk_cid=cs14
 #EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://i.imgur.com/B2wzA67.png" group-title="PELICULAS 🎬",Nihon Eiga Senmon 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+https://naori-test.netgenx.site/px.php?shk_cid=bs23
 #EXTINF:-1 group-title="PELICULAS 🎬" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+https://naori-test.netgenx.site/px.php?shk_cid=bs08
 #EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/QsTjHDU.jpeg" group-title="PELICULAS 🎬",Toei Channel 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+https://naori-test.netgenx.site/px.php?shk_cid=cs27
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="PELICULAS 🎬",WOWOW Cinema 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+https://naori-test.netgenx.site/px.php?shk_cid=bs07
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" group-title="PELICULAS 🎬",Grjngo Spain 
 https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="PELICULAS 🎬",Rakuten TV Action Movies Spain 
@@ -4556,11 +4569,13 @@ https://dvrfl04.tulix.tv/teleup-comedytv/mpegts
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="COMEDIA 🤣",Just for Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="COMEDIA 🤣",Distrito Comedia 
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://138.36.253.106:8066/play/a02e/index.m3u8?hls
 #EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="COMEDIA 🤣",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsItaly.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="COMEDIA 🤣",Just for Laughs
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="COMEDIA 🤣",SNL Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Mr Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Generation Sitcoms 
@@ -4576,7 +4591,7 @@ https://lol-lolnetwork-2-gb.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",FailArmy
-https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",MTV Ridiculousness
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",Pluto TV Humor
@@ -5396,11 +5411,11 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="ENTRETENIMIENTO 🎙️",Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://i.imgur.com/PCx6Qz3.png" group-title="ENTRETENIMIENTO 🎙️",Family Gekijo 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+https://naori-test.netgenx.site/px.php?shk_cid=cs20
 #EXTINF:-1 tvg-id="WOWOWLive.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="ENTRETENIMIENTO 🎙️",WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+https://naori-test.netgenx.site/px.php?shk_cid=bs20
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="ENTRETENIMIENTO 🎙️",WOWOW Prime 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+https://naori-test.netgenx.site/px.php?shk_cid=bs12
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png" group-title="ENTRETENIMIENTO 🎙️",Univision Tlnovelas 
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="ENTRETENIMIENTO 🎙️",Lone Star 
