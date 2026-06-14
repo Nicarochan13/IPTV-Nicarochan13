@@ -924,11 +924,11 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="BOLIVIA 🇧🇴",ATB
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="BOLIVIA 🇧🇴",Bolivia TV 7.2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/Jj2KB5H.png" group-title="BOLIVIA 🇧🇴",Bolivia TV 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/Jj2KB5H.png" group-title="BOLIVIA 🇧🇴",Bolivia TV (Opción 2)
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="BOLIVIA 🇧🇴",Bolivia TV 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="BOLIVIA 🇧🇴",Bolivisión 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -1080,7 +1080,7 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="ValeTV.ve" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="VENEZUELA 🇻🇪",Vale TV
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Venevisi%C3%B3n1970.svg" group-title="VENEZUELA 🇻🇪", Venevision 
-http://astra.fibernetisp.com.co/play/a0cs/index.m3u8
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="VENEZUELA 🇻🇪",Venezolana de Televisión 
 http://38.41.8.1:8000/play/a03i
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="VENEZUELA 🇻🇪",Vepaco TV 
@@ -3082,8 +3082,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png", group-title="INTERNACIONAL 📡",13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="INTERNACIONAL 📡",Telemundo Internacional 
-http://190.2.212.209:8050/play/a0oa
 #EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="INTERNACIONAL 📡",STAR International 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="INTERNACIONAL 📡" tvg-name="ATV Andorra",ATV Andorra
@@ -3162,8 +3160,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Classics
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁", Spark 
-https://stream.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/tracks-v1a1/index-1778763718-now.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="ANIMACIÓN E INFANTILES 🎁", TL+ 
 https://stream.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="ANIMACIÓN E INFANTILES 🎁", Primired 
@@ -3245,10 +3241,6 @@ http://92.114.85.72:8000/play/a0a6
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="PopUp.uk" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="ANIMACIÓN E INFANTILES 🎁",Pop Up
 https://jmp2.uk/sam-GB25000016G.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="ANIMACIÓN E INFANTILES 🎁" tvg-id="AniRetro" tvg-name="AniRetro", AniRetro
-https://tv.arkeo.cl:19360/8000/8000.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="ANIMACIÓN E INFANTILES 🎁" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", group-title="ANIMACIÓN E INFANTILES 🎁", ZTV Anime
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Kids" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", group-title="ANIMACIÓN E INFANTILES 🎁", ZTV Kids
@@ -6275,6 +6267,12 @@ https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="RELIGIÓN ⛪", EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JN19.pe@SD" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="RELIGIÓN ⛪",JN19 
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="RELIGIÓN ⛪",TV Familia 
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-id="RadioHogar.pa@SD" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" group-title="RELIGIÓN ⛪",Radio Hogar 
+https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:-1 tvg-id="TreceTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png" group-title="RELIGIÓN ⛪", Trece TV
 http://45.95.78.232:8001/udp/239.106.84.7:5000
 #EXTINF:-1 tvg-id="CandelariaTV.gt" tvg-logo="https://i.imgur.com/Mq1yoUQ.png" group-title="RELIGIÓN ⛪", Candelaria TV
