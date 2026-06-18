@@ -310,7 +310,7 @@ https://sc.host-live.com:10943/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-py/estacion-40.png" group-title="RADIO_PARAGUAY🇵🇾 📻",Estación40
 https://mdstrm.com/audio/62d81cfbbfbcee0837ba1b60/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-py/780-am.png" group-title="RADIO_PARAGUAY🇵🇾 📻",Radio 1° de Marzo
-https://r2---sn-ajhp55-5q.c.2mdn.net/videoplayback/id/f946b3cb4d738013/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1813331359/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,source,xpc/signature/1479C5E4AD4BB4F1470A26E7242D0475343F8A2D.58B7606020ED81CDBC01B1C817C50922AE7749AF/key/cms1/cms_redirect/yes/met/1781795359,/mh/yN/mip/190.143.240.73/mm/42/mn/sn-ajhp55-5q/ms/onc/mt/1781795077/mv/m/mvi/2/pl/24/rms/onc,onc/file/file.mp4
+https://rds3.desdeparaguay.net/mov780/mov780.stream/chunklist_w1051181760.m3u8?k=8168de9ae53c6f1cd8862e68c6e10f857ed5bd0611f1c1c2bc580dddd3d68d93&exp=1781797497
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-py/caritas.png" group-title="RADIO_PARAGUAY🇵🇾 📻",Cáritas 680 AM
 http://200.1.201.244:8000/680AM
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-py/monumental.png" group-title="RADIO_PARAGUAY🇵🇾 📻",Radio Monumental
@@ -674,8 +674,6 @@ https://media.streamingradiomx.com/listen/radio_baladas_viejitas_bonitas/radio.m
 http://puertoplataradio.com:8016/;
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_REPUBLICA DOMINICANA🇩🇴 📻", Radio Amor 
 http://radio.domiplay.net:9190/stream/1/
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_OTROS 📻",Fútbol de Primera Radio
-https://r3---sn-hp57yns7.c.2mdn.net/videoplayback/id/f946b3cb4d738013/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1813331631/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,source,xpc/signature/655BBD238A043E65B135149DE4A69664F0AFFA3C.3D8FE8C8256739EE99F030EC4D7C5393BB6F57E9/key/cms1/cms_redirect/yes/met/1781795631,/mh/yN/mip/190.143.240.73/mm/42/mn/sn-hp57yns7/ms/onc/mt/1781795322/mv/m/mvi/3/pl/24/rms/onc,onc/file/file.mp4
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_OTROS 📻", Radio Anime Nexus
 http://radio.animenexus.mx:8000/animenexus
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_OTROS 📻", Tres Patines Radio
