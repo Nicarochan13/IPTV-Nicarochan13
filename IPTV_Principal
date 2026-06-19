@@ -370,7 +370,7 @@ https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 #EXTINF:-1 tvg-id="LaXitosaPanama.pa" tvg-logo="https://i.imgur.com/Pt4F9Xz.png" group-title="PANAMÁ 🇵🇦",LaXitosa Panamá 
 https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="PANAMÁ 🇵🇦",Nex TV Canal 21
-https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+https://movil.ejeserver.com/live/nextv.m3u8
 #EXTINF:-1 tvg-id="Planet1009FM.pa@SD" tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="PANAMÁ 🇵🇦",Planet 100.9 FM 
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PlusTV.pa" tvg-logo="https://image.roku.com/developer_channels/prod/84d1f1e27f3b9544f23ee9b01949f2224f8f52dbda505a2ceaea968f2d7933f6.png" group-title="PANAMÁ 🇵🇦",Plus TV 
@@ -592,8 +592,12 @@ https://stream.wifispeed.cl:3033/hybrid/play.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BuinSomosTodos.cl" tvg-logo="https://i.imgur.com/zzeBtux.png" group-title="CHILE 🇨🇱",Buin Somos Todos
 https://bst.buin.cl/0.m3u8
+#EXTINF:-1 tvg-id="CalderaVision.cl@SD" tvg-logo="https://i.imgur.com/A3Jiffe.png" group-title="CHILE 🇨🇱",Caldera Vision
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1Nuble.cl@SD" tvg-logo="https://i.imgur.com/PGSixH5.png" group-title="CHILE 🇨🇱",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5PuertoMontt.cl@SD" tvg-logo="https://i.imgur.com/pLobTRW.png" group-title="CHILE 🇨🇱",Canal 5 Puerto Montt
+https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="CHILE 🇨🇱",Canal 9 Bío Bío Televisión
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11Aysen.cl" tvg-logo="https://i.imgur.com/63BwBrx.png" group-title="CHILE 🇨🇱",Canal 11 Aysén
@@ -622,6 +626,10 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 https://v1.tustreaming.cl/cosmostv/index.m3u8
 #EXTINF:-1 tvg-id="DecimaTV.cl@SD" tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="CHILE 🇨🇱",Décima TV (Ancud) 
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="El3deConce.cl@SD" tvg-logo="https://i.imgur.com/KvsrWyE.png" group-title="CHILE 🇨🇱",El 3 de Conce
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
+#EXTINF:-1 tvg-id="ElCanalFeliz.cl@SD" tvg-logo="https://i.imgur.com/UlmYraS.png" group-title="CHILE 🇨🇱",El Canal Feliz
+http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="CHILE 🇨🇱",Enfoque Digital TV
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="Girovisual.cl" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="CHILE 🇨🇱",Girovisual
@@ -675,7 +683,7 @@ https://live.chileservidores.com:8081/universal/index.m3u8
 #EXTINF:-1 tvg-id="RadioZetaTV.cl" tvg-logo="https://i.imgur.com/iVn0icQ.png" group-title="CHILE 🇨🇱",Radio Zeta TV
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaMariaTelevision.cl" tvg-logo="https://i.imgur.com/SnbGpoK.png" group-title="CHILE 🇨🇱",Santa María Televisión
-https://unlimited2-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sextavision.cl" tvg-logo="https://i.imgur.com/mwUZBU9.png" group-title="CHILE 🇨🇱",Sextavisión
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="StgoTV.cl" tvg-logo="https://i.imgur.com/VrqjFUf.png" group-title="CHILE 🇨🇱",Stgo.TV
@@ -771,10 +779,11 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://183.bozztv.com/giatv/giatv-megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="PERÚ 🇵🇪",Nativa 
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERÚ 🇵🇪",Panamericana Televisión
-http://181.224.255.210:8001/play/a0r6/index.m3u8?hls
+#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="PERÚ 🇵🇪",Panamericana TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PBOTV.pe" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERÚ 🇵🇪",PBO TV
-http://38.183.182.166:8000/play/a13k/index.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="PERÚ 🇵🇪",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="PERÚ 🇵🇪",Sol Televisión
@@ -964,18 +973,22 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-id="CTV.bo@SD" tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="BOLIVIA 🇧🇴",CTV
 https://live.ctvbolivia.com/hls/ctv.m3u8
+#EXTINF:-1 tvg-id="DeltaTV.bo@SD" tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="BOLIVIA 🇧🇴",Delta TV
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Erbol.bo@SD" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="BOLIVIA 🇧🇴",Erbol 
+https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo" tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="BOLIVIA 🇧🇴",F10 HD 
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="BOLIVIA 🇧🇴",Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="PATTV.bo" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="BOLIVIA 🇧🇴",PAT TV
 https://www.redpat.tv:8000/play/110/index.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA 🇧🇴",Red Uno
-https://master.tucableip.com/muxredunosc/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="BOLIVIA 🇧🇴",Red Uno
+https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="BOLIVIA 🇧🇴",RTP 
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Unitel.bo" tvg-logo="ttps://i.imgur.com/B9wg1zj.png" group-title="BOLIVIA 🇧🇴",UNITEL
-https://master.tucableip.com/tvhome/index.m3u8
+https://master.tucableip.com/muxunitelsc/index.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo@SD" tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="BOLIVIA 🇧🇴" http-referrer="https://tv.upea.bo/live",UPEA TV 
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="UPPTV.bo@SD" tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="BOLIVIA 🇧🇴",UPP TV/Bolivisión SCZ
@@ -2577,6 +2590,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="MUSICALES 🎼",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ApocalipsisTVD.cl@SD" tvg-logo="https://i.imgur.com/XNrYx1n.png" group-title="MUSICALES 🎼",Apocalipsis TVD 
+https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="MUSICALES 🎼",Taltal TV CityPop
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Music" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", group-title="MUSICALES 🎼", ZTV Music
@@ -3839,6 +3854,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="DEPORTES ⚽️",Tigo Sports
 http://45.190.185.204:9000/play/a0oa/index.m3u8?hls
+#EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="DEPORTES ⚽️",Teletrak 
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" tvg-logo="" group-title="DEPORTES ⚽️",FOX Internacional
 https://live-manifest.production-public.tubi.io/live/350b89fa-8786-4dd8-9707-37d3e41cf0aa/playlist.m3u8
 #EXTINF:-1 tvg-id="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" tvg-logo="" group-title="DEPORTES ⚽️",FOX en Tubi Xtra
