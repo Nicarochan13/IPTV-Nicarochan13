@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/7lzjbAU" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
+#EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/2PXDHzC" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://45.190.185.204:9000/play/a0k8/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
 http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/NOfxhmz" group-title="NICARAGUA 🇳🇮",Canal 6
+#EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/XbomErh" group-title="NICARAGUA 🇳🇮",Canal 6
 http://45.190.185.204:9000/play/a0jt/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal7Boaco.ni" tvg-logo="https://i.imgur.com/chXNX9k.jpeg" group-title="NICARAGUA 🇳🇮",Canal 7 Boaco
 https://cdn.amixtv.com/c7boaco/index.m3u8
@@ -17,17 +17,17 @@ https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 http://45.190.185.204:9000/play/a075/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal11.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5Sw6Rzw.png" group-title="NICARAGUA 🇳🇮",Canal 11
 http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/nicavisi-n-canal-12-Ncf5jXV" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/ZbjMk2s" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
 http://45.190.185.204:9000/play/a0ja/index.m3u8?hls
-#EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/BN6vAHd" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
+#EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/4dlIly3" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
 http://45.190.185.204:9000/play/a0ju/index.m3u8?hls
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="NICARAGUA 🇳🇮",Vos TV Canal 14
 http://45.190.185.204:9000/play/a0jq/index.m3u8?hls
-#EXTINF:-1 tvg-id="Canal15.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Canal_15_educativo_cultural.svg/" group-title="NICARAGUA 🇳🇮",Canal 15
+#EXTINF:-1 tvg-id="Canal15.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/O579QTW" group-title="NICARAGUA 🇳🇮",Canal 15
 http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.ibb.co/Lzv1LQs/LaRock22.jpg" group-title="NICARAGUA 🇳🇮",La Rock 22
 https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/CDNN_23_Nicaragua.png" group-title="NICARAGUA 🇳🇮",CDNN 23
+#EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/kuKfvq5" group-title="NICARAGUA 🇳🇮",CDNN 23
 http://138.117.4.70:8075/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="NICARAGUA 🇳🇮",MTV Chontales
 https://altair.hostingnica.net/hls/0/stream.m3u8
@@ -45,7 +45,7 @@ https://amixtv.com:8081/34com/index.m3u8?fbclid=IwY2xjawQImwpleHRuA2FlbQIxMABicm
 https://vivatv.juanjuiserver.com:3837/live/wrstvnicaragualive.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="NICARAGUA 🇳🇮",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://imgur.com/a/WxQss3O" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
+#EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://imgur.com/a/ZJCV6Gq" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
 https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360RFTV.cr@SD" tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="COSTA RICA 🇨🇷",360 RFTV 
@@ -613,8 +613,6 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11Aysen.cl" tvg-logo="https://i.imgur.com/63BwBrx.png" group-title="CHILE 🇨🇱",Canal 11 Aysén
 https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE 🇨🇱",Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/133px-Emblema_del_Canal_13_Chile.svg.png" group-title="CHILE 🇨🇱",Canal 13- (Opción 2)
 http://45.181.120.65:9087/play/007
 #EXTINF:-1 tvg-id="Canal21.cl@SD" tvg-logo="https://i.imgur.com/znmWqhW.png" group-title="CHILE 🇨🇱",Canal 21
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
@@ -625,8 +623,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/c68d2bbc21789bd5b1ddc5353b4637ba.png" group-title="CHILE 🇨🇱", Cauquenesnet TV
 https://vdo.miserver.pro:3102/stream/play.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="CHILE 🇨🇱",ChileVisión
-http://38.250.127.17:9800/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="CHILE 🇨🇱",ChileVisión (Opción 2)
 http://38.7.197.119:4000/play/a01j
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Cv39r3czF0w/XovwZlRIgyI/AAAAAAAAxhI/u9IUH1nGlX4XEJA-Pqc2wGXfJJrbjejgwCK8BGAsYHg/s0/2020-04-06.png" group-title="CHILE 🇨🇱", ChocolateFM
 https://5eaccbab48461.streamlock.net:1936/8056/8056/playlist.m3u8
@@ -1817,6 +1813,8 @@ https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 https://dvrfl04.tulix.tv/teleup-laff/mpegts
 #EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="USA 🇺🇸",Mega TV, Miami (WSBS-TV)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png" group-title="USA 🇺🇸",MeTV 
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="KMIZDT2.us@SD" tvg-logo="" group-title="USA 🇺🇸",MeTV Columbia, Missouri (KMIZ-DT2)
 https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="WPLGDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" group-title="USA 🇺🇸",MeTV Miami (WPLG-DT2)
@@ -1889,6 +1887,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="USA 🇺🇸",TBS East (Geoblock)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Telexitos.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA 🇺🇸",Telexitos
+http://190.197.41.183/TELEXITOS/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="USA 🇺🇸",Telemundo New York (WNJU-DT1)
 http://104.238.205.28:9090/278678_.m3u8
 #EXTINF:-1 tvg-id="WSCVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="USA 🇺🇸", Telemundo WSCV-DT1 (Fort Lauderdale, FL)
@@ -1899,6 +1899,8 @@ https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="USA 🇺🇸",Telemundo Puerto Rico (WKAQ-DT1) 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/512px-Telemundo_31_(2019).svg.png" group-title="USA 🇺🇸",Telemundo Salt Lake City (KTMW-CD1)
+https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
 #EXTINF:-1 tvg-id="WKCFDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png" group-title="USA 🇺🇸",True Crime Network Orlando (WKCF-DT2)
 https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
 #EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="USA 🇺🇸",TeleOnce (WLII-DT) 
@@ -1949,9 +1951,9 @@ https://tv2.fastcast4u.com:3943/stream/play.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="ESPAÑA 🇪🇸",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="ESPAÑA 🇪🇸",Antena 3
-http://92.176.119.180:2095/play/a1ee
+https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="ESPAÑA 🇪🇸",Atreseries
-http://176.65.146.237:8401/play/a0ai/index.m3u8
+https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="ESPAÑA 🇪🇸",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal4Catalunya.es" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="ESPAÑA 🇪🇸",Canal 4 Catalunya 
@@ -1965,11 +1967,11 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/A9TmimD.png" group-title="ESPAÑA 🇪🇸",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="ESPAÑA 🇪🇸",Cuatro
-http://92.176.119.180:2095/play/a1g2
+https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8
 #EXTINF:-1 tvg-id="Divinity.es@SD" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="ESPAÑA 🇪🇸",Divinity
 http://92.176.119.180:2095/play/a1g1
 #EXTINF:-1 tvg-id="Energy.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png" group-title="ESPAÑA 🇪🇸",Energy
-http://92.176.119.180:2095/play/a1ep
+https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="ESPAÑA 🇪🇸",ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="ESPAÑA 🇪🇸",ETB 2
@@ -2355,6 +2357,12 @@ https://live.ctbperth.net.au/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="AUSTRALIA 🇦🇺",CTB Perth Movies 
 https://movies.ctbperth.net.au/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="4seven.uk@SD" tvg-logo="https://i.imgur.com/Fpaxyop.png" group-title="REINO UNIDO 🇬🇧",4seven 
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-id="5SELECT.uk@SD" tvg-logo="https://i.imgur.com/WJ9xR6l.png" group-title="REINO UNIDO 🇬🇧",5SELECT 
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-id="5STAR.uk@SD" tvg-logo="https://i.imgur.com/PI11s9s.png" group-title="REINO UNIDO 🇬🇧",5STAR 
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="REINO UNIDO 🇬🇧",BBC Alba (Geoblock)
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="REINO UNIDO 🇬🇧",BBC Four (Geoblock)
@@ -2387,7 +2395,7 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 #EXTINF:-1 tvg-id="BBCUHD5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="REINO UNIDO 🇬🇧",BBC UHD 5 (Geoblock)
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="REINO UNIDO 🇬🇧",Channel 4
-http://109.61.81.129/1199/index.m3u8
+https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="REINO UNIDO 🇬🇧",Channel 5
 http://149.102.245.111/1242/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="REINO UNIDO 🇬🇧",Channel S 
@@ -2443,12 +2451,22 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="PORTUGAL 🇵🇹" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="PORTUGAL 🇵🇹",SIC 
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="PORTUGAL 🇵🇹",SIC (Geoblock)
+#EXTVLCOPT:http-referrer=https://sic.pt/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:-1 tvg-id="SICAltaDefinicao.pt" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="PORTUGAL 🇵🇹",SIC Alta Definição 
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="PORTUGAL 🇵🇹",SIC Replay 
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="PORTUGAL 🇵🇹",TVI 
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL 🇵🇹",TVI Ficção
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="PORTUGAL 🇵🇹",TVI Reality 
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="PORTUGAL 🇵🇹",V+ TVI 
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
 
 #EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="COREA DEL SUR 🇰🇷",ABN TV 
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -2644,6 +2662,8 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us@East" tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="MUSICALES 🎼",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="MTV.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSICALES 🎼",MTV (España)
+https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8
 #EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="MUSICALES 🎼",Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="MUSICALES 🎼",Euro Indie Music Chart TV 
@@ -3082,8 +3102,13 @@ https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-pl.fast.rakuten.tv/v1/
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionNoticias.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="NOTICIAS 🌐",Univisión Noticias 24/7
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/Gi6Q26M.png" group-title="NOTICIAS 🌐",SIC Notícias
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="NOTICIAS 🌐",RTP Noticias 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt@SD" tvg-logo="https://i.imgur.com/Gi6Q26M.png" http-referrer="https://sicnoticias.pt/" http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0" group-title="NOTICIAS 🌐",SIC Notícias (Geoblock)
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="NOTICIAS 🌐",Bloomberg TV EMEA Live Event 
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="NOTICIAS 🌐",Bloomberg TV Europe R
@@ -3153,7 +3178,7 @@ https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playl
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="INTERNACIONAL 📡",Antena 3 Internacional
-https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8
+http://177.10.184.193:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="INTERNACIONAL 📡",Atreseries Internacional
 http://astra.fibernetisp.com.co/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="INTERNACIONAL 📡",TV5Monde Pacifique (Geoblock)
@@ -3211,6 +3236,15 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 https://livesg1.rtva.hiway.media/a83e851e-b220-4b7d-955c-6400f8717c40/manifest.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us@SD" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="INTERNACIONAL 📡",MBC America 
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="INTERNACIONAL 📡",RTP África 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="INTERNACIONAL 📡",RTP Mundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICTV.br@SD" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="INTERNACIONAL 📡",SIC TV 
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+
 
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="ANIMACIÓN E INFANTILES 🎁",Locomotion TV
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
@@ -3281,6 +3315,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/03/monte-grande-tv-300x300.png" group-title="ANIMACIÓN E INFANTILES 🎁",Monte Grande TV Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel (España)
+https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8
+#EXTINF:-1 tvg-id="MeTVToons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png" group-title="ANIMACIÓN E INFANTILES 🎁",MeTV Toons
+https://i1.ut770.freelocaltv.org/hls/toons-8.8_hls/toons-8.8_master.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="ANIMACIÓN E INFANTILES 🎁",Pakapaka 
 http://181.13.252.102:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA887/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="ANIMACIÓN E INFANTILES 🎁",Canela Kids
@@ -3327,6 +3365,10 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="ANIMACIÓN E INFANTILES 🎁",GikTVMx 
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="ANIMACIÓN E INFANTILES 🎁",Animax Asia 
+https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+#EXTINF:-1 tvg-id="Placid.us@EastHD" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" group-title="ANIMACIÓN E INFANTILES 🎁",Placid
+https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="ANIMACIÓN E INFANTILES 🎁",Chicos IPe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
@@ -3914,6 +3956,9 @@ https://jmp2.uk/plu-64c0d697b0cf5c000824e5d9.m3u8
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕",Pluto TV Curiosidade
 https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru@SD" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="CULTURA Y CIENCIA 📕",English Class 
+https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8
+
 
 #EXTINF:-1 tvg-id="Nicasports.ni" tvg-logo="https://i.imgur.com/jrBTh84.png" group-title="DEPORTES ⚽️",NicaSports
 https://video1.azulstream.com:8081/nicasports/tracks-v1a1/mono.m3u8
@@ -3961,6 +4006,10 @@ http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="DEPORTES ⚽️",Eurosport 2 
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="Gol.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png" group-title="DEPORTES ⚽️",Gol 
+https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
+#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="DEPORTES ⚽️",Gol Classics 
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="DEPORTES ⚽️",Canela TV Deportes
 https://amg00658-amg00658c10-tv-international-7279.playouts.now.amagi.tv/playlist/amg00658-mediafast-deporteslt-tvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES ⚽️",Win Sports
@@ -4235,7 +4284,11 @@ https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6.m3u8
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JznRxPL/MC.png" group-title="PELICULAS 🎬",MultiCinema
 http://190.61.101.11:7050/play/a09p/index.m3u8?hls
-
+#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="PELICULAS 🎬",AXN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" group-title="PELICULAS 🎬",AXN Movies 
+https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="PELICULAS 🎬",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="PELICULAS 🎬",ENT Family
@@ -4785,6 +4838,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="COMEDIA 🤣",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="COMEDIA 🤣",Comedy Central (España)
+https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
 #EXTINF:-1 tvg-id="AlanBeckerTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="COMEDIA 🤣",Becker
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="COMEDIA 🤣",NBC Comedy Vault
@@ -4864,6 +4919,8 @@ https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMEDIA 🤣",MTV Ridiculousness
 https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
 
+#EXTINF:-1 tvg-id="COSMO.es@SD" tvg-logo="https://i.imgur.com/L2KKKuB.png" group-title="ESTILO DE VIDA 🏡",COSMO 
+https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="ESTILO DE VIDA 🏡",NBC LX Home 
 https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="ESTILO DE VIDA 🏡",MyZen TV
@@ -5551,6 +5608,9 @@ http://cdn.haititivi.com/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.fr@SD" tvg-logo="https://i.imgur.com/gUOXdjv.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="ENTRETENIMIENTO 🎙️",Syfy (Francia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-logo="https://i.imgur.com/47IKxmt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="ENTRETENIMIENTO 🎙️",AXN White Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="ENTRETENIMIENTO 🎙️",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.us@East" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="ENTRETENIMIENTO 🎙️",Fuse 
@@ -6548,7 +6608,7 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19.pe@SD" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="RELIGIÓN ⛪",JN19 
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="RELIGIÓN ⛪",TV Familia 
-https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/chunklist_w744199577.m3u8
 #EXTINF:-1 tvg-id="RadioHogar.pa@SD" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" group-title="RELIGIÓN ⛪",Radio Hogar 
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 #EXTINF:-1 tvg-id="TreceTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png" group-title="RELIGIÓN ⛪", Trece TV
