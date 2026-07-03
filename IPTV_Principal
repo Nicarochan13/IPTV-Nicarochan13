@@ -1756,194 +1756,68 @@ https://5790d294af2dc.streamlock.net/zincnombreradiotv24@gmail.com/zincnombrerad
 #EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="REPUBLICA DOMINICANA 🇩🇴",Zonavision TV 
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 
-#EXTINF:-1 tvg-id="KMIZDT1.us@SD" tvg-logo="https://lh3.googleusercontent.com/dQe4NZjNphITtOJYib9UNnV8EaYqs8W39ZayXgYaaV19TThXqw92-V5wzW2LuBoCe1wsKs-2d3s=v1-rw-s400" group-title="USA 🇺🇸",ABC Columbia, Missouri (KMIZ-DT1)
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="KMBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/512px-KMBC_9_ABC.svg.png" group-title="USA 🇺🇸",ABC Kansas City (KMBC-DT1)
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-id="WOLODT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USA 🇺🇸",ABC Columbia, South Carolina (WOLO-DT1)
-http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="KTVODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USA 🇺🇸",ABC Kirksville (KTVO-DT1)
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 tvg-id="WPVIDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USA 🇺🇸",ABC Philadelphia (WPVI-DT1)
-https://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFTSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="USA 🇺🇸",ABC Tampa Bay (WFTS-DT1)
-https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WDAFDT2.us@SD" tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="USA 🇺🇸",Antenna TV Kansas City (WDAF-DT2)
-https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="USA 🇺🇸",BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="KMCIDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="USA 🇺🇸",Bounce TV Kansas City(KMCI-DT1)
-https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png" group-title="USA 🇺🇸",C-SPAN
-https://fl3.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="USA 🇺🇸",C-SPAN 2 
-https://tvpass.org/live/CSPAN2/hd
-#EXTINF:-1 tvg-id="WBZDT1.us" tvg-logo="https://i.imgur.com/NC5qL8u.png" group-title="USA 🇺🇸",CBS Boston (WBZ-DT1)
-http://143.244.60.30/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="KRCGDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="USA 🇺🇸",CBS Jefferson City (KRCG-DT1)
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 tvg-id="KTVODT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="USA 🇺🇸",CBS Kirksville (KTVO-DT2)
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 tvg-id="WPECDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="USA 🇺🇸",CBS West Palm Beach (WPEC-DT1)
-https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KYWDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/KYW-TV_CBS_2013_logo.png" group-title="USA 🇺🇸",CBS Philadelphia (KYW-DT1)
-https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8
-#EXTINF:-1 tvg-id="KRCGDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="USA 🇺🇸",Comet Jefferson City (KRCG-DT2)
-https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 tvg-id="KTVODT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="USA 🇺🇸",Comet Kirksville (KTVO-DT3)
-https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-#EXTINF:-1 tvg-id="KSHBDT2.us@SD" tvg-logo="https://i.imgur.com/RRzEuPr.png" group-title="USA 🇺🇸",Cozi Kansas City (KSHB-DT2)
-https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-id="WCBSTV21.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/960px-CBS_2.svg.png" group-title="USA 🇺🇸",CBS New York (WCBS-TV 2.1)
+http://206.212.244.63/32/index.m3u8
 #EXTINF:-1 tvg-id="KRCADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/512px-Estrella_TV_Logo_2020.png" group-title="USA 🇺🇸",Estrella TV (KRCA-DT1)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="USA 🇺🇸",Fox
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-id="KQFXLD1.us@SD" tvg-logo="" group-title="USA 🇺🇸",FOX Columbia, Missouri (KQFX-LD1)
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 tvg-id="WDAFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/WDAF-TV_Fox4KC_logo.png" group-title="USA 🇺🇸",FOX Kansas City (WDAF-DT1)
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us@SD" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="USA 🇺🇸",FOX New York (WNYW-DT1)
-https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="WOFLDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="USA 🇺🇸",FOX Orlando (WOFL-DT1)
-https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WFLXDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="USA 🇺🇸",FOX West Palm Beach (WFLX-DT1)
-https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
-#EXTINF:-1 tvg-id="KYOUDT5.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="USA 🇺🇸",Grit Ottumwa (KYOU-DT5)
-https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
-#EXTINF:-1 tvg-id="IFCEast.us" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="USA 🇺🇸",IFC East
-https://tvpass.org/live/IFCEast/hd
-#EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="USA 🇺🇸",ION
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-#EXTINF:-1 tvg-id="KPXEDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="USA 🇺🇸",ION Arlington (KPXE-DT1)
-https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-#EXTINF:-1 tvg-id="WPXXDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="USA 🇺🇸",ION Memphis (WPXX-DT1)
-http://104.255.88.155/ion/index.m3u8
-#EXTINF:-1 tvg-id="WPXXTV501.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="USA 🇺🇸",ION WPXX-DT1 (Memphis, TN)
-http://104.255.88.155/ion/index.m3u8
-#EXTINF:-1 tvg-id="WFXTDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="USA 🇺🇸",ION Mystery
-https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+#EXTINF:-1 tvg-id="KADNTV151.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="USA 🇺🇸",FOX Lafayette, Louisiana (KADN-TV 15.1)
+http://206.212.244.63/65/index.m3u8
+#EXTINF:-1 tvg-id="KCKSLD253.us@HD" tvg-logo="https://i.imgur.com/KtXQeeZ.png" group-title="USA 🇺🇸",FOX Kansas City (KCKS-LD 25.3)
+https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
+#EXTINF:-1 tvg-id="KMSPDT1.us@SD" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="USA 🇺🇸",FOX Minneapolis-St.Paul, Minnesota (KMSP-DT1)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="USA 🇺🇸",ION (Geoblock)
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
 #EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="USA 🇺🇸",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="WFXTDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png" group-title="USA 🇺🇸",ION Mystery WFXT-DT2 (Boston, MA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="KMCIDT1.us@SD" tvg-logo="https://i.imgur.com/QMMdGGd.png" group-title="USA 🇺🇸",KMCI-DT1 
-https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-id="KRGVDT2.us@SD" tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="USA 🇺🇸",KRGV-DT2 (Geoblock)
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KSHBDT3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="USA 🇺🇸",Laff Kansas City (KSHB-DT3)
-https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 tvg-id="WXXADT3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="USA 🇺🇸",Laff WXXA-DT3 (Albany, NY)
-https://dvrfl04.tulix.tv/teleup-laff/mpegts
+#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="USA 🇺🇸",Laff 
+http://206.212.244.63/101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USA 🇺🇸",Laff More 
+https://d3tf2qfyke992n.cloudfront.net/v1/scripps_laffmore_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="USA 🇺🇸",Mega TV, Miami (WSBS-TV)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png" group-title="USA 🇺🇸",MeTV 
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-#EXTINF:-1 tvg-id="KMIZDT2.us@SD" tvg-logo="" group-title="USA 🇺🇸",MeTV Columbia, Missouri (KMIZ-DT2)
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
-#EXTINF:-1 tvg-id="WPLGDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" group-title="USA 🇺🇸",MeTV Miami (WPLG-DT2)
-https://streamer1.nexgen.bz/ME_TV/index.m3u8
-#EXTINF:-1 tvg-id="WHSVTV34.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" group-title="USA 🇺🇸",MeTV WHSV-DT4 (Harrisonburg, VA)
-http://104.255.88.155/metv/index.m3u8
-#EXTINF:-1 tvg-id="WJLPDT1.us@SD" tvg-logo="https://i.imgur.com/MfLl1HS.png" group-title="USA 🇺🇸", MeTV New Jersey (WJLP-DT1)
-https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
-#EXTINF:-1 tvg-id="KMBCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" group-title="USA 🇺🇸",MeTV Kansas City (KMBC-DT2) 
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1 tvg-id="KMIZDT3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/MyZouTV_logo.png/200px-MyZouTV_logo.png" group-title="USA 🇺🇸",My Network Columbia, Missouri (KMIZ-DT3)
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1 tvg-id="WHSVDT4.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="USA 🇺🇸",My Network Harrisonburg, Virginia (WHSV-DT4)
-http://104.255.88.155/metv/index.m3u8
-#EXTINF:-1 tvg-id="WJLPDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="USA 🇺🇸",Me TV Toons New Jersey (WJLP-DT2)
-https://e3.thetvapp.to/hls/metv-toons/index.m3u8
-#EXTINF:-1 tvg-id="KSMODT1.us@SD" tvg-logo="https://i.imgur.com/v58Froh.png" group-title="USA 🇺🇸",My Network Kansas City (KSMO-DT1)
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 tvg-id="WWORDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="USA 🇺🇸",My Network New York (WWOR-DT1)
-http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-#EXTINF:-1 tvg-id="KMIZDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/MyZouTV_logo.png/200px-MyZouTV_logo.png" group-title="USA 🇺🇸",MyZou TV (KMIZ-DT3)
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1 tvg-id="KOMUDT1.us@SD" tvg-logo="" group-title="USA 🇺🇸",NBC Columbia, Missouri (KOMU-DT1)
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 tvg-id="KSHBDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA 🇺🇸",NBC Kansas City (KSHB DT-1)
-https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-#EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA 🇺🇸",NBC Los Ángeles (KNBC-DT1)
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KYOUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA 🇺🇸",NBC Ottumwa (KYOU-DT2)
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 tvg-id="WTVJDT1.us@HD" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="USA 🇺🇸",NBC Miami (WTVJ-DT1)
-https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
+#EXTINF:-1 tvg-id="MeTVPlus.us@SD" tvg-logo="https://i.imgur.com/ubCl0S9.png" group-title="USA 🇺🇸",MeTV+ 
+http://206.212.244.63/111/index.m3u8
 #EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="USA 🇺🇸",NBC New York (WNBC-DT1)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
-#EXTINF:-1 tvg-id="WCAUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png" group-title="USA 🇺🇸",NBC Philadelphia (WCAU-DT1)
-https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WFLADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA 🇺🇸",NBC Tampa Bay (WFLA-DT1)
-https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="USA 🇺🇸",NBC Universo West 
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="KYOUDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA 🇺🇸", NBC Ottumwa, Iowa (KYOU-DT2)
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 tvg-id="WLNYDT1.us@SD" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="USA 🇺🇸",New York 55 (WLNY-DT1)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
-#EXTINF:-1 tvg-id="WLVTDT1.us@SD" tvg-logo="https://i.imgur.com/3FPFBjU.png" group-title="USA 🇺🇸",PBS Allentown, Pennsylvania (WLVT-DT1)
-https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
-#EXTINF:-1 tvg-id="KCPTDT1.us@SD" tvg-logo="https://image.pbs.org/bento3-prod/kcpt/2020-kcpt-brand/3cc5c4bdd6_kansascitypbs_primary_blue.png?resize=512x" group-title="USA 🇺🇸",PBS Kansas City (KCPT-DT1)
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 tvg-id="KMOSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="USA 🇺🇸",PBS Sedalia (KMOS-DT1)
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA 🇺🇸", PBS KET2
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="USA 🇺🇸", PBS KET Louisville (WKMJ-TV)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 tvg-id="KVIEDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="USA 🇺🇸",PBS KVIE-DT2 (Sacramento, CA)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-#EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="USA 🇺🇸",PBS Newark, New Jersey (WNET-DT1)
-https://e5.thetvapp.to/hls/WNET/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA 🇺🇸", PBS MPT Baltimore MD (WMPB)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="WEDQDT4.us@SD" tvg-logo="https://i.imgur.com/FfEebzW.png" group-title="USA 🇺🇸",PBS WEDQ-DT4 (Tampa, FL)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
-#EXTINF:-1 tvg-id="WEDWDT1.us@SD" tvg-logo="" group-title="USA 🇺🇸",PBS Stamford, Connecticut (WEDW-DT1)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/629545.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="USA 🇺🇸",PIX 11 
 http://84.17.50.102/cw/index.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr@SD" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="USA 🇺🇸",Punto 2 (WKAQ-DT2)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WTOGDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WTOG_Tampa_Bay_44_2023.svg/1024px-WTOG_Tampa_Bay_44_2023.svg.png" group-title="USA 🇺🇸",Tampa Bay 44 (WTOG-DT1)
-https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="USA 🇺🇸",TBS East (Geoblock)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Telexitos.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Telexitos_logo.png" group-title="USA 🇺🇸",Telexitos
 http://190.197.41.183/TELEXITOS/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="USA 🇺🇸",Telemundo New York (WNJU-DT1)
-http://104.238.205.28:9090/278678_.m3u8
-#EXTINF:-1 tvg-id="WSCVDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="USA 🇺🇸", Telemundo WSCV-DT1 (Fort Lauderdale, FL)
-http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
-#EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="USA 🇺🇸",Telemundo Orlando (WTMO-CD1)
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-#EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/512px-Telemundo_31_(2019).svg.png" group-title="USA 🇺🇸",Telemundo Orlando (WTMO-CD1)
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="USA 🇺🇸",Telemundo Puerto Rico (WKAQ-DT1) 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/512px-Telemundo_31_(2019).svg.png" group-title="USA 🇺🇸",Telemundo Salt Lake City (KTMW-CD1)
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
-#EXTINF:-1 tvg-id="WKCFDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png" group-title="USA 🇺🇸",True Crime Network Orlando (WKCF-DT2)
-https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
 #EXTINF:-1 tvg-id="WLIIDT1.us" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="USA 🇺🇸",TeleOnce (WLII-DT) 
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="USA 🇺🇸",The CW Atlanta (WUPA-DT1)
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
-#EXTINF:-1 tvg-id="KOMUDT3.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MID_MISSOURI_CW_LOGO.png/150px-MID_MISSOURI_CW_LOGO.png" group-title="USA 🇺🇸",The CW Columbia, Missouri (KOMU-DT3)
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 tvg-id="WISDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA 🇺🇸",The CW Columbia (WIS-DT2)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#EXTINF:-1 tvg-id="KCWEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="USA 🇺🇸",The CW Kansas City (KCWE-DT1)
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://i.imgur.com/GCB3vun.png" group-title="USA 🇺🇸", The CW San Diego (KFMB-DT2)
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-#EXTINF:-1 tvg-id="KTLADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" group-title="USA 🇺🇸",The CW KTLA-DT1 (Los Angeles, CA)
-https://dvrfl04.tulix.tv/teleup-ktla/mpegts
-#EXTINF:-1 tvg-id="WKCFDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="USA 🇺🇸",The CW Orlando (WKCF-DT1)
-https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
-#EXTINF:-1 tvg-id="KYOUDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="USA 🇺🇸",The CW Ottumwa (KYOU-DT4) 
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="USA 🇺🇸",TNT East (Geoblock)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="USA 🇺🇸",truTV East (Geoblock)
@@ -1954,6 +1828,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
+#EXTINF:-1 tvg-id="KUVNDT491.us@HD" tvg-logo="https://i.imgur.com/PGJOFD4.png" group-title="USA 🇺🇸",Univisión Dallas (KUVN-DT1) (Geoblock)
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="USA 🇺🇸",Univisión Los Ángeles (KMEX-DT1) (Geoblock)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="USA 🇺🇸",Univision Miami (WLTV-DT1) (Geoblock)
@@ -1965,9 +1841,9 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="WAPADT1.pr@SD" tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="USA 🇺🇸",WAPA-DT1 
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhssCKjRALMhrvwb3kJonEg0/m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us@SD" tvg-logo="https://wipr.pr/wp-content/uploads/2024/10/WIPR25_LogoPlus6-v2-whitetext.webp" group-title="USA 🇺🇸",WIPR Puerto Rico 
-http://23.237.104.106:8080/USA_WGN/index.m3u8
+https://streamwipr.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us@SD" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="USA 🇺🇸",WGN Chicago (WGN-TV1) 
-https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
+http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 tvg-id="WWONTVChannel48.us@SD" tvg-logo="https://i.imgur.com/l4qHAq6.png" group-title="USA 🇺🇸",WWON TV 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 
@@ -2293,19 +2169,23 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA 🇮🇹",Rai 1 
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA 🇮🇹" http-referrer="https://babaktv.com/",Rai 2 HD
-https://srv1.adriatelekom.com/Rai2/index.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="ITALIA 🇮🇹",Rai 3 
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="https://i.imgur.com/O1K1fv4.png" group-title="ITALIA 🇮🇹",Rai 4
-http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8
+http://91.146.94.234:10001/play/a02p
 #EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="ITALIA 🇮🇹",Rai 5 
-http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
+http://91.146.94.234:10001/play/a03a
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="ITALIA 🇮🇹",Rai Premium 
-http://188.60.179.180:8000/play/a0oy
+http://91.146.94.234:10001/play/a02q
 #EXTINF:-1 tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="ITALIA 🇮🇹",Rai Scuola (Geoblock)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="RaiScuola.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="ITALIA 🇮🇹",Rai Scuola (Opción 2)
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="ITALIA 🇮🇹",Rai Storia (Geoblock)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="ITALIA 🇮🇹",Rai Storia (Opción 2)
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://i.imgur.com/bxGvE8C.png" group-title="ITALIA 🇮🇹",RDS Social TV 
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="ReggioTV.it" tvg-logo="https://i.imgur.com/cEwJkRV.png" group-title="ITALIA 🇮🇹",ReggioTV 
@@ -3065,7 +2945,7 @@ https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MinformoTV.it" tvg-logo="https://i.imgur.com/9Oq6fLw.png" group-title="NOTICIAS 🌐",Minformo TV 
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/dppqBQX.png" group-title="NOTICIAS 🌐",Rai News 24 
-s/rainews/browser-dash/rainews.mpd
+http://91.146.94.234:10001/play/a135
 #EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="NOTICIAS 🌐",GugakTV 국악방송 
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSNewsD.kr" tvg-logo="https://i.imgur.com/4qKgvHN.png" group-title="NOTICIAS 🌐",KBS News D 
@@ -3077,7 +2957,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://woollydays.files.wordpress.com/2010/07/abcnews24.jpg" group-title="NOTICIAS 🌐",ABC News (Australia)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="NewsNationEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512" group-title="NOTICIAS 🌐" http-referrer="https://pkpakiplay.xyz/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",NewsNation East
-https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+http://206.212.244.63/712/index.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="NOTICIAS 🌐",Scripps News
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="NOTICIAS 🌐",The Guardian
@@ -3382,8 +3262,10 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="ANIMACIÓN E INFANTILES 🎁",Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="ANIMACIÓN E INFANTILES 🎁",Rai Gulp (Opción 2)
+http://91.146.94.234:10001/play/a037
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="ANIMACIÓN E INFANTILES 🎁",Rai Yoyo
-http://188.60.179.180:8000/play/xxRaiYoyo
+http://91.146.94.234:10001/play/a039
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime TV 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="ANIMACIÓN E INFANTILES 🎁",TiVi5 Monde (Geoblock)
@@ -3987,6 +3869,10 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
 #EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="DEPORTES ⚽️",Gol Classics 
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-id="L1.pe@SD" tvg-logo="https://i.imgur.com/eRmXneK.png" group-title="DEPORTES ⚽️",L1 
+http://45.4.1.201:8000/play/a1ai/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="DEPORTES ⚽️",L1 Max 
+http://45.4.1.201:8000/play/a123/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrdkbnVk/0-16x9-2.png.png" group-title="DEPORTES ⚽️",Canela TV Deportes
 https://amg00658-amg00658c10-tv-international-7279.playouts.now.amagi.tv/playlist/amg00658-mediafast-deporteslt-tvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES ⚽️",Win Sports
@@ -4360,7 +4246,7 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="PELICULAS 🎬",Golden TV 
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="PELICULAS 🎬",Rai Movie
-http://188.60.179.180:8000/play/xxRaiMOviexx
+http://91.146.94.234:10001/play/a02r
 #EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="PELICULAS 🎬",Classic Cinema
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="PELICULAS 🎬",TCM East (Geoblock)
