@@ -59,11 +59,11 @@ https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="COSTA RICA 🇨🇷",Canal 1
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA 🇨🇷",Canal 2 
-https://d2qsan2ut81n2k.cloudfront.net/live/735ddeea-3626-4c57-b09f-39e81eb1671d/ts:abr.m3u8
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="COSTA RICA 🇨🇷",Canal 4 
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="COSTA RICA 🇨🇷",Canal 6 
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+http://190.61.101.11:7050/play/a07m/index.m3u8?hls
 #EXTINF:-1 tvg-id="Canal8.cr" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="COSTA RICA 🇨🇷",Canal 8 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="COSTA RICA 🇨🇷",Canal 10 (Costa Rica)
@@ -76,7 +76,7 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="CartagoMedios.cr" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="COSTA RICA 🇨🇷",Cartago Medios
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-#EXTINF:-1 tvg-id="CedroTV.cr" tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="COSTA RICA 🇨🇷",Cedro TV
+#EXTINF:-1 tvg-id="CedrosTV.cr" tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="COSTA RICA 🇨🇷",Cedros TV
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="COSTA RICA 🇨🇷",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -156,9 +156,7 @@ https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="EL SALVADOR 🇸🇻",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="EL SALVADOR 🇸🇻",Canal 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://teleon.tv/
-https://signal.teleon.live/stream/sv8_canal12.m3u8?token=free
+http://45.167.2.101:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="EL SALVADOR 🇸🇻",Canal 15 Usulután 
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="EL SALVADOR 🇸🇻",Megavisión Canal 19 
@@ -224,7 +222,7 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 #EXTINF:-1 tvg-id="GuaTV.gt" tvg-logo="https://i.imgur.com/YxBrM4u.png" group-title="GUATEMALA 🇬🇹",GuaTV 
 https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Guatevision_2003-logo_simplified.png" group-title="GUATEMALA 🇬🇹",Guatevisión
-http://45.190.185.204:9000/play/a0nn/index.m3u8?hls
+http://190.61.101.11:7050/play/a088/index.m3u8?hls
 #EXTINF:-1 tvg-id="Knal4Quiche.gt" tvg-logo="https://i.imgur.com/YRSv2Tf.png" group-title="GUATEMALA 🇬🇹",Knal 4 
 https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8
 #EXTINF:-1 tvg-id="LunaTV.gt" tvg-logo="https://i.postimg.cc/RF2v2bmC/Diseno-sin-titulo(2).png" group-title="GUATEMALA 🇬🇹",Luna TV
