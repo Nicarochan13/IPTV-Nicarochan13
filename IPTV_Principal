@@ -69,7 +69,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="COSTA RICA 🇨🇷",Canal 10 (Costa Rica)
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="COSTA RICA 🇨🇷",Canal 11 (Geoblock)
-https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
+http://190.61.101.11:7050/play/a07n/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="COSTA RICA 🇨🇷",Canal 14 San Carlos 
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal15.cr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Canal_15_UCR_Logo_%282021%29.png" group-title="COSTA RICA 🇨🇷",Canal 15 UCR
