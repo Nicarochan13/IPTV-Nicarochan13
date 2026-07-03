@@ -647,7 +647,7 @@ https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-logo="https://i.imgur.com/BRLobYe.png" group-title="CHILE 🇨🇱",ITV Patagonia
 https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaClave.cl" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="CHILE 🇨🇱",La Clave
-https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-logo="https://i.imgur.com/90luGab.png" group-title="CHILE 🇨🇱",La Granja TV
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-logo="https://i.imgur.com/AWdgMCC.png" group-title="CHILE 🇨🇱",La Popular TV
@@ -703,7 +703,7 @@ https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="StgoTV.cl" tvg-logo="https://i.imgur.com/VrqjFUf.png" group-title="CHILE 🇨🇱",Stgo.TV
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="SURTV.cl" tvg-logo="https://i.imgur.com/wDCqoor.png" group-title="CHILE 🇨🇱",Sur TV
-https://paneltv.online:1936/8034/8034/playlist.m3u8
+https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
 #EXTINF:-1 tvg-id="SurenaTV.cl@SD" tvg-logo="https://i.imgur.com/ZQRb3L3.png" group-title="CHILE 🇨🇱",Sureña TV
 https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="CHILE 🇨🇱",Taltal TV
@@ -6625,6 +6625,8 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TelepaceTrento.it@SD" tvg-logo="https://tvtvtv.ru/icons/telepace_trento.png" group-title="RELIGIÓN ⛪",Telepace Trento 
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioMaria.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2a/Radiomaria.jpg" group-title="RELIGIÓN ⛪",Radio María Argentina
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="SURSAT 📡",Adult Swim
 http://190.7.19.197:232/play/a01s/index.m3u8
