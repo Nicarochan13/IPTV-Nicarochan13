@@ -532,6 +532,12 @@ https://icecast.teveo.cu/kHKL7tWd
 https://icecast.teveo.cu/Jdq3Rbrg
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radiosdecuba-com/cmbf.png" group-title="RADIO_CUBA🇨🇺 📻", CMBF Radio Musical Nacional 
 https://icecast.teveo.cu/Nbtz7HT3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CUBA🇨🇺 📻",Radio Taino
+https://icecast.teveo.cu/3MCwWg3V
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CUBA🇨🇺 📻",Radio Enciclopedia
+https://icecast.teveo.cu/9Rnrbjzq
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CUBA🇨🇺 📻",Habana Radio
+https://media.ohc.cu/habanaradio
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Columbia 
 https://s2.radio.co/s83b86382e/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Monumental 
