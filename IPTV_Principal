@@ -20,7 +20,7 @@ http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/ZbjMk2s" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
 http://190.123.76.22:8002/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/4dlIly3" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
-http://45.190.185.204:9000/play/a0ju/index.m3u8?hls
+http://45.171.108.253:8888/VIVA/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="NICARAGUA 🇳🇮",Vos TV Canal 14
 http://168.228.44.241:9998/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="Canal15.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/O579QTW" group-title="NICARAGUA 🇳🇮",Canal 15
@@ -86,12 +86,8 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="CotoBrusTV.cr" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="COSTA RICA 🇨🇷",Coto Brus TV 
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extraradiocr.com/wp-content/uploads/2024/11/Logo-Radio-blanco-e1731511332237-150x59.png" group-title="COSTA RICA 🇨🇷",E-Music 97.9 FM 
-https://d2qsan2ut81n2k.cloudfront.net/live/b8e029f7-ecc6-4b26-83fc-ab2ecc30e2ad/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="COSTA RICA 🇨🇷",Extra TV Canal 42 
 http://190.123.76.22:8002/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extraradiocr.com/wp-content/uploads/2024/11/Logo-Radio-blanco-e1731511332237-150x59.png" group-title="COSTA RICA 🇨🇷",Extra Radio 92.3 FM 
-https://d2qsan2ut81n2k.cloudfront.net/live/cb47d1e9-26a4-4fcc-96a7-08f86d9e2959/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="COSTA RICA 🇨🇷",GAMTV.cr 
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="COSTA RICA 🇨🇷",Garabito TV 
@@ -549,6 +545,8 @@ https://videohd.live:19360/8016/8016.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe (Opción 2)
 http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe Buenos Aires
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="ARGENTINA 🇦🇷",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="ARGENTINA 🇦🇷",TV Pública
@@ -771,6 +769,8 @@ https://5ff3d9babae13.streamlock.net/tvtumqsfdn/tvtumqsfdn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERÚ 🇵🇪",America Television 
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+#EXTINF:-1 tvg-id="ArpegioTV.pe@SD" tvg-logo="https://i.imgur.com/mxnKK1a.png" group-title="PERÚ 🇵🇪",Arpegio TV 
+https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERÚ 🇵🇪",ATV 
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERÚ 🇵🇪",ATV Sur
@@ -916,6 +916,8 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD" tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="COLOMBIA 🇨🇴",Canal 55 Telemorisco TV 
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="COLOMBIA 🇨🇴",Canal Congreso
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="COLOMBIA 🇨🇴",Canal Institucional 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="COLOMBIA 🇨🇴",Canal Más Televisión 
@@ -998,6 +1000,8 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.bo@SD" tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="BOLIVIA 🇧🇴",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ELDEBER.bo@SD" tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" group-title="BOLIVIA 🇧🇴",EL DEBER
+https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-id="Erbol.bo@SD" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="BOLIVIA 🇧🇴",Erbol 
 https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo" tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="BOLIVIA 🇧🇴",F10 HD 
@@ -2867,7 +2871,8 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://cdns.livewave.co:8081/90minutoslive/index.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NOTICIAS 🌐",24/7 Canal de Noticias 
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS 🌐", user-agent="iPhone",A24 
+#EXTINF:-1 tvg-id="A24.ar" tvg-
+logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS 🌐", user-agent="iPhone",A24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
