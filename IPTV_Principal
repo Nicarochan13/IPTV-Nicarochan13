@@ -3930,7 +3930,7 @@ https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="DEPORTES ⚽️",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="DEPORTES ⚽️",Deportes TVC 
-http://190.123.76.22:8002/play/a01t/index.m3u8
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 tvg-id="SportTV.br" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="DEPORTES ⚽️",SportTV
 http://177.52.24.155:8000/play/a00l
 #EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="DEPORTES ⚽️",SporTV 2 
