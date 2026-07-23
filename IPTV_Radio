@@ -603,7 +603,7 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png" group-title="RADIO_COLOMBIA🇨🇴 📻", W Radio 
 https://27323.live.streamtheworld.com/WRADIOAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1280px-Caracol_Radio_logo.svg.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Caracol Radio 
-https://27383.live.streamtheworld.com/CARACOL_RADIOAAC_SC?csegid=2000
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC_SC
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_VENEZUELA🇻🇪 📻", Radio María Venezuela
 https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_VENEZUELA🇻🇪 📻", Radio Rumbos (Venezuela) 
@@ -611,7 +611,7 @@ https://stream.zeno.fm/c3q3w8zfe18uv
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png" group-title="RADIO_VENEZUELA🇻🇪 📻", Unión Radio 
 https://acp4.lorini.net:2080/stream
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/estelar-fm-92-5.png" group-title="RADIO_BOLIVIA🇧🇴 📻", Radio Estelar 
-https://turadioweb.net:8370/radio
+https://emiteradio.com/proxy/estelar?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png" group-title="RADIO_BOLIVIA🇧🇴 📻", Radio Panamericana 
 https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3cbbc22c579110&acu-uid=630572328206&bsw-uid=1c193f44-9191-4b67-8b70-9a52bce372e6&cto-uid=bea7dd87-5a33-45a7-acad-c6a42ee0ccd2-61b426c0-5045&adt-uid=cuid_8ce542d3-5b27-11ec-8553-12
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/atb.png" group-title="RADIO_BOLIVIA🇧🇴 📻", ATB Radio 
@@ -633,7 +633,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16424/images/bannerx.jpg?t=637366653600000000" group-title="RADIO_CHILE🇨🇱 📻", Radio Romántica 
 https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.radioamor.cl/assets/images/logors-475x128.png" group-title="RADIO_CHILE🇨🇱 📻", Amor FM 
-https://sonic.streamingchilenos.com/9820/stream
+https://sonic-cl.arkeo.cl:8070/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Mitre 
 https://24273.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=18957f19-7c4e-460e-81cf-261c7a83f1ae
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/cultural.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Cultural TGW 
@@ -673,7 +673,7 @@ https://stream-163.zeno.fm/q5f7ne3sb18uv?zs=b9HYcOlgSAW-d6JO36wjIA
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="RADIO_MEXICO🇲🇽 📻", Radio Amor 
 https://22973.live.streamtheworld.com/XHSHFMAAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/felicidad.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio La Felicidad 
-https://14553.live.streamtheworld.com/XEFRAMAAC/HLS/40c5a234-695c-4328-ab7c-76e3b8d90c00/0/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAM_SC
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/h32vtman4lmj.png" group-title="RADIO_MEXICO🇲🇽 📻",  Radio Baladas 
 https://media.streamingradiomx.com/listen/radio_baladas_viejitas_bonitas/radio.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/xlt3gacwmbkw.png" group-title="RADIO_USA🇺🇸 📻", Romántica FM 
