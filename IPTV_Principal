@@ -488,6 +488,8 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="ARGENTINA 🇦🇷",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="CuarentaTV.ar" tvg-logo="" group-title="ARGENTINA 🇦🇷",CuarentaTV
+https://stream.xlmedia.lat/live/c67es/cuarentaTV/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="ARGENTINA 🇦🇷",El Doce
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="ARGENTINA 🇦🇷",El Nueve 
@@ -577,7 +579,7 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="CHILE 🇨🇱",13 Realities 
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13Rec.cl@SD" tvg-logo="https://i.imgur.com/WtBbxEf.png" group-title="CHILE 🇨🇱",13Rec
-http://45.4.1.201:8000/play/a11i/index.m3u8
+http://190.93.229.30:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="CHILE 🇨🇱",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="CHILE 🇨🇱",ADN Radio 
@@ -1373,17 +1375,17 @@ http://190.61.101.11:7050/play/a04j/index.m3u8?hls
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="BRASIL 🇧🇷",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png" group-title="BRASIL 🇧🇷",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+http://45.190.28.50/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalTVRio.br" tvg-logo="https://i.imgur.com/jBRE3BK.png" group-title="BRASIL 🇧🇷",Canal TV Rio
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="BRASIL 🇧🇷",Conecta+ TV
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" group-title="BRASIL 🇧🇷",Globoplay Novelas 
-http://170.82.202.31/Viva/index.m3u8
+http://143.14.178.40:7777/Globoplay_Novelas_HD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="BRASIL 🇧🇷",ISTV 
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:-1 tvg-id="Multishow.br@SD" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title="BRASIL 🇧🇷",Multishow 
-http://45.190.156.152/MULTISHOW/index.m3u8
+http://143.14.178.40:7777/Multishow_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bl7c8pVKGa0/X0EUnSfcZrI/AAAAAAAA4zU/Ldj1FfzxnwkvgLvt18qQtm2ogKPkNKRYgCK8BGAsYHg/s0/2020-08-22.png", group-title="BRASIL 🇧🇷",Record News Espirito Santo
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="BRASIL 🇧🇷",RecordTV
@@ -1398,8 +1400,6 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="BRASIL 🇧🇷",Rede Globo 
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="BRASIL 🇧🇷",Rede Globo (Opción 2)
-http://45.190.156.152/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeMais.br" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="BRASIL 🇧🇷",Rede Mais 
 https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeQDM.br" tvg-logo="https://i.imgur.com/Lxqb2cU.png" group-title="BRASIL 🇧🇷",Rede QDM 
@@ -1802,7 +1802,7 @@ https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="KRCADT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/512px-Estrella_TV_Logo_2020.png" group-title="USA 🇺🇸",Estrella TV (KRCA-DT1)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="USA 🇺🇸",Fox
-http://40.160.24.52/FOX/index.m3u8
+https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
 #EXTINF:-1 tvg-id="KADNTV151.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="USA 🇺🇸",FOX Lafayette, Louisiana (KADN-TV 15.1)
 http://206.212.244.63/65/index.m3u8
 #EXTINF:-1 tvg-id="KCKSLD253.us@HD" tvg-logo="https://i.imgur.com/KtXQeeZ.png" group-title="USA 🇺🇸",FOX Kansas City (KCKS-LD 25.3)
@@ -2040,7 +2040,7 @@ https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCIA 🇫🇷",INA Ardivision
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="FRANCIA 🇫🇷",LCI
-https://sv0.data-stream.top/hls/lci.m3u8
+http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="FRANCIA 🇫🇷",LCP
 s/lcp/browser-HLS8/lcp.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="FRANCIA 🇫🇷",LE FIGARO IDF
@@ -2064,8 +2064,6 @@ http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
 http://41.205.77.102/CHERIE25/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://i.postimg.cc/MpjZFqGF/rmcstory.png" group-title="FRANCIA 🇫🇷",RMC Story 
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="FRANCIA 🇫🇷",RTL
-http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1 tvg-id="RTL2.fr@SD" tvg-logo="https://i.imgur.com/deC4z34.png" group-title="FRANCIA 🇫🇷",RTL2
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="FRANCIA 🇫🇷",RTL9
@@ -2948,8 +2946,7 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://cdns.livewave.co:8081/90minutoslive/index.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NOTICIAS 🌐",24/7 Canal de Noticias 
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-
-logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS 🌐", user-agent="iPhone",A24 
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS 🌐", user-agent="iPhone",A24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
@@ -3018,8 +3015,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/45e025a4deee9ffaeabe6af0b964a6c8.png" group-title="NOTICIAS 🌐", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/3YlJsCL.png" group-title="NOTICIAS 🌐", user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="NOTICIAS 🌐",Bandnews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+http://143.14.178.40:7777/Band_News_HD/index.m3u8
 #EXTINF:-1 tvg-id="J3NEWSTV.br" tvg-logo="https://i.imgur.com/lezIQyL.png" group-title="NOTICIAS 🌐",J3NEWS TV 
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="NOTICIAS 🌐",Euronews Français 
@@ -3462,9 +3458,9 @@ https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="ZyoonTV.uy" tvg-logo="ttps://cdn.m3u.cl/logo/1691_ZyoonTV.png" group-title="ANIMACIÓN E INFANTILES 🎁",Zyoon TV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Gloob.br@SD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="ANIMACIÓN E INFANTILES 🎁",Gloob 
-http://45.190.156.152/GLOOB/index.m3u8
+http://143.14.178.40:7777/Gloob_HD/index.m3u8
 #EXTINF:-1 tvg-id="Gloobinho.br@SD" tvg-logo="https://i.imgur.com/UWkHErt.png" group-title="ANIMACIÓN E INFANTILES 🎁",Gloobinho 
-http://45.190.156.152/GLOOBINHO/index.m3u8
+http://143.14.178.40:7777/Gloobinho_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Crunchyroll_2024.svg" group-title="ANIMACIÓN E INFANTILES 🎁", Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Hidive_text_logo.svg" group-title="ANIMACIÓN E INFANTILES 🎁",ANIME x HIDIVE
