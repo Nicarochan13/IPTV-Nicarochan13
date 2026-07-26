@@ -14,7 +14,7 @@ http://179.60.224.196:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="NICARAGUA 🇳🇮",Canal 10
 https://d3pkdydaroq3im.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="NICARAGUA 🇳🇮",Canal 10 (Opción 2)
-http://177.10.184.193:8000/play/a0g5
+http://190.123.76.22:8002/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5Sw6Rzw.png" group-title="NICARAGUA 🇳🇮",Canal 11
 http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/ZbjMk2s" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
@@ -778,13 +778,13 @@ https://paneltv.online:1936/8100/8100/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/tvtumqsfdn/tvtumqsfdn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERÚ 🇵🇪",America Television 
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+http://45.171.108.253:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="ArpegioTV.pe@SD" tvg-logo="https://i.imgur.com/mxnKK1a.png" group-title="PERÚ 🇵🇪",Arpegio TV 
 https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERÚ 🇵🇪",ATV 
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERÚ 🇵🇪",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="PERÚ 🇵🇪",Auténtica Televisión
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe@SD" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="PERÚ 🇵🇪",BHTV 
@@ -2983,7 +2983,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo="https://i.imgur.com/JCBZaHf.png" group-title="NOTICIAS 🌐",Noticias Canal 10 
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NOTICIAS 🌐",ATV+ Noticias 
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="NOTICIAS 🌐",Exitosa 
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="NOTICIAS 🌐",TV Perú Noticias
@@ -3126,7 +3126,7 @@ https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playl
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="INTERNACIONAL 📡",Antena 3 Internacional
-http://177.10.184.193:8000/play/a06a/index.m3u8
+http://190.123.76.22:8002/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="INTERNACIONAL 📡",Atreseries Internacional
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="INTERNACIONAL 📡",TV5Monde Pacifique (Geoblock)
@@ -3329,7 +3329,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="ANIMACIÓN E INFANTILES 🎁",Animax Asia 
-https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+https://sra72yz.s.gy/ANIMAX_ASIA_SD
 #EXTINF:-1 tvg-id="Placid.us@EastHD" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" group-title="ANIMACIÓN E INFANTILES 🎁",Placid
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="ANIMACIÓN E INFANTILES 🎁",Chicos IPe 
