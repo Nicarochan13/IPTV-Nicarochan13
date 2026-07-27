@@ -246,16 +246,26 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radiolazona/picture?width=200&height=200" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="Radio La Zona Perú",Radio La Zona Perú
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_la_zona_salsa.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio La Zona Salsa
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada59e471e070829a79443/playlist.m3u8?listeningSessionID=646ef88900a9f392_8838054_Yqq4qEe6__0000009XeOz&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=RpfpIUxqFMtgps7QHlhM9OWg5zaypr6H&pid=yUDKLYZhdP1iNYyFrQNGrnvAsXwyw1zK&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1693918639368&ot=q6ac08PtiF3CVRMfX4I2sA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada59e471e070829a79443&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.8&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="Radio Oxígeno Perú",Radio Oxígeno Perú
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="Radio Z Rock & Pop Perú",Radio Z Rock & Pop Perú
 https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1631660934631497728/5xcmLsJF_200x200.jpg" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="Radio Nacional Perú",Radio Nacional Perú
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Radio_filarmon%C3%ADa_2020.png/200px-Radio_filarmon%C3%ADa_2020.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Filarmonía
+http://c22.radioboss.fm:8100/stream
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/exitosa-lima.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Radio Exitosa
 https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/panamericana.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Radio Panamericana
 https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://www.epafm.pe/images/logo_panamericana-retro-rock.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Panamericana Retro Rock
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a?aid=658ddcc0b2c7835d48fee06d&pid=uMb8085w7DJ01tQvZfmjRsM0dCNe4i9r&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170108680&ot=meOIctqTUY2SCOX-WAd1lg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b728d982060896866b8a&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 radio="true" tvg-logo="https://www.epafm.pe/images/logo_panamericana-latino-refrescante.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Panamericana Latino Refrescante
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b76c6c07d80644b7321f?aid=658ddcc0b2c7835d48fee06d&pid=4UhY6ynA9VES6PNJgGc5X1mDfdGj5Xzc&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1708170063210&ot=kKjAYF3cz-zOad1c1Bxe8g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b76c6c07d80644b7321f&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 radio="true" tvg-logo="https://www.epafm.pe/images/logo_panamericana-salsa-power.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Panamericana Salsa Power
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=6hRKrHk5qyo8GVmHnCsqXFEFQ2yq3LDz&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170005674&ot=65WRuj3Eu0Xad73NMR_53Q&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/viva.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Viva FM
 https://tupanel.info:8780/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/generacion-kpop.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Generación K-Pop
@@ -268,6 +278,55 @@ https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/nueva-q.png" group-title="RADIO_PERÚ🇵🇪 📻",tvg-name="RPP Noticias Perú",Radio Nueva Q
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e1f153fcf56d988d5943
+#EXTINF:-1 radio="true" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo.jpg" group-title="RADIO_PERÚ🇵🇪 📻",Radio PBO
+https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4kg
+#EXTINF:-1 radio="true" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_studio92.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Studio 92
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_corazon.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Corazón
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Radio_La_Mega_Mix.jpg/225px-Radio_La_Mega_Mix.jpg" group-title="RADIO_PERÚ🇵🇪 📻", Radio La MegaMix
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=8I4y6V3FYSchsqUAjuWucTcxxVXeNohG&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712353707&ot=JGzYaADyeVcChON8pMsmzQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo-Onda.jpg/225px-Logo-Onda.jpg" group-title="RADIO_PERÚ🇵🇪 📻", Radio Onda Cero
+https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oasis_2015.png/225px-Oasis_2015.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Oasis
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s86043/images/bannerx.jpg?t=636734949083400000" group-title="RADIO_PERÚ🇵🇪 📻", Radio Unión
+https://stream-159.zeno.fm/5v1hfcfnru1vv?zs=rHYrGiZlQ7eNZ1L50-PdJA
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_PERÚ🇵🇪 📻", Radio Disney (Perú)
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png
+https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCUwSBmmkrj2dk2DZ_2nhJOeBJ18WczbN-r-tetw=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO_PERÚ🇵🇪 📻", Radio Ovación
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/13/fd/13fd9878d9d2f00b94c5c0c47632c98b.jpg" group-title="RADIO_PERÚ🇵🇪 📻", Radio Integridad
+https://dattavolt.com/8164/stream
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8zzc6bwefd5l.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Moderna
+https://radio.transmite.pe/8020/stream/;type=mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/metropolitana-lima.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Metropolitana
+http://99.198.110.162:8130/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DVUYtwjYv9.jpg" group-title="RADIO_PERÚ🇵🇪 📻", Radio Éxito
+http://67.212.179.138:7200/;stream/1
+#EXTINF:-1 radio="true" tvg-logo="https://radiocomas.com.pe/wp-content/uploads/2022/09/cropped-LOGO-NUEVO-RADIO-COMAS-2-1.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Comas
+https://tupanel.info:7390/stream?icy=http
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rbqegupwbmju.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Retro Baladas
+https://stream-157.zeno.fm/bft6qepmuqruv?zs=HK4KfEBmSeidqNzYrUnVog
+#EXTINF:-1 radio="true" tvg-logo="https://www.epafm.pe/images/logo_radio-baladitas.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Baladitas
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b7cf1b304a08b3a8c215?aid=658ddcc0b2c7835d48fee06d&pid=p39JDTYffDzrygCXphxIj9McxD17vVjJ&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1708169974174&ot=f2OTR2UZNgs4zBug_G9mmw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b7cf1b304a08b3a8c215&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/GFXM3UrRgajXMwftPRgJmpDNY3ntmT4KTpHQ83Le2imUyaRA3w6-BZUfXVtfWaGLdA" group-title="RADIO_PERÚ🇵🇪 📻", A La radio del amor
+https://stream-162.zeno.fm/qxsaiqu7pn4tv?zs=15ewF2tvRyG02iZQVJySBA
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/91753.v10.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Enamorados
+https://stream-159.zeno.fm/b594gnc1fnruv?zs=ycDiJel_Q56i8S-4EoOjdg
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/romanticas-inolvidables.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Románticas Inolvidables
+https://stream-163.zeno.fm/6m1ba7yt3vduv?zs=kMeYUNn6QkyUng7UeuGglw
+#EXTINF:-1 radio="true" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2021/08/home7.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio La Rockola
+https://stream-150.zeno.fm/aryka5gcy38uv?zs=CvSDmDgeToqExPaFQFcqoQ&1695644664306
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/25953.v29.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio La Ñ
+https://node-30.zeno.fm/v83x1mqnnnruv?rj-ttl=5&rj-tok=AAABfGg7cF8AMFkIqh42CgzQVg
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/mas-91-9.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio Cumbia Mix
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=HRF6HS9dIe2kNufpyVs4nh408ririg9j&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1708169686302&ot=J_r2mBQjD4TqgTHdb4XERg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&referer=https%3A%2F%2Fradiocumbiamix.com%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 radio="true" tvg-logo="https://www.epafm.pe/images/logo_once-sesenta.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio 1160
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=BgfrX0YzhD4WsMg0d35Et85a4mNMdztu&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1708171073161&ot=Vcz0_g02JaBdyzjabFb4qg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
+#EXTINF:-1 radio="true" tvg-logo="https://www.epafm.pe/images/logo_la-nube.png" group-title="RADIO_PERÚ🇵🇪 📻", Radio La Nube
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=4BS6A4vmH8sgAG2zTolF2VFWMRzmeT0K&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1708169746557&ot=O9jEpGNQVEtayXUcmIS4eg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&referer=https%3A%2F%2Fwww.radiolanube.com%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/DelSolUy/picture?width=200&height=200" group-title="RADIO_URUGUAY🇺🇾 📻",tvg-name="DelSol Uruguay",DelSol Uruguay
 https://delsol-2.nty.uy/stream/1/
@@ -275,6 +334,28 @@ https://delsol-2.nty.uy/stream/1/
 https://27393.live.streamtheworld.com/COLONIAAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=a145308c-c382-4281-d58f-0c7439078d95
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Alfa913mx/picture?width=200&height=200" group-title="RADIO_MEXICO🇲🇽 📻",tvg-name="Alfa 91.3 Mexico",Alfa 91.3 Mexico
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/centro-690.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio Centro y El Fonógrafo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AM_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/centro-df.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio Centro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AM_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/stereo-joya.png" group-title="RADIO_MEXICO🇲🇽 📻", Joya 93.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/unam.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio UNAM
+https://tv.radiohosting.online:9486/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/mvs-df.png" group-title="RADIO_MEXICO🇲🇽 📻", MVS Noticias
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/w-96-9.png" group-title="RADIO_MEXICO🇲🇽 📻", W Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIO_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/stereorey-mexico.png" group-title="RADIO_MEXICO🇲🇽 📻", StereoRey
+https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREY_SC
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", Radio María México
+https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/red-am-df.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio RED
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/el-heraldo.png" group-title="RADIO_MEXICO🇲🇽 📻", El Heraldo Radio
+https://stream.radiojar.com/ce31v3yah8nwv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/chapultepec-df.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio Chapultepec 560 AM
+https://cast6.my-control-panel.com/proxy/radchap0mx/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="RADIO_ITALIA🇮🇹 📻",tvg-name="Radio Italia",Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", Aspen 102.3 FM
@@ -354,6 +435,8 @@ https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200" group-title="RADIO_FRANCIA🇫🇷 📻",tvg-name="Jazz Radio Francia",Jazz Radio Francia
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/ecouterradioenligne-com/fun.png" group-title="RADIO_FRANCIA🇫🇷 📻",FUN Radio
+https://icecast.funradio.fr/fun-1-44-128
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rinsefm/picture?width=200&height=200" group-title="RADIO_REINO UNIDO🇬🇧 📻",tvg-name="Rinse FM UK",Rinse FM UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="RADIO_ITALIA🇮🇹 📻",tvg-name="Radio Montecarlo",Radio Montecarlo
@@ -580,6 +663,11 @@ http://streamtotal.net:8136/stream
 https://evcast.mediacp.eu:2060/stream
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/olimpica.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Olímpica Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Alerta Bogotá
+https://mdstrm.com/audio/632c9c1cbc02c60329991efa/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/besame-bogota.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Bésame FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BOGOTA_SC
+
 #EXTINF:-1 radio="true" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="RADIO_REPUBLICA DOMINICANA🇩🇴 📻", La Voz de María Radio 
 https://cast3.asurahosting.com/proxy/luis12/stream?mp=/1;&1679264623993
 #EXTINF:-1 radio="true" tvg-logo="https://radioatalaya.net/wp-content/uploads/2017/08/cropped-LOGO-ATALAYA.png" group-title="RADIO_ECUADOR🇪🇨 📻", Radio Atalaya 
@@ -594,6 +682,12 @@ https://radiocristal.makrodigital.com/stream/radiocristal
 https://streamingecuador.net:8052/radiosistema2
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k2dyp3rzuap3.png" group-title="RADIO_ECUADOR🇪🇨 📻", Radio Popular de Cuenca 
 https://stream-50.zeno.fm/py6f6znfntzuv?zs=kYEzAzomTc-ju220HEsXzg
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="RADIO_ECUADOR🇪🇨 📻", Radio Soberana 
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/catolica-nacional.png" group-title="RADIO_ECUADOR🇪🇨 📻", RCN Católica
+https://dattavolt.com/8358/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/canela.png" group-title="RADIO_ECUADOR🇪🇨 📻", Radio Canela
+https://streamingecuador.com:9280/stream
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="RADIO_ECUADOR🇪🇨 📻", Radio Soberana 
 https://centova.streamrdm.com:4118/stream
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png" group-title="RADIO_COLOMBIA🇨🇴 📻", RCN Radio 
@@ -635,7 +729,7 @@ https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://www.radioamor.cl/assets/images/logors-475x128.png" group-title="RADIO_CHILE🇨🇱 📻", Amor FM 
 https://sonic-cl.arkeo.cl:8070/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Mitre 
-https://24273.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=18957f19-7c4e-460e-81cf-261c7a83f1ae
+https://serverssl.deradios.stream:7086/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/cultural.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Cultural TGW 
 https://stream.infinityhdstream.com:7054/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/radio-sonora.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Cadena Sonora
@@ -650,16 +744,18 @@ https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
 https://node-32.zeno.fm/eypgq8m08wquv?rj-ttl=5&rj-tok=AAABfUARHM4Akpk-cHiz5aAFGQ
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-gt/joya-guatemala.png" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Joya 
 https://d3baswd2guva7h.cloudfront.net/joya.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bfkegbmpkwmv.jpg" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Romántica 
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bfkegbmpkwmv.jpg" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Romántica 105.3 FM
 http://54.39.106.215:9314/;
 #EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821" group-title="RADIO_GUATEMALA🇬🇹 📻", Radio Panamericana 
-https://radiosfuentesred.site/listen/radio_panamericana/radio.mp3
+https://server2.sit-mexico.com:2199/proxy/fuentesgt?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://www.medios.gt/galeriausuarios/mediosg7sm/imagenesmessage/imagem100529224717960.jpg" group-title="RADIO_GUATEMALA🇬🇹 📻", Recuerdo Stereo 
 https://cloudstream2032.conectarhosting.com/8300/stream
 #EXTINF:-1 radio="true" tvg-logo="https://www.radioelmundo.com.sv/wp-content/uploads/2024/09/cropped-radio-el-mundo_azul-134x33.png" group-title="RADIO_EL SALVADOR🇸🇻 📻", Radio El Mundo  
 https://streaming.mundoclasicaupa.com:8001/radioelmundo
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Radio_Astral_Logo.png" group-title="RADIO_EL SALVADOR🇸🇻 📻", Radio Astral 
 https://streaming.rcs.com.sv/proxy/astral/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-sv/ysuca-san-salvador.png" group-title="RADIO_EL SALVADOR🇸🇻 📻", YSUCA
+https://fast.citrus3.com:8314/stream
 #EXTINF:-1 radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f522f60ef27b6593e8d03be1e4944dac.jpg" group-title="RADIO_EL SALVADOR🇸🇻 📻", Radio YSKL 
 https://media.dominiocreativo.com:8000/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="http://www.radiosonora.com.sv/img/logo.png" group-title="RADIO_EL SALVADOR🇸🇻 📻", Radio Sonora 
@@ -808,6 +904,14 @@ https://streaming.radio.co/s0c06b7076/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100AAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/rds.png" group-title="RADIO_HONDURAS🇭🇳 📻", 88.9 FM RDS Radio
 https://stream.playerlive.info:8058/rds.aac
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zrrEwSwysj.png" group-title="RADIO_HONDURAS🇭🇳 📻", Acción Radio 92.5 FM
+https://stream.zeno.fm/eruemtdzezzuv
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/789/picosa-radio.7a222bdf.png" group-title="RADIO_HONDURAS🇭🇳 📻", Picosa Radio 93.7 FM
+https://stream.radiosgrupovtv.com/radio_Picosa
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/788/joya-fm-953.618da125.png" group-title="RADIO_HONDURAS🇭🇳 📻", Joya FM 95.3 FM
+https://stream.radiosgrupovtv.com/radio_Joya
+#EXTINF:-1 radio="true" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radios-vtv.firebasestorage.app/o/coverImages%2Fstation-1752520082331.webp?" group-title="RADIO_HONDURAS🇭🇳 📻", Mía FM 96.1 FM
+https://stream.radiosgrupovtv.com/radio_Mia
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-hn/ambiental-san-pedro-sula.png" group-title="RADIO_HONDURAS🇭🇳 📻", Ambiental
 https://stream.zeno.fm/200an1um6f0uv
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/concierto.png" group-title="RADIO_CHILE🇨🇱 📻", Concierto 88.5 FM
