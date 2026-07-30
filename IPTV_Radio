@@ -673,16 +673,34 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_CHILE🇨🇱 📻", Radio María Chile
 https://dreamsiteradiocp4.com/proxy/rmchile2?mp=/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/positiva-concepcion.png" group-title="RADIO_CHILE🇨🇱 📻", Radio Positiva Chile
+https://redirector.dps.live/positiva/aac/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-imagina/play_250_250.webp" group-title="RADIO_CHILE🇨🇱 📻", Radio Imagina Chile
+https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://myradioonline.cl/public/uploads/radio_img/play-fm/play_250_250.webp" group-title="RADIO_CHILE🇨🇱 📻", Play FM
+https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://myradioonline.cl/public/uploads/radio_img/sonar-fm/play_250_250.webp" group-title="RADIO_CHILE🇨🇱 📻", Sonar FM
+https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/magallanes-punta-arenas.png" group-title="RADIO_CHILE🇨🇱 📻", Radio Magallanes
+https://archi-us.digitalproserver.com/magallanes.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/chocolate.png" group-title="RADIO_CHILE🇨🇱 📻", Chocolate FM
+https://video.mediawebchile.com:8170/stream
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="RADIO_ESPAÑA🇪🇸 📻", Melodía 60 
 http://streamtotal.net:8136/stream
 #EXTINF:-1 radio="true" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="RADIO_COLOMBIA🇨🇴 📻", NSE Radio
 https://evcast.mediacp.eu:2060/stream
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/olimpica.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Olímpica Stereo
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio./images/logos/radios-com-co/olimpica.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Olímpica Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTA_SC
 #EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Alerta Bogotá
 https://mdstrm.com/audio/632c9c1cbc02c60329991efa/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/besame-bogota.png" group-title="RADIO_COLOMBIA🇨🇴 📻", Bésame FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BOGOTA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/032/la-mega-bogota.36fe2c68.png" group-title="RADIO_COLOMBIA🇨🇴 📻",La Mega Colombia
+https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/936/rtvc-radio-nacional-de-colombia.ca96219d.jpg" group-title="RADIO_COLOMBIA🇨🇴 📻",Radio Nacional de Colombia
+http://shoutcast.rtvc.gov.co:8000/;
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/radionica.png" group-title="RADIO_COLOMBIA🇨🇴 📻",Radiónica
+https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/chunklist_w971012023.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="RADIO_REPUBLICA DOMINICANA🇩🇴 📻", La Voz de María Radio 
 https://cast3.asurahosting.com/proxy/luis12/stream?mp=/1;&1679264623993
@@ -829,8 +847,11 @@ https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gaydio/picture?width=200&height=200" group-title="RADIO_REINO UNIDO🇬🇧 📻",tvg-name="Gaydio UK",Gaydio UK
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/internetradiouk-com/capital.png" group-title="RADIO_REINO UNIDO🇬🇧 📻",tvg-name="Gaydio UK",Capital FM
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/internetradiouk-com/capital.png" group-title="RADIO_REINO UNIDO🇬🇧 📻",Capital FM
 https://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/131/kiss-me-radio.7e3f7791.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",Kiss Me Radio
+https://radio22.servidorderadio.net:8148/stream
+
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/_FQWNXDDU0g00Z1H5eceoyDbrV7BxFRgMQmALF5WUWA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjliOWYyYjQtMzBkYi00NjZjLWIxMWMtOWM2MjcxMjdkOWM2L2ltYWdlLz91PTE3NDQ5MjI3MjYwMDA.webp" group-title="RADIO_OTROS 📻", Isekai Anime Radio
 https://stream.zeno.fm/dfagfsqxmtmuv?an-uid=3833663895097170441&dot-uid=0c1e22040066418797faff50&triton-uid=cookie%3A3aaefb75-c9e4-4bd1-98aa-c59a4ea7cf20&amb-uid=8350686483960616408&dbm-uid=CAESENsTqZJTdJrPD2QH4hHYYdY&cto-uid=5aea7c1a-99dd-42ad-8081-d49b0d913402-66f21290-4e49&bsw-uid=c2abccce-c455-4a96-8b1d-0d048ebe6e5c&dyn-uid=6404335953256537576&ttd-uid=3600d7d0-32ff-499c-a7c3-9f3afb3ba01f&aw_0_req_lsid=6a858f3fff3c60d680082fec02b7f861
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", El Fonógrafo 690 
@@ -841,8 +862,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFM.mp3?dis
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC.mp3
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", La Ke Buena 
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_SC
+
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", FM 99.9 Mar del Plata
 https://fm999.info/test/index.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio La 100 Argentina
+https://24463.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_other_app_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=d467a499-dc81-4651-9cf1-aa03dc09c0d4
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/belgrano-am-570.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio Belgrano Argentina
+https://server.laradio.online:15223/live.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/popular-cordoba.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Radio La Popular
+https://playerservices.streamtheworld.com/api/livestream-redirect/LAPOPU_SC
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/radio-10.png" group-title="RADIO_ARGENTINA🇦🇷 📻", R10
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/cadena-tres.png" group-title="RADIO_ARGENTINA🇦🇷 📻", Cadena 3
