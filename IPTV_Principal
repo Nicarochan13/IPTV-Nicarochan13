@@ -2674,7 +2674,7 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="MUSICALES 🎼",Dance FM 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="MUSICALES 🎼",EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+https://backend.energeek.cl/webtv/egradioweb/video.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="MUSICALES 🎼",La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="MUSICALES 🎼",RCK TV 
@@ -2935,8 +2935,6 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="NOTICIAS 🌐",VPItv 
 https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="NOTICIAS 🌐",Antena 21 
-https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="RNN.do" tvg-logo="https://i.imgur.com/dkslhPa.png" group-title="NOTICIAS 🌐",RNN 
 https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NOTICIAS 🌐",Cablenoticias 
@@ -3226,13 +3224,13 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/m
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFan.cl" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Fan
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="ANIMACIÓN E INFANTILES 🎁",EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="ANIMACIÓN E INFANTILES 🎁",ADN TV+ 
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="ANIMACIÓN E INFANTILES 🎁",DreikoTv
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="AnimeVision.es" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Vision 
 https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1 tvg-id="AnimeVisionClassics.es" tvg-logo="https://i.imgur.com/aYptdKX.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Vision Classics 
