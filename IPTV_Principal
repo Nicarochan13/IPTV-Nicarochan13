@@ -340,6 +340,8 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 http://190.123.76.22:8002/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="Canal3.gt" tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="GUATEMALA 🇬🇹",Canal 3 
 http://190.61.101.11:7050/play/a06x/index.m3u8?hls
+#EXTINF:-1 tvg-id="Canal5Solola.gt" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA 🇬🇹",Canal 5 Sololá
+https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="GUATEMALA 🇬🇹",Canal 6 Panadish 
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/528
 #EXTINF:-1 tvg-id="Canal7.gt" tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="GUATEMALA 🇬🇹",Canal 7 
@@ -348,6 +350,8 @@ http://190.61.101.11:7050/play/a06w/index.m3u8?hls
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="GUATEMALA 🇬🇹",Canal 9 Barbe TV 
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-id="CanalTV6.gt" tvg-logo="https://pbs.twimg.com/media/Fk8HcGnWAAArkr1?format=png&name=small" group-title="GUATEMALA 🇬🇹",Canal TV 6
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Solola.gt" tvg-logo="https://i.postimg.cc/fW0Hsgsq/Diseno-sin-titulo(6).png" group-title="GUATEMALA 🇬🇹",Canal 10 Sololá
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/540
 #EXTINF:-1 tvg-id="Canal11.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Canal_11_Guatemala_2022.webp/500px-Canal_11_Guatemala_2022.webp.png" group-title="GUATEMALA 🇬🇹",Canal 11
@@ -388,6 +392,8 @@ https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="GUATEMALA 🇬🇹",Nim TV 
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA 🇬🇹",Nuevo Mundo TV
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="SASTV.gt" tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="GUATEMALA 🇬🇹",SAS TV 
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-id="SilTV.gt" tvg-logo="https://i.postimg.cc/CxLFq0rq/sil-tv-suchitepequez-en-vivo.png" group-title="GUATEMALA 🇬🇹",SilTV
@@ -396,6 +402,8 @@ https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
 #EXTINF:-1 tvg-id="Telecosta.gt" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="GUATEMALA 🇬🇹",Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="Telemaya.gt" tvg-logo="https://www.telemaya.com/images/logo.png" group-title="GUATEMALA 🇬🇹",Telemaya
+https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 #EXTINF:-1 tvg-id="TeveGloboXela.gt" tvg-logo="https://i.imgur.com/Cgy4TbN.png" group-title="GUATEMALA 🇬🇹",TeveGlobo Xela
 https://giatv.bozztv.com/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
 #EXTINF:-1 tvg-id="Totovision.gt" tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="GUATEMALA 🇬🇹",Totovisión 
@@ -414,7 +422,7 @@ https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="UnicaTV.gt" tvg-logo="https://i.imgur.com/VE5OrU7.png" group-title="GUATEMALA 🇬🇹",Única TV 
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
-#EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.ibb.co/YBgjytr2/Canal-Verapaz-TV-en-vivo.png" group-title="GUATEMALA 🇬🇹",Verapaz TV
+#EXTINF:-1 tvg-id="VerapazTV.gt" tvg-logo="https://i.ibb.co/YBgjytr2/Canal-Verapaz-TV-en-vivo.png" group-title="GUATEMALA 🇬🇹",Verapaz TV
 https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
 #EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="GUATEMALA 🇬🇹",Visión TV 
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -441,8 +449,6 @@ http://200.115.96.66:4000/play/a00r/index.m3u8
 https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="HONDURAS 🇭🇳",EDN TV 
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 tvg-id="GirasolTV.hn@SD" tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="HONDURAS 🇭🇳",Girasol TV 
-https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Globotv.hn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Globo_TV_2010.png" group-title="HONDURAS 🇭🇳",Globo TV
 https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="GoTV.hn@SD" tvg-logo="https://i.imgur.com/qPugeWX.png" group-title="HONDURAS 🇭🇳",Go TV
@@ -4089,6 +4095,8 @@ https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w653625610.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe@SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cultura-24-TV-Per%C3%BA-en-vivo-Online.png" group-title="CULTURA Y CIENCIA 📕",Cultura 24
 https://cloud.live.opencaster.com/playlist_src/index.m3u8
+#EXTINF:-1 tvg-id="UnivalleTV.bo@SD" tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1" group-title="CULTURA Y CIENCIA 📕",Univalle TV
+https://master.tucableip.com/univalletv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA Y CIENCIA 📕",Nature Time 
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="CULTURA Y CIENCIA 📕", Adventure Earth 
