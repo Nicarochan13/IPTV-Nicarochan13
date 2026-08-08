@@ -828,7 +828,7 @@ http://radio.domiplay.net:9190/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_OTROS 📻", Radio Anime Nexus
 http://radio.animenexus.mx:8000/animenexus
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_OTROS 📻", Tres Patines Radio
-https://stream.zeno.fm/xws8wt6wz08uv?an-uid=3833663895097170441&dot-uid=0c1e22040066418797faff50&triton-uid=cookie%3A3577774c-ee80-4afe-9a01-e38def2d1467&amb-uid=8350686483960616408&dbm-uid=CAESEKw4hEgZ-iuCor7RqA7Tgfw&cto-uid=5aea7c1a-99dd-42ad-8081-d49b0d913402-66f21290-4e49&bsw-uid=c2abccce-c455-4a96-8b1d-0d048ebe6e5c&dyn-uid=6404335953256537576&ttd-uid=3600d7d0-32ff-499c-a7c3-9f3afb3ba01f&aw_0_req_lsid=c4b31fe2f237b3517da1e443ceaf2790
+https://app0102.sonicpanelradio.com/8708/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="RADIO_ANDORRA🇦🇩 📻",tvg-name="RNA Andorra",RNA Andorra
 https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="RADIO_ANDORRA🇦🇩 📻",tvg-name="AM Andorra",AM Andorra
