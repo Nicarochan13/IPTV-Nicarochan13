@@ -2167,7 +2167,7 @@ http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="USA 🇺🇸",NBC New York (WNBC-DT1)
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="USA 🇺🇸",NBC Universo 
-https://streamvidex.qzz.io/videx/universo/index.m3u8
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="WLNYDT1.us@SD" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="USA 🇺🇸",New York 55 (WLNY-DT1)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="USA 🇺🇸", PBS KET2
@@ -3635,7 +3635,7 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ANIMACIÓN E INFANTILES 🎁",bitMe
 http://190.61.34.164:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel 
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
+http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="ANIMACIÓN E INFANTILES 🎁",Disney XD 
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="ANIMACIÓN E INFANTILES 🎁",Freeform 
