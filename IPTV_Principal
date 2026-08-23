@@ -230,7 +230,7 @@ http://190.61.101.11:7050/play/a07n/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="COSTA RICA 🇨🇷",Canal 14 San Carlos 
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal15.cr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Canal_15_UCR_Logo_%282021%29.png" group-title="COSTA RICA 🇨🇷",Canal 15 UCR
-http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/chunklist_w304668160_vo.m3u8
 #EXTINF:-1 tvg-id="CartagoMedios.cr" tvg-logo="https://i.imgur.com/Vcd40AL.png" group-title="COSTA RICA 🇨🇷",Cartago Medios
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-id="CedrosTV.cr" tvg-logo="https://i.ibb.co/FLjdHy3V/Cedros-TV-1.png" group-title="COSTA RICA 🇨🇷",Cedros TV
@@ -242,7 +242,7 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="CotoBrusTV.cr" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="COSTA RICA 🇨🇷",Coto Brus TV 
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-id="ExtraTV.cr" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="COSTA RICA 🇨🇷",Extra TV Canal 42 
-http://190.123.76.22:8002/play/a054/index.m3u8
+https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="COSTA RICA 🇨🇷",GAMTV.cr 
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="COSTA RICA 🇨🇷",Garabito TV 
@@ -566,7 +566,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="ARGENTINA 🇦🇷",Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="ARGENTINA 🇦🇷",Bravo TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EkNjMszVjTc/X1THnKTiRPI/AAAAAAAA5Sw/nm5mnSJUroIMJ8zM_ifKOqz2NpkhMnVKACK8BGAsYHg/s0/2020-09-06.png" group-title="ARGENTINA 🇦🇷", Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2deUshuaia.ar" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="ARGENTINA 🇦🇷",Canal 2 de Ushuaia 
@@ -749,7 +749,7 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="CHILE 🇨🇱",13 Realities 
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13Rec.cl@SD" tvg-logo="https://i.imgur.com/WtBbxEf.png" group-title="CHILE 🇨🇱",13Rec
-http://190.93.229.30:8000/play/a0j1/index.m3u8
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="CHILE 🇨🇱",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="CHILE 🇨🇱",ADN Radio 
@@ -3422,7 +3422,7 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="NOTICIAS 🌐",EL PAÍS TV 
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="NOTICIAS 🌐",24 Horas 
-http://45.181.120.65:9087/play/a09u
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="NOTICIAS 🌐",ADN Radio 
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" group-title="NOTICIAS 🌐",Meganoticias 
@@ -4814,7 +4814,7 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="PELICULAS 🎬",De Película
-http://181.119.93.83:8000/play/a1jw/index.m3u8
+http://45.167.2.101:8000/play/a0ru/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaUS.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/960px-DPel%C3%ADcula_2021.svg.png" group-title="PELICULAS 🎬",De Pelicula US 
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="PELICULAS 🎬",Filmex (Xumo) (Geoblock)
@@ -4822,7 +4822,7 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="PELICULAS 🎬",Filmex Clásico (Geoblock)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="PELICULAS 🎬",Golden Edge Panregional 
-http://190.61.34.164:8000/play/a022/index.m3u8
+http://45.167.2.101:8000/play/a0sc/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="PELICULAS 🎬",Golden Plus 
 http://190.61.34.164:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="PELICULAS 🎬",Golden Premier 
