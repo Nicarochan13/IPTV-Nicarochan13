@@ -364,10 +364,20 @@ https://edge.mixlr.com/channel/qfntw
 https://stream.zeno.fm/smm679phup8uv
 #EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/675/xeu-981-fm.170de65a.png" group-title="RADIO_MEXICO🇲🇽 📻", XEU 98.1 FM
 https://sg.centrocibernetico.com/xeu
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", Radio Fórmula
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Radio_F%C3%B3rmula_logo.svg/512px-Radio_F%C3%B3rmula_logo.svg.png" group-title="RADIO_MEXICO🇲🇽 📻", Radio Fórmula
 https://mdstrm.com/audio/61e1e0125e404b0836c1e402/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/226/monte-maria.bf28cbf5.jpg" group-title="RADIO_MEXICO🇲🇽 📻", Radio Monte María 
 https://streamingcwsradio30.com:7071/;
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/universal.png" group-title="RADIO_MEXICO🇲🇽 📻",Universal 88.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC_SC
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Los_40.svg/512px-Los_40.svg.png" group-title="RADIO_MEXICO🇲🇽 📻", Los40 México
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/La_Mejor_logo.svg/512px-La_Mejor_logo.svg.png" group-title="RADIO_MEXICO🇲🇽 📻", La Mejor FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/LAMEJORAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joya_93.7_logo.svg/512px-Joya_93.7_logo.svg.png" group-title="RADIO_MEXICO🇲🇽 📻", Joya 93.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYA937AAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/La_Bestia_Grupera_logo.svg/512px-La_Bestia_Grupera_logo.svg.png" group-title="RADIO_MEXICO🇲🇽 📻",La Bestia Grupera
+https://playerservices.streamtheworld.com/api/livestream-redirect/LABESTIAGRUFERAAAC.aac
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="RADIO_ITALIA🇮🇹 📻",tvg-name="Radio Italia",Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
@@ -450,6 +460,36 @@ https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/ecouterradioenligne-com/fun.png" group-title="RADIO_FRANCIA🇫🇷 📻",FUN Radio
 https://icecast.funradio.fr/fun-1-44-128
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/800px-RFI_logo_2013.svg.png" group-title="RADIO_FRANCIA🇫🇷 📻",RFI Monde
+https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/France_Culture_logo_2021.svg/220px-France_Culture_logo_2021.svg.png" group-title="RADIO_FRANCIA🇫🇷 📻",France Culture
+https://direct.franceculture.fr/live/franceculture-hifi.aac
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/France_Musique_logo_2021.svg/220px-France_Musique_logo_2021.svg.png" group-title="RADIO_FRANCIA🇫🇷 📻",France Musique
+https://direct.francemusique.fr/live/francemusique-hifi.aac
+#EXTINF:-1 radio="true" tvg-logo="https://tnunibot.onrender.com/?fbclid=IwAR0kQWZkuMM4mkG_5lNq-gIOHORZ5wOHBS_f7jACcEM48_F36pnGScjU0AY" group-title="RADIO_FRANCIA🇫🇷 📻",France Info
+https://icecast.radiofrance.fr/franceinfo-hifi.aac
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/France_Bleu_2021.svg/220px-France_Bleu_2021.svg.png" group-title="RADIO_FRANCIA🇫🇷 📻",France Bleu
+https://icecast.radiofrance.fr/fbprovence-midfi.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.net/images/broadcasts/0e/9d/3304/c300.png" group-title="RADIO_FRANCIA🇫🇷 📻",Le Mouv FM
+https://direct.mouv.fr/live/mouv-hifi.aac
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/1200px-FIP_logo_2021.svg.png" group-title="RADIO_FRANCIA🇫🇷 📻",FIP
+https://direct.fipradio.fr/live/fip-hifi.aac
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/WjXsTrcYrN.png" group-title="RADIO_FRANCIA🇫🇷 📻",Europe 1
+https://stream.europe1.fr/europe1.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.allzicradio.com/media/radios/europe-2.png" group-title="RADIO_FRANCIA🇫🇷 📻",Europe 2
+https://europe2.lmn.fm/europe2.aac
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/j9AJ5a4JNcmZZz5QJSxUPys0WflUXTlPOUH9X6N9Z26MxhsZWMA_GxiHoDuvQ0sVZLE" group-title="RADIO_FRANCIA🇫🇷 📻",RTL
+https://streaming-ice.audiomeans.fr/rtl/feed-rtl-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=rtl&aw_0_1st.program=rtl&listen=wEbAg4KDwgDCgkFBA4NBAQCCA
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png" group-title="RADIO_FRANCIA🇫🇷 📻",RTL 2
+https://streaming-ice.audiomeans.fr/rtl/feed-rtl2-mp3-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=rtl&aw_0_1st.program=rtl2&listen=webAg4KDwgDCgkFBA4NBAQCCA
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/2mm6K7n8RYd6jXcKoUKWGdpizumcbRHLpXDEde1c4qNe9FuhpDZ7CRnxonBA6kCt7a2e=w240-h480-rw" group-title="RADIO_FRANCIA🇫🇷 📻",RFM
+https://stream.rfm.fr/rfm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Logo_NRJ_2016.png" group-title="RADIO_FRANCIA🇫🇷 📻",NRJ
+http://lbs-th2-2.nrjaudio.fm/fr/30001/aac_64.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/RMC_2025.svg/1920px-RMC_2025.svg.png" group-title="RADIO_FRANCIA🇫🇷 📻",RMC
+https://audio.bfmtv.com/rmcradio_128.mp3
+
+
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rinsefm/picture?width=200&height=200" group-title="RADIO_REINO UNIDO🇬🇧 📻",tvg-name="Rinse FM UK",Rinse FM UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="RADIO_ITALIA🇮🇹 📻",tvg-name="Radio Montecarlo",Radio Montecarlo
@@ -701,6 +741,8 @@ https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/icecast.audio
 http://shoutcast.rtvc.gov.co:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/radionica.png" group-title="RADIO_COLOMBIA🇨🇴 📻",Radiónica
 https://streaming.rtvc.gov.co/Radio_Radionica/Radionica.stream/chunklist_w971012023.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/minuto-bogota.png" group-title="RADIO_COLOMBIA🇨🇴 📻",Minuto de Díos
+https://sp4.colombiatelecom.com.co:8002/stream
 
 #EXTINF:-1 radio="true" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="RADIO_REPUBLICA DOMINICANA🇩🇴 📻", La Voz de María Radio 
 https://cast3.asurahosting.com/proxy/luis12/stream?mp=/1;&1679264623993
@@ -858,9 +900,9 @@ https://stream.zeno.fm/dfagfsqxmtmuv?an-uid=3833663895097170441&dot-uid=0c1e2204
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC.mp3
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", Radio Disney (México)
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFM.mp3?dist=redirect_m
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", EXA 104.9 FM 
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Exa_FM_logo.svg/512px-Exa_FM_logo.svg.png" group-title="RADIO_MEXICO🇲🇽 📻", EXA 104.9 FM 
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC.mp3
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_MEXICO🇲🇽 📻", La Ke Buena 
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ke_Buena_logo.svg/512px-Ke_Buena_logo.svg.png" group-title="RADIO_MEXICO🇲🇽 📻", La Ke Buena 
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_SC
 
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ARGENTINA🇦🇷 📻", FM 99.9 Mar del Plata
@@ -929,12 +971,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_959AAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC_SC
 #EXTINF:-1 radio="true" tvg-logo="https://paxcc.org/wp-content/uploads/2024/03/Radio-Paz-830-AM-961-FM.png" group-title="RADIO_USA🇺🇸 📻",Radio Paz Miami
 https://streaming6.locucionar.com:24004/stream?ver=511948
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 1
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.net/300/rairadiouno.png?version=d70c9f4ae01df08c62b9726cf35556e0" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 2
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1032181212549398528/cMCNpgVF_400x400.jpg0" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16
-#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 3 Classica
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcg7YHyPejOR4YpOwGwJvxoOpZJCTJZVJd7g&s" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 3
+http://icestreaming.rai.it/3.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://au.radio.net/300/raiclassica.png?version=6a49c116445a7df8c72eec47733dc310" group-title="RADIO_ITALIA🇮🇹 📻", Rai Radio 3 Classica
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832&output=16
+#EXTINF:-1 radio="true" tvg-logo="https://www.fm-world.it/wp-content/uploads/2022/12/noname-300x300.jpg" group-title="RADIO_ITALIA🇮🇹 📻", Rai No Name Radio
+https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_ITALIA🇮🇹 📻", Radio Italia Sanremo
