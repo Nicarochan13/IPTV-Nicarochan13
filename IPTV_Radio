@@ -485,6 +485,23 @@ http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_
 #EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_scotland/blocks-colour_600x600.png" group-title="RADIO_REINO UNIDO🇬🇧 📻",BBC Radio Scotland
 http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d320000.norewind.m3u8
 
+
+#EXTINF:-1 radio="true" tvg-logo="https://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",Capital FM
+http://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8439/images/logog.jpg?t=643" group-title="RADIO_REINO UNIDO🇬🇧 📻",Classic FM
+https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/2QAZ1W_XbQ_FAaSuIjs9CTJh6SMQy1cn3MeiBh2LjHHURou6I6lTX7cjz_XNexBU_7Mb0L5aKg=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO_REINO UNIDO🇬🇧 📻",Heart FM
+https://ice-sov.musicradio.com/HeartLondonHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUoNL-kM2_uJMpkHkFLYW_aQgrU0fry64mAA&s" group-title="RADIO_REINO UNIDO🇬🇧 📻",Smooth FM
+https://ice-sov.musicradio.com/SmoothUKHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
+#EXTINF:-1 radio="true" tvg-logo="https://i1.sndcdn.com/avatars-000150249392-s07rb1-t1080x1080.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE Radio 1
+https://icecast.rte.ie/radio1
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJH5d0W6A2MNLhVnQmp-3PUOKqoR_LCWcyLQ&s" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE 2FM
+https://icecast.rte.ie/2fm
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUFBX1h92nkOPBXfxymO7cBNc9WO8W6c99WIC0-fGCCgKPMUsi2yyOrFqvP26whASoiI&usqp=CAU" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE Raidió na Gaeltachta
+https://icecast2.rte.ie/rnag
+
+
 #EXTINF:-1 radio="true" tvg-logo="httpsf://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="RADIO_FRANCIA🇫🇷 📻",tvg-name="Radio Francia Internacional",Radio Francia Internacional
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200" group-title="RADIO_FRANCIA🇫🇷 📻",tvg-name="Jazz Radio Francia",Jazz Radio Francia
