@@ -486,6 +486,7 @@ http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_
 http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d320000.norewind.m3u8
 
 
+
 #EXTINF:-1 radio="true" tvg-logo="https://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",Capital FM
 http://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8439/images/logog.jpg?t=643" group-title="RADIO_REINO UNIDO🇬🇧 📻",Classic FM
@@ -500,6 +501,24 @@ https://icecast.rte.ie/radio1
 https://icecast.rte.ie/2fm
 #EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUFBX1h92nkOPBXfxymO7cBNc9WO8W6c99WIC0-fGCCgKPMUsi2yyOrFqvP26whASoiI&usqp=CAU" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE Raidió na Gaeltachta
 https://icecast2.rte.ie/rnag
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s14137/images/logod.png?t=638367220310000000" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Radio UK
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s13888/images/logod.png?t=637735785970000000" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Radio 2
+https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s65658/images/logod.png?t=1" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Gurkha Network
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac
+#EXTINF:-1 radio="true" tvg-logo="http://gg.gg/19db8v" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Radio Asia
+https://edge-audio-04-gos1.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s200247/images/logog.png?t=1" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Beats
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.phonostar.de/images/auto_created/BFBS_Edge184x184.png" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Edge
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs22.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s200251/images/logog.png?t=1701126734000" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Best of British
+https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs24.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s200250/images/logog.png?t=1" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Samishran
+https://direct.sharp-stream.com/ssvcbfbs23.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvHTpOkek73CuTHeJz_IgR2OEOEPnEIy0I7qc9EE2wQ&s" group-title="RADIO_REINO UNIDO🇬🇧 📻",BFBS Rewind
+https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs21.mp3
 
 
 #EXTINF:-1 radio="true" tvg-logo="httpsf://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="RADIO_FRANCIA🇫🇷 📻",tvg-name="Radio Francia Internacional",Radio Francia Internacional
@@ -937,10 +956,25 @@ https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gaydio/picture?width=200&height=200" group-title="RADIO_REINO UNIDO🇬🇧 📻",tvg-name="Gaydio UK",Gaydio UK
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/internetradiouk-com/capital.png" group-title="RADIO_REINO UNIDO🇬🇧 📻",Capital FM
-https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/radios-150px/131/kiss-me-radio.7e3f7791.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",Kiss Me Radio
 https://radio22.servidorderadio.net:8148/stream
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Hits_Radio_2024.svg/1200px-Hits_Radio_2024.svg.png" group-title="RADIO_REINO UNIDO🇬🇧 📻",Hits Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lPSbdpOLl8kB5AAwpZ69yqMr2D1xDeY7GRN8zqUetUy-o=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO_REINO UNIDO🇬🇧 📻",Absolute Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mNaB0zybpJWqE4b8EOJe_0Vbh_H1Tdur_AZdyR3GLwN9Q=s900-c-k-c0x00ffffff-no-rj" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE Lyric FM
+https://icecast.rte.ie/lyric
+#EXTINF:-1 radio="true" tvg-logo="https://mytunein.com/images/logos/rte2xm.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE 2XM
+https://icecast2.rte.ie/2xm
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnA4HJAzHYUogGHXafC3UWJ5qBiUGM8cJMxIEYuaA1e8ZwSgcZCOB1cGIaMeGNRRgcF_M&usqp=CAU" group-title="RADIO_REINO UNIDO🇬🇧 📻",RTE Pulse
+https://icecast1.rte.ie/pulse
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg" group-title="RADIO_REINO UNIDO🇬🇧 📻",Today FM
+https://ingest1.gocaster.net/td
+#EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_REINO UNIDO🇬🇧 📻",Classic Hits FM
+https://edge2.audioxi.com/CLASSIC
+
+
+
 
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/_FQWNXDDU0g00Z1H5eceoyDbrV7BxFRgMQmALF5WUWA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjliOWYyYjQtMzBkYi00NjZjLWIxMWMtOWM2MjcxMjdkOWM2L2ltYWdlLz91PTE3NDQ5MjI3MjYwMDA.webp" group-title="RADIO_OTROS 📻", Isekai Anime Radio
 https://stream.zeno.fm/dfagfsqxmtmuv?an-uid=3833663895097170441&dot-uid=0c1e22040066418797faff50&triton-uid=cookie%3A3aaefb75-c9e4-4bd1-98aa-c59a4ea7cf20&amb-uid=8350686483960616408&dbm-uid=CAESENsTqZJTdJrPD2QH4hHYYdY&cto-uid=5aea7c1a-99dd-42ad-8081-d49b0d913402-66f21290-4e49&bsw-uid=c2abccce-c455-4a96-8b1d-0d048ebe6e5c&dyn-uid=6404335953256537576&ttd-uid=3600d7d0-32ff-499c-a7c3-9f3afb3ba01f&aw_0_req_lsid=6a858f3fff3c60d680082fec02b7f861
