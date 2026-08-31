@@ -712,8 +712,6 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe (Geoblock)
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe (Opción 2)
-http://190.7.19.197:232/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="ARGENTINA 🇦🇷",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -2966,6 +2964,8 @@ http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="JAPON 🇯🇵",Fuji TV
 http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="JAPON 🇯🇵",Fuji TV (Opción 2)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
 http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="MBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png" group-title="JAPON 🇯🇵", MBS
@@ -2978,18 +2978,28 @@ http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="NHKG.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPON 🇯🇵",NHK G
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="NHKG.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPON 🇯🇵",NHK G (Opción 2)
+https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="JAPON 🇯🇵",Nippon TV
 http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="JAPON 🇯🇵",Nippon TV (Opción 2)
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="JOUHDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPON 🇯🇵",TBS
 http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPON 🇯🇵",TBS (Opción 2)
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JAPON 🇯🇵",TOKYO MX 1
 http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="JAPON 🇯🇵",TV Asahi
 http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="JAPON 🇯🇵",TV Asahi (Opción 2)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="JAPON 🇯🇵",TV Tokyo
 http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="JAPON 🇯🇵",TV Tokyo (Opción 2)
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="MUSICALES 🎼",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
