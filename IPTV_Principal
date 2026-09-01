@@ -2862,7 +2862,7 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="COREA DEL SUR 🇰🇷",KCTV 광주 CH05 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://cdn.m3u.cl/logo/510_KCTV_Corea_del_Norte.png" group-title="COREA DEL SUR 🇰🇷",KCTV (Corea del Norte) 
-https://tv.nknews.org/tvhls/stream.m3u8
+https://stream.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="COREA DEL SUR 🇰🇷",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAWDTV.kr" tvg-logo="https://i.imgur.com/vYXAkgy.png" group-title="COREA DEL SUR 🇰🇷",MBC Andong (안동 MBC)
