@@ -2211,7 +2211,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/bHSIL9B_UGJoqzQV5aRgQBXTIqOaxhFc1CjjfLVundh5Jt8BC_VZU1yjukEemoZonaNz-tbDBQ=s900-c-k-c0x00ffffff-no-rj" group-title="USA 🇺🇸",TV Hispanic
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA 🇺🇸",UniMas
-http://108.181.20.255:27347/livehttpplay?channel_id=23094
+http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="USA 🇺🇸",Unimas Los Ángeles (KFTR-DT1) (Geoblock)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="USA 🇺🇸",Univision East
