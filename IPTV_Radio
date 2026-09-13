@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/RT-2-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Tropicalida 89.9 FM
-https://alba-ni-nicaradios-tropicalida.stream.mediatiquestream.com/index.m3u8
+https://d2zcryepncmk62.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/La-Marka-2-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La Marka 90.9 FM
-https://alba-ni-nicaradios-lamarka.stream.mediatiquestream.com/index.m3u8
+https://dp5si1zp9evp2.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/La-Buenisima-1-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La Buenisima 93.1 FM
-https://alba-ni-nicaradios-labuenisima.stream.mediatiquestream.com/index.m3u8
+https://d1ze3y6cqqzbwf.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/Alfa-2-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Alfa 93.5 FM
-https://alba-ni-nicaradios-alfa.stream.mediatiquestream.com/index.m3u8
+https://d3hygdyvvwovk6.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/La-Pachanguera-1-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La Pachanguera 95.1 FM
-https://alba-ni-nicaradios-pachanguera.stream.mediatiquestream.com/index.m3u8
+https://d1jwr9v6fxk772.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/Amante-2-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Amante 96.3 FM
-https://alba-ni-nicaradios-amante.stream.mediatiquestream.com/index.m3u8
+https://d1wgudmtzne87l.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/boton-nr-la-picosa-1-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio La Picosa 97.9 FM
-https://alba-ni-nicaradios-lapicosa.stream.mediatiquestream.com/index.m3u8
+https://d1prrpyzh4h69p.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/Romantica-1-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Romantica 98.7 FM
-https://alba-ni-nicaradios-romantica.stream.mediatiquestream.com/index.m3u8
+https://d6uy0ade69x5r.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/Nova-1-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio NOVA 100.7 FM
-https://alba-ni-nicaradios-nova.stream.mediatiquestream.com/index.m3u8
+https://d3e2stu5298jn1.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/Joya-2-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Joya 103.9 FM
-https://alba-ni-nicaradios-joya.stream.mediatiquestream.com/index.m3u8
+https://d11y9m5a4o1nys.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/Suprema-new-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Suprema 106.3 FM
-https://alba-ni-nicaradios-suprema.stream.mediatiquestream.com/index.m3u8
+https://d2wabrdjr73wsh.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://alba-ni-nicaradios.cdn.mediatiquepress.com/wp-content/uploads/2021/10/boton-nr-lite-1-300x300-1-300x300.webp" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Lite 107.1 FM
-https://alba-ni-nicaradios-lite.stream.mediatiquestream.com/index.m3u8
+https://d3v44ljxxod8xs.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/amgybJM7u7.png" group-title="RADIO_NICARAGUA🇳🇮 📻", La Nueva Radio Ya
 https://stream.zeno.fm/6nwu9a6uwz4tv?triton-uid=cookie%3A3aaefb75-c9e4-4bd1-98aa-c59a4ea7cf20
 #EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JVf3FrARwB.jpg" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Corporación
@@ -761,7 +761,7 @@ https://media.ohc.cu/habanaradio
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Columbia 
 https://s2.radio.co/s83b86382e/listen
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Monumental 
-https://d2b5h5wyivfnfl.cloudfront.net/live/f2800be3-604f-42a3-97d3-ade0decc9082/ts:abr.m3u8
+https://d26gdpbozqq700.cloudfront.net/medialist_14854753276708185244_hls.m3u8
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_COSTA RICA🇨🇷 📻", Radio Fides 
 https://centova.hostingtico.com:7010/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/teletica.png" group-title="RADIO_COSTA RICA🇨🇷 📻", Teletica Radio 
