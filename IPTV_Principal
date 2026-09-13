@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Canal2Nicaragua2026.svg" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
+#EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Televicentro_Nicaragua_2020_without_slogan.svg" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://190.123.76.22:8002/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
 http://45.185.163.75:8000/play/a0by/index.m3u8
@@ -27,7 +27,7 @@ http://168.228.44.241:9998/play/a031/index.m3u8
 http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.ibb.co/Lzv1LQs/LaRock22.jpg" group-title="NICARAGUA 🇳🇮",La Rock 22
 https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/kuKfvq5" group-title="NICARAGUA 🇳🇮",CDNN 23
+#EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Canal_23_cdnn_2019.svg" group-title="NICARAGUA 🇳🇮",CDNN 23
 http://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Cincuentayuno.png" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51
 http://45.185.163.75:8000/play/a0e4/index.m3u8
