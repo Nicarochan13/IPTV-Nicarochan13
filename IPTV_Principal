@@ -44,7 +44,7 @@ https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-id="VivaTV.ni" tvg-logo="https://i.imgur.com/n0buXRa.jpeg" group-title="NICARAGUA 🇳🇮",Viva TV Canal 30 San Juan del Río Coco 
 https://amixtv.com:8081/34com/index.m3u8?fbclid=IwY2xjawQImwpleHRuA2FlbQIxMABicmlkETFZY01hUU4zVVM2SHVMUXNCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvPuVTsXBV9S0fFix8EIjdrylKaM_vCOF3BrisEWYxnEtfheBA-G9gvnSR5o_aem_RSNROlAXFJzMpzTfCsoRDA
 #EXTINF:-1 tvg-id="WRTV.ni" tvg-logo="https://www.wrstvnicaragua.com/img/logo.png" group-title="NICARAGUA 🇳🇮",WRTV Río Blanco
-https://vivatv.juanjuiserver.com:3837/live/wrstvnicaragualive.m3u8
+https://vivatv.juanjuiserver.com:3102/live/wrstvlive.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="NICARAGUA 🇳🇮",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://scontent.fmga7-2.fna.fbcdn.net/v/t39.30808-6/475675446_1035538285267061_6387185289664888751_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1215&ctp=s2048x1215&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NnDVXqjRNIoQ7kNvwHET3Mu&_nc_oc=AdrDUPCpKDbiBsQgP9pgHhF-YBAwdeiTWCUrDyAr9RYHMEL3g8gdslAY273dPwOYkoQ&_nc_zt=23&_nc_ht=scontent.fmga7-2.fna&_nc_gid=oWvF26khutYMB08V_knWVg&_nc_ss=7b2a8&oh=00_AQIQtMBi-UwrUvV57K6-6rnRmppBPjxrfumbNQqFDb7tLQ&oe=6AAD0A8B" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
