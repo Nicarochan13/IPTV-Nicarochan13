@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/2PXDHzC" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
+#EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Canal2Nicaragua2026.svg" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://190.123.76.22:8002/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
 http://45.185.163.75:8000/play/a0by/index.m3u8
-#EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/XbomErh" group-title="NICARAGUA 🇳🇮",Canal 6
+#EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Canal_6_Nicaragua_2017.png" group-title="NICARAGUA 🇳🇮",Canal 6
 http://190.123.76.22:8002/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="Canal7Boaco.ni" tvg-logo="https://i.imgur.com/chXNX9k.jpeg" group-title="NICARAGUA 🇳🇮",Canal 7 Boaco
 https://cdn.amixtv.com/c7boaco/index.m3u8
@@ -17,9 +17,9 @@ https://d82p4jax9pjrm.cloudfront.net/ts:abr.m3u8
 http://190.123.76.22:8002/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5Sw6Rzw.png" group-title="NICARAGUA 🇳🇮",Canal 11
 http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/ZbjMk2s" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Nicavision1993-3.png" group-title="NICARAGUA 🇳🇮",Nicavisión Canal 12 
 http://190.123.76.22:8002/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/4dlIly3" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
+#EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Canal_13_viva_nicaragua_2017.svg" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
 https://cdn.vivamediosni.com/viva_720p/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="NICARAGUA 🇳🇮",Vos TV Canal 14
 http://168.228.44.241:9998/play/a031/index.m3u8
@@ -29,7 +29,7 @@ http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
 https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/kuKfvq5" group-title="NICARAGUA 🇳🇮",CDNN 23
 http://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/150px-Nicarao_TV_Logo.jpg" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51
+#EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Cincuentayuno.png" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51
 http://45.185.163.75:8000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="NICARAGUA 🇳🇮",MTV Chontales
 https://altair.hostingnica.net/hls/0/stream.m3u8
@@ -47,7 +47,7 @@ https://amixtv.com:8081/34com/index.m3u8?fbclid=IwY2xjawQImwpleHRuA2FlbQIxMABicm
 https://vivatv.juanjuiserver.com:3837/live/wrstvnicaragualive.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="NICARAGUA 🇳🇮",WTV Canal 20 
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://imgur.com/a/ZJCV6Gq" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
+#EXTINF:-1 tvg-id="YesTV.ni" tvg-name="NI" tvg-logo="https://scontent.fmga7-2.fna.fbcdn.net/v/t39.30808-6/475675446_1035538285267061_6387185289664888751_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1215&ctp=s2048x1215&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NnDVXqjRNIoQ7kNvwHET3Mu&_nc_oc=AdrDUPCpKDbiBsQgP9pgHhF-YBAwdeiTWCUrDyAr9RYHMEL3g8gdslAY273dPwOYkoQ&_nc_zt=23&_nc_ht=scontent.fmga7-2.fna&_nc_gid=oWvF26khutYMB08V_knWVg&_nc_ss=7b2a8&oh=00_AQIQtMBi-UwrUvV57K6-6rnRmppBPjxrfumbNQqFDb7tLQ&oe=6AAD0A8B" group-title="NICARAGUA 🇳🇮", Yes TV Canal 50
 https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="SURSAT 📡",Adult Swim
@@ -599,8 +599,8 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="ARGENTINA 🇦🇷",Canal 7 Santiago del Estero
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TV.ar" tvg-logo="" group-title="ARGENTINA 🇦🇷",Canal 8 Mar del Plata
-https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1789313131&wowzatokenstarttime=0&wowzatokenhash=iSHIQNe2bNUpXeVmnnDCdbgrUKb_wCy6ffFIYyrjYoE=
+#EXTINF:-1 tvg-id="Canal8TV.ar" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="ARGENTINA 🇦🇷",Canal 8 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="ARGENTINA 🇦🇷",Canal 9 Litoral 
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="ARGENTINA 🇦🇷",Canal 9 Resistencia 
@@ -657,7 +657,7 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="ARGENTINA 🇦🇷",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="CiudadTV.ar" tvg-logo="" group-title="ARGENTINA 🇦🇷",Ciudad TV Resistencia
+#EXTINF:-1 tvg-id="CiudadTV.ar" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="ARGENTINA 🇦🇷",Ciudad TV Resistencia
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="ARGENTINA 🇦🇷",CN3 Pinamar 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -722,7 +722,7 @@ http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe (Opción 2)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA 🇦🇷",Telefe Salta
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.EOSkuiU4HI2g.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvRU9Ta3VpVTRISTJnIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODkzMTM0ODV9.J8LtrMR4unmejcC2cXY0MPUJ_8YTwJb_kTNEPBax1d6q70u_02h6qK9CmBh5wbXhmX2t9pxRLeVSedl5w6Vliad9g_Esb-ulYtqnqYhw86_fa2p3iui6D1d5XjNLW-ho
+https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="ARGENTINA 🇦🇷",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="ARGENTINA 🇦🇷",TV Pública
