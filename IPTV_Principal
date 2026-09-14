@@ -599,8 +599,8 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="ARGENTINA 🇦🇷",Canal 7 Santiago del Estero
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TV.ar" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="ARGENTINA 🇦🇷",Canal 8 Mar del Plata
-https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="Canal8TV.ar" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="ARGENTINA 🇦🇷",Canal 8 Mar del Plata
+https://canal8mdq.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="ARGENTINA 🇦🇷",Canal 9 Litoral 
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="ARGENTINA 🇦🇷",Canal 9 Resistencia 
