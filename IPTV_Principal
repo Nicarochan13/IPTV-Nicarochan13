@@ -2962,8 +2962,12 @@ https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 
 #EXTINF:-1 tvg-id="ABC.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png" group-title="JAPON 🇯🇵", ABC
 https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="BS10.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Japan_BS10_logo.svg" group-title="JAPON 🇯🇵",BS 10
+http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png" group-title="JAPON 🇯🇵",BS 11
 https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs12.png" group-title="JAPON 🇯🇵",BS 12
+http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png" group-title="JAPON 🇯🇵",BS Asahi
 https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png" group-title="JAPON 🇯🇵",BS Fuji
@@ -2980,6 +2984,10 @@ https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="JAPON 🇯🇵",Fuji TV (Opción 2)
 https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="FujiTVOne.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/560.png" group-title="JAPON 🇯🇵",Fuji TV One
+http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="FujiTVTwo.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/561.png" group-title="JAPON 🇯🇵",Fuji TV Two
+http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls 
 #EXTINF:-1 group-title="JAPON 🇯🇵" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
 http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="MBS.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD2-041-400x400.png" group-title="JAPON 🇯🇵", MBS
@@ -3004,6 +3012,10 @@ http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="JAPON 🇯🇵",TBS (Opción 2)
 https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="TBSChannel1.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/470.png" group-title="JAPON 🇯🇵",TBS Channel 1
+http://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls 
+#EXTINF:-1 tvg-id="TBSChannel2.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/471.png" group-title="JAPON 🇯🇵",TBS Channel 2
+http://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="JAPON 🇯🇵",TOKYO MX 1
 https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="JAPON 🇯🇵",TOKYO MX 2
@@ -3012,6 +3024,10 @@ https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="JAPON 🇯🇵",TV Asahi (Opción 2)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-id="TVAsahich1.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/556.png" group-title="JAPON 🇯🇵",TV Asahi ch 1
+http://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls 
+#EXTINF:-1 tvg-id="TVAsahich2.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/557.png" group-title="JAPON 🇯🇵",TV Asahi ch 2
+http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" group-title="JAPON 🇯🇵",TV Tokyo
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" group-title="JAPON 🇯🇵",TV Tokyo (Opción 2)
@@ -3063,8 +3079,10 @@ http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSICALES 🎼",MTV (Japón)
 http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=gd03&channel=zhongying
-#EXTINF:-1 tvg-id="TakarazukaSkyStage.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png" group-title="MUSICALES 🎼",Takarazuka Sky Stage
-http://58.82.168.138:5002/cs28.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="TakarazukaSkyStage.jp" tvg-logo="" group-title="MUSICALES 🎼",Takarazuka Sky Stage
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28 
+#EXTINF:-1 tvg-id="MusicONTV.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/653.png" group-title="MUSICALES 🎼",Music ON!
+http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls 
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.ibb.co/Lzv1LQs/LaRock22.jpg" group-title="MUSICALES 🎼",La Rock 22
 https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaBox.ni" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="MUSICALES 🎼",MegaBox
@@ -4758,6 +4776,9 @@ http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="PELICULAS 🎬" tvg-id="StarBS10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
 http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 group-title="PELICULAS 🎬" tvg-id="TheCinema.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/252.png",The Cinema
+http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="PELICULAS 🎬",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="PELICULAS 🎬",ENT Family
@@ -6116,6 +6137,10 @@ http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="ENTRETENIMIENTO 🎙️",Toei Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+#EXTINF:-1 tvg-id="NecoChannel.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/261.png" group-title="ENTRETENIMIENTO 🎙️",Neco Channel
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="DLife.jp" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Dlife_2024.svg/1920px-Dlife_2024.svg.png?utm_source=ja.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="ENTRETENIMIENTO 🎙️",DLife
+http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="ENTRETENIMIENTO 🎙️", Mondo TV
 http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9b8b7b606e2c3f89ec981a084f3b8ad269418d4148422089d632024eaf6f08af.png" group-title="ENTRETENIMIENTO 🎙️",HI-YAH!
