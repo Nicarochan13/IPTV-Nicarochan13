@@ -320,6 +320,15 @@ http://vca.easy747.com:80/349823134727342/4010043920/1393395?Billybob.brings.you
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV Jenny Live
+http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158588
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV Models
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS 🔞", Miami TV DJ
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLEFDcv.png" group-title="ADULTOS 🔞", Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULTOS 🔞", RedTraffic Latina
