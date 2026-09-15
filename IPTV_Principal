@@ -6115,7 +6115,7 @@ http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png" group-title="ENTRETENIMIENTO 🎙️",Wowow Prime
 http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="ENTRETENIMIENTO 🎙️",Toei Channel
-http://58.82.168.138:5002/cs27.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
 #EXTINF:-1 tvg-id="MondoTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="ENTRETENIMIENTO 🎙️", Mondo TV
 http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9b8b7b606e2c3f89ec981a084f3b8ad269418d4148422089d632024eaf6f08af.png" group-title="ENTRETENIMIENTO 🎙️",HI-YAH!
