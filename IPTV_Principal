@@ -1168,7 +1168,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="COLOMBIA 🇨🇴",Cali TV 
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA 🇨🇴",Canal 1 (Geoblock)
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+http://190.60.39.220:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="COLOMBIA 🇨🇴",Canal 2 Alpavisión Neiva 
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="COLOMBIA 🇨🇴",Canal 8 TV+ 
@@ -1196,7 +1196,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA 🇨🇴",Caracol TV (Geobloqueo)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="COLOMBIA 🇨🇴",Caracol TV (Opción 2)
-http://190.102.120.20:8000/play/a024/index.m3u8?hls
+http://190.60.39.220:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="CNC.co" tvg-logo="http://canalcncmedellin.com/recursos/images/logo_cnc.png" group-title="COLOMBIA 🇨🇴",CNC (Santander)
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="COLOMBIA 🇨🇴",CTV (Barranquilla) 
@@ -1206,7 +1206,7 @@ https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 #EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="COLOMBIA 🇨🇴",NSTV 
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA 🇨🇴",RCN Televisión
-http://190.102.120.20:8000/play/a03g/index.m3u8?hls
+http://190.60.39.220:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COLOMBIA 🇨🇴",RCN+ 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="COLOMBIA 🇨🇴",Red+
@@ -3319,13 +3319,13 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="MUSICALES 🎼",MasMusica FM 
 https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-id="MemoriasdelCorazon.co@SD" tvg-logo="https://i.imgur.com/sVLDzzM.png" group-title="MUSICALES 🎼",Memorias del Corazon 
-https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+http://190.60.39.220:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="MemoriasFMPopLatino.co@SD" tvg-logo="https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png" group-title="MUSICALES 🎼",Memorias FM Pop Latino 
-https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+http://190.60.39.220:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVClassic.co@SD" tvg-logo="https://i.imgur.com/tLTQLnv.png" group-title="MUSICALES 🎼",Memorias TV Classic 
-https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+http://190.60.39.220:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVTropical.co@SD" tvg-logo="https://i.imgur.com/Y9GFDcV.png" group-title="MUSICALES 🎼",Memorias TV Tropical 
-https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+http://190.60.39.220:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="KpopMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="MUSICALES 🎼",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="MUSICALES 🎼",Mezzo 
@@ -3382,7 +3382,7 @@ http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NOTICIAS 🌐",GloboNews 
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="NOTICIAS 🌐",NTN24 
-http://181.78.8.199:8000/play/a0a6/index.m3u8
+http://190.60.39.220:8000/play/a07k/index.m3u8
 #EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="NOTICIAS 🌐",RTU 
 http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS 🌐",Telemundo Noticias Ahora
@@ -3681,7 +3681,7 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="ANIMACIÓN E INFANTILES 🎁",Retro Crush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Zone TV
-http://animezonetv.net/hls/stream.m3u8
+http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="ANIMACIÓN E INFANTILES 🎁",bitMe
 http://190.61.34.164:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel 
@@ -3720,7 +3720,7 @@ https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="ANIMACIÓN E INFANTILES 🎁",Taltal TV Animación 2
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="ANIMACIÓN E INFANTILES 🎁",Memorias TV Toons 
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+http://190.60.39.220:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="DelmiTV.hn" tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="ANIMACIÓN E INFANTILES 🎁",Delmi TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Station
@@ -3731,6 +3731,12 @@ http://181.78.121.15:8000/play/a00h/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="ANIMACIÓN E INFANTILES 🎁",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png" group-title="ANIMACIÓN E INFANTILES 🎁",AnimeXTV
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zWkbw8qX/Logo-Canal-Buzz.png" group-title="ANIMACIÓN E INFANTILES 🎁",Canal Buzz
+https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D0bqcJx/HG-q-YIva-EAAZs-OQ.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",3Cat Anime (Geoblock)
+https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png" group-title="ANIMACIÓN E INFANTILES 🎁",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="ANIMACIÓN E INFANTILES 🎁",Moonbug Kids
@@ -3741,7 +3747,6 @@ http://190.102.247.126:8000/play/a009/index.m3u8
 https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png" group-title="ANIMACIÓN E INFANTILES 🎁",AT-X
 https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="ANIMACIÓN E INFANTILES 🎁",Kids Station
 http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" group-title="ANIMACIÓN E INFANTILES 🎁",Disney Channel (Japón)
@@ -4741,7 +4746,7 @@ https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",NEW KMOVIES 
 https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="MemoriasTVFilm.co@SD" tvg-logo="https://i.imgur.com/vNfjW6Y.png" group-title="PELICULAS 🎬",Memorias TV Film 
-https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+http://190.60.39.220:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="PELICULAS 🎬",Cine.Ar 
 http://138.59.227.20:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="PELICULAS 🎬",Movies! 
@@ -5500,7 +5505,7 @@ https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="SERIES 📺",A3Series 
 http://45.95.78.232:8001/udp/239.106.85.4:5000
 #EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="SERIES 📺",Memorias TV Series 
-https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+http://190.60.39.220:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mega_Ficci%C3%B3n_logo.png" group-title="SERIES 📺",Mega Ficción
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES 📺",Universal Action
