@@ -3677,7 +3677,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="ANIMACIÓN E INFANTILES 🎁",RetroMágico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="ANIMACIÓN E INFANTILES 🎁",Retro Crush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime Zone TV
@@ -3714,7 +3714,7 @@ http://45.181.120.65:9087/play/a0q8
 #EXTINF:-1 tvg-id="SenpaiTV.cl" tvg-logo="https://senpaitv.com/wp-content/themes/tsunayoshi/assets/img/logosenpai2.png" group-title="ANIMACIÓN E INFANTILES 🎁",Senpai TV
 http://15.204.142.109:22880/SENPAI-MAIN/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="ANIMACIÓN E INFANTILES 🎁", Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+https://lbgo.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="ANIMACIÓN E INFANTILES 🎁",Taltal TV Animación
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="ANIMACIÓN E INFANTILES 🎁",Taltal TV Animación 2
