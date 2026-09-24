@@ -2276,12 +2276,9 @@ http://92.176.119.180:2095/play/a1g1
 #EXTINF:-1 tvg-id="Energy.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png" group-title="ESPAÑA 🇪🇸",Energy
 http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31879/index.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="ESPAÑA 🇪🇸",ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+https://cdn1.etbon.eus/etb1on/index.m3u8
 #EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="ESPAÑA 🇪🇸",ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETBSAT.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="ESPAÑA 🇪🇸" tvg-name="ETB Basque",ETB Basque
-#EXTVLCOPT:http-referrer=https://www.eitb.eus/es/television/eitb-basque/
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
+https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/AZBod7u.png" group-title="ESPAÑA 🇪🇸",Galicia TV Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="IberoamericaTV.es" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="ESPAÑA 🇪🇸",IberoAmerica TV
@@ -2358,8 +2355,18 @@ https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="tvG2.es" tvg-logo="https://i.imgur.com/tn7jxyU.png" group-title="ESPAÑA 🇪🇸",TVG 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="tvG.es" tvg-logo=""https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="ESPAÑA 🇪🇸",TVG Eventos 1
+http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="tvG.es" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="ESPAÑA 🇪🇸",TVG Eventos 2
+http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="tvG.es" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="ESPAÑA 🇪🇸",TVG Eventos 3
+http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="TVGMiraRadioGalega.es" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="ESPAÑA 🇪🇸",TVG Mira Radio Galega
+http://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="TVGMomento.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="ESPAÑA 🇪🇸",TVG Momento
-https://crtvg-40-anos-crtvg-schlive.flumotion.cloud/crtvglive/smil:channel9PRG.smil/playlist.m3u8
+https://crtvg-40-anos-crtvg-schlive.flumotion.cloud/crtvglive/smil:channel9PRG.smil/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="FRANCIA 🇫🇷",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -3729,6 +3736,16 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 http://181.78.121.15:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Animash
+http://38.7.195.44:8000/play/a0ce
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Comic Pop!
+http://38.7.195.44:8000/play/a0bs
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",Retrotoons
+https://lbgo.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png" group-title="ANIMACIÓN E INFANTILES 🎁",CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZVKdyNQ/logo-Anime-TV.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime TV (Brasil)
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="ANIMACIÓN E INFANTILES 🎁",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png" group-title="ANIMACIÓN E INFANTILES 🎁",AnimeXTV
@@ -3806,7 +3823,13 @@ https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="ANIMACIÓN E INFANTILES 🎁",Clan Internacional América
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="ANIMACIÓN E INFANTILES 🎁",TVG Xabarin
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2200000.m3u8
+#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.ibb.co/fpHgX5X/logo-Xabarin-TV-PEQUERRECH-S.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xabarin TV Pequerreochas
+http://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/chunklist_b2200000.m3u8
+#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.ibb.co/sWpDnK1/logo-Xabarin-TV-CATIV-S.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xabarin TV Cativoas
+http://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/chunklist_b2200000.m3u8
+#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.ibb.co/n6q3yHY/logo-Xabarin-TV-MOCI-S.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xabarin TV Mocinoas
+http://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-id="13Kids.cl" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="ANIMACIÓN E INFANTILES 🎁",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="ANIMACIÓN E INFANTILES 🎁",NTV
@@ -4468,6 +4491,8 @@ https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 https://stm.sinalmycn.com/19024/video.m3u8
 #EXTINF:-1 tvg-id="SporTV2Alternativo.br@SD" tvg-logo="https://i.imgur.com/aoMlRgP.png" group-title="DEPORTES ⚽️",SporTV 2 Alternativo 
 https://stm.sinalmycn.com/19025/video.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES ⚽️",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="DEPORTES ⚽️",Canal+ Sport
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="DEPORTES ⚽️",Eurosport 
@@ -5315,6 +5340,8 @@ https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="COMEDIA 🤣",El Chavo TV 
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="COMEDIA 🤣",El Chavo TV (Opción 2)
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 tvg-id="D" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Chespirito_Cut_1617893377394.png/revision/latest?cb=20210408145656&path-prefix=es" group-title="COMEDIA 🤣",Chespirito
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="COMEDIA 🤣",Comedy Central
