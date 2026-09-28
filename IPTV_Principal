@@ -3604,6 +3604,8 @@ https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
 https://jmp2.uk/rok-69e286e45a360c02a5966c668726172f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/97db4de8d8568332f9743c3999e67b3e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1783644927570_LogoHUDLatinus260x147.png" group-title="NOTICIAS 🌐",LatinUs
 https://jmp2.uk/rok-97db4de8d8568332f9743c3999e67b3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77b94bceefad7df653d27acc05ae420/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738699180944_hud_logo-2.png" group-title="NOTICIAS 🌐",TVOAI Channel
+https://jmp2.uk/rok-a77b94bceefad7df653d27acc05ae420.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="NOTICIAS 🌐",Yahoo! Finance 
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ViceNews.us@SD" tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="NOTICIAS 🌐",Vice News 
@@ -4929,9 +4931,9 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="PELICULAS 🎬",De Película
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="PELICULAS 🎬",Filmex (Xumo) (Geoblock)
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="PELICULAS 🎬",Filmex Clásico (Geoblock)
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+https://jmp2.uk/rok-50cd4d6c632d5172834eb5b77fa395c6.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="PELICULAS 🎬",Golden Edge Panregional 
 http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="PELICULAS 🎬",Golden Plus 
@@ -5386,6 +5388,36 @@ https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS 🎬",Pluto TV Netmovies
 https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+#EXTINF:-1 tvg-id="https://images.sr.roku.com/idType/roku-trc/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png" tvg-logo="" group-title="PELICULAS 🎬",Vix Cine Club
+https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774448513257_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="PELICULAS 🎬",FilmRise Horror
+https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3030ce6ed7c092f0b6780f05d10405f9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1790026277485_mi_miedo_canal_logo_hud.png" group-title="PELICULAS 🎬",Mi Miedo Canal
+https://jmp2.uk/rok-3030ce6ed7c092f0b6780f05d10405f9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/349e0f0840cf21b888bff327b41a2413/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734485619426_SHUD_FastChanel_Roku_Image_HUD2BillWatts_.png" group-title="PELICULAS 🎬",Scares by Shudder
+https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79eb3a43680e5a9f9689fee074502a3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549410243_cineRomantico_HUDlogo_centered_260x147.png" group-title="PELICULAS 🎬",Cine Romántico
+https://jmp2.uk/rok-79eb3a43680e5a9f9689fee074502a3b.m3u8
+#EXTINF:-1 tvg-id="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png" tvg-logo="" group-title="PELICULAS 🎬",FilmRise Western
+https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9fc6583c28985e15b3f05b46f5d77957/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282473878_FREETV_Accion_260x147.png" group-title="PELICULAS 🎬",FreeTV Action
+https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94414bbf0f694f521a8f5fea5ca4e1f6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787161751909_lionsgate_network_logo_hud.png" group-title="PELICULAS 🎬",Lionsgate Network
+https://jmp2.uk/rok-94414bbf0f694f521a8f5fea5ca4e1f6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/834e2a09799752b3be7ecaab726b7242/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657585042524_Kelcie_Schwab_-_Image_HUD_%2528v2%2529.png" group-title="PELICULAS 🎬",Maverick Black Cinema
+https://jmp2.uk/rok-834e2a09799752b3be7ecaab726b7242.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" group-title="PELICULAS 🎬",Movie Hub
+https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
+#EXTINF:-1 tvg-id="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png" tvg-logo="" group-title="PELICULAS 🎬",Movie Hub Action
+https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b015fcbafb496320954672321e746f8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347842585_LOGO_Todocine_Roku_HUD-verticalRoxannaTork.png" group-title="PELICULAS 🎬",Todo Cine
+https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/42f8b22cbf239c576a05fe9a2f2a8233/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778884311512_CindieTV_RokuHUDlogo_260x147.png" group-title="PELICULAS 🎬",Cindie TV
+https://jmp2.uk/rok-42f8b22cbf239c576a05fe9a2f2a8233.m3u8
+#EXTINF:-1 tvg-id="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001381678_RokuChannel_FilmRiseFreeMovies_HUD_Logo_260x147.png" tvg-logo="" group-title="PELICULAS 🎬",FilmRise Free Movies
+https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b4b59af18ff5686916ef5eb3574de46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158247861_RokuChannel_FilmRisePeliculasGratis_HUD_Logo_260x147.png" group-title="PELICULAS 🎬",FilmRise Películas Gratis
+https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8
 
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="COMEDIA 🤣",El Chavo TV 
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -7227,6 +7259,18 @@ https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INVESTIGACION 🔎",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158130627_RokuChannel_FilmRiseCrimenesVerdaderos_HUD_Logo_260x147.png" group-title="INVESTIGACION 🔎",Crímenes Verdaderos
+https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f2bbfc9566f9519aad982aea41b95f83/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673454073290_FilmRise_Misterios_SinResolver_HUDlogo_260x147.png" group-title="INVESTIGACION 🔎",Misterios sin Resolver
+https://jmp2.uk/rok-f2bbfc9566f9519aad982aea41b95f83.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/447d63b6da208bb796b69f0383c474a1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728505178821_dangertv_hud.png" group-title="INVESTIGACION 🔎",Danger TV
+https://jmp2.uk/rok-447d63b6da208bb796b69f0383c474a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/285f3ba210e8561fa5261af0871ace90/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563088420_HauntTVLogo_260x147_copy.png" group-title="INVESTIGACION 🔎",Haunt TV
+https://jmp2.uk/rok-285f3ba210e8561fa5261af0871ace90.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb8579bf16248ce630f42f129ed2e8d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761252500000_ACORNTV_MYSTERIES_hud_efefef_center_260x147_Bill_Watts.png" group-title="INVESTIGACION 🔎",Acorn TV Mysteries
+https://jmp2.uk/rok-fb8579bf16248ce630f42f129ed2e8d5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3a9171a7b9155ca89ba9f7f3e1a6bde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1692646351368_Ghosthunters_Roku_HUD_Center.png" group-title="INVESTIGACION 🔎",Ghost Hunters
+https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",Hell's Kitchen Italy 
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
@@ -7286,6 +7330,12 @@ https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="COCINA 🍳",bon appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/22d9d1cb36e855a2b40ba752313a50d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158215733_RokuChannel_FilmRiseFood_HUD_Logo_260x147.png" group-title="COCINA 🍳",FilmRise Food
+https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8c4f2efe56a512890042011e5cc0884/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453935313_FilmRise-Cooking_260x147_copy.png" group-title="COCINA 🍳",Hell´s Kitchen: Kitchen Nightmares
+https://jmp2.uk/rok-b8c4f2efe56a512890042011e5cc0884.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b41118f76d1a5abcb701b9cc0a035c5b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752502909488_Info_HUD_Logo_260x147_px.png" group-title="COCINA 🍳",So...Real
+https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8
 
 #EXTINF:-1 tvg-id="LuzDivinaTV.do@HD" tvg-logo="https://imgur.com/BHZw3PK.jpeg" group-title="RELIGIÓN ⛪",Luz Divina TV 
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
