@@ -3750,8 +3750,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 http://181.78.121.15:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Animash
-http://38.7.195.44:8000/play/a0ce
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMACIÓN E INFANTILES 🎁",Comic Pop!
 http://38.7.195.44:8000/play/a0bs
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",Retrotoons
@@ -3891,8 +3889,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 http://91.146.94.234:10001/play/a037
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/9gCxiDy.png" group-title="ANIMACIÓN E INFANTILES 🎁",Rai Yoyo
 http://91.146.94.234:10001/play/a039
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="ANIMACIÓN E INFANTILES 🎁",Anime TV 
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-logo="https://i.imgur.com/fVVKpmk.png" group-title="ANIMACIÓN E INFANTILES 🎁",TiVi5 Monde (Geoblock)
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 #EXTINF:-1 tvg-id="MondoKids.it" tvg-logo="https://i.imgur.com/g7GXmFY.png" group-title="ANIMACIÓN E INFANTILES 🎁",Mondo TV Kids
