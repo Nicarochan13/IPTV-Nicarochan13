@@ -30,7 +30,7 @@ https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Canal_23_cdnn_2019.svg" group-title="NICARAGUA 🇳🇮",CDNN 23
 http://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Cincuentayuno.png" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51
-http://45.185.163.75:8000/play/a0e4/index.m3u8
+https://cdn.vivamediosni.com/nicarao_720p/index.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="NICARAGUA 🇳🇮",MTV Chontales
 https://altair.hostingnica.net/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" group-title="NICARAGUA 🇳🇮",CVisión TV 
@@ -3028,6 +3028,10 @@ https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" group-title="JAPON 🇯🇵",TV Tokyo (Opción 2)
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 
+#EXTINF:-1 tvg-id="Telestereo.ni" tvg-.logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TeleStereo_Logo.jpg" group-title="MUSICALES 🎼",Telestereo
+https://cdn.vivamediosni.com/telestereo_720p/index.m3u8
+#EXTINF:-1 tvg-id="MegaBox.ni" tvg-.logo="https://i.imgur.com/JqaW7Ei.png" group-title="MUSICALES 🎼",MegaBox
+https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="MUSICALES 🎼",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="MUSICALES 🎼",MTV Live
@@ -3080,8 +3084,6 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
 http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls 
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.ibb.co/Lzv1LQs/LaRock22.jpg" group-title="MUSICALES 🎼",La Rock 22
 https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaBox.ni" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="MUSICALES 🎼",MegaBox
-https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="MUSICALES 🎼",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="VMLatino.cr" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="MUSICALES 🎼",VM Latino
@@ -4477,6 +4479,8 @@ https://jmp2.uk/rok-0b88dcd80f6a5e838c83a67e7cfa4b3a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b9a45d26315568a98a2b136972bde8d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666307358347_WildEarth_HUD_logo_260x147_Center_aligned.png" group-title="CULTURA Y CIENCIA 📕",WildEarth
 https://jmp2.uk/rok-7b9a45d26315568a98a2b136972bde8d.m3u8
 
+#EXTINF:-1 tvg-id="CampeonesTV.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Campeones_TV_Logo.png" group-title="DEPORTES ⚽️",Campeones TV
+https://cdn.vivamediosni.com/campeones_720p/index.m3u8
 #EXTINF:-1 tvg-id="Nicasports.ni" tvg-logo="https://i.imgur.com/jrBTh84.png" group-title="DEPORTES ⚽️",NicaSports
 https://video1.azulstream.com:8081/nicasports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="DEPORTES ⚽️",TyC Sports (Geoblock)
