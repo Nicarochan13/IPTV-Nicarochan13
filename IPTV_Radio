@@ -60,11 +60,11 @@ https://online.radionicaragua.com.ni/stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://radiomundoactual.com/assets/logo-JgKG6Yq1.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Mundo Actual
 https://stream4.rcast.net/73670
 #EXTINF:-1 radio="true" tvg-logo="http://www.larumbos.com/img/assets/logo.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Rumbos Rivas
-https://stream9.mexiserver.com/8358/;
+https://stream9.mexiserver.com:8156/stream
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Dinámica Jinotega
 https://cento02.mipanelradio.com/proxy/radiodi3?mp=/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/1pk1bxF4LKslZ7NnhkCigXjAwBZYDspJnKA-ke0Paq8blI16ocbTpY_aXOt35uiB_IA=w240-h480-rw" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Yes Matagalpa
-https://server.multimediamb.com/9984/stream
+https://stream.zeno.fm/dr0ew345em0uv
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-ni/centro-870-am.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Stereo Centro Juigalpa
 https://polaris.hostingnica.net/8002/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="" group-title="RADIO_NICARAGUA🇳🇮 📻", Stereo Romance Jinotepe
@@ -74,11 +74,11 @@ https://stream.zeno.fm/iwmolyow6tivv
 #EXTINF:-1 radio="true" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2024-10/viva_fm_nicaragua_0.png.webp?itok=U3cRhN9l" group-title="RADIO_NICARAGUA🇳🇮 📻", Viva FM
 https://stream.zeno.fm/78a5h5mfgg8uv
 #EXTINF:-1 radio="true" tvg-logo=https://cdn.webrad.io/images/logos/radios-co-ni/activa-101-1-fm.png"" group-title="RADIO_NICARAGUA🇳🇮 📻", RadioActiva
-https://radios.herradoramedia.com:7014/live
+https://server.multimediamb.com/8026/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-ni/clasica.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Clásica
 https://stream.zeno.fm/ilzuypllpo7vv
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FFma3MikrQoFXna6v2Yy70UMLSvf3IqfsDwrWxhlHn9g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2VkZThkNGE5LTU0OGUtNGU4OC05YzUxLTdhMzU4MDE3NmUwZC9pbWFnZS8_dXBkYXRlZD0xNjg4NTE0NTI0MDAw.webp&w=828&q=100" group-title="RADIO_NICARAGUA🇳🇮 📻", Siempre Joven Radio
-https://stream.zeno.fm/xws8wt6wz08uv?bsw-uid=ff3b3869-211d-4b4b-bc3b-b784bbdc1d91&acu-uid=1457221213183&an-uid=2067128769813868454&eps-uid=AQADRgbox6k58QJB4UVSAQEBAQEBAQCfA9JxFwEBAKFJkKzP&dot-uid=0d532204001933b2b0dbb375&triton-uid=cookie%3A35746e57-ebea-4d5a-9720-0331e7ab80ad&amb-uid=8368989826414626597&dbm-uid=CAESEJ6T68dKX_YqroQ40LH_-ps&dyn-uid=8622902671657330374&ttd-uid=d2167dac-bf8f-4abb-8c88-97f682deff0c&aw_0_req_lsid=11192fbb50cc04b8efae348c013ffdf2
+https://stream.zeno.fm/isizeju3lbrvv
 #EXTINF:-1 radio="true" tvg-logo="https://extraradio.com/assets/images/logo.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Extra Radio 89.5 FM
 https://streaming.extraradio.com/stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://radio5.online/images/logo-radio5.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio 5
@@ -86,7 +86,7 @@ https://usa12.fastcast4u.com/proxy/radio5?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FwFWHyO5gq34A3RLyMHUx96I1fa6BOkYFgm3JDUtQ8Ks%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBdl9Qcnl3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnOXRpRjNBZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE5ODkwOTUwMDA.webp&w=1920&q=100" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Hermanos Matagalpa
 https://stream-160.zeno.fm/vq7z0a3u7mruv?zs=cKh9EUgmQX-fmacc4qUmfg
 #EXTINF:-1 radio="true" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhVX6PshBmZp8TiRkwH_XKrczWMCwfdvifuy2kTjK5RLTFsd1wkjT_ee7T3FTzXZWja5B_8AKwcMpBmX6lf8qvGbIsSk0japn2DClb44UQtqMXi01DK5lGbnfBsMkWLKTAVvzJequ_NgYHrnBGlX__d6wCnvYFswnhZz_xysPmGiu5SIf1FlgZl2Xrt0g=s174" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Colonial León
-https://stream.zeno.fm/z5r26042schvv
+https://stream.zeno.fm/hts41042schvv
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-ni/lider-91-5-fm.png" group-title="RADIO_NICARAGUA🇳🇮 📻", Radio Lider 91.5 FM
 https://app.sonicpanelradio.com:8098/stream/1/
 #EXTINF:-1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radios-co-ni/w-96-1-fm.png" group-title="RADIO_NICARAGUA🇳🇮 📻", La W FM Nueva Guinea
