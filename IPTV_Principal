@@ -2,13 +2,15 @@
 #EXTINF:-1 tvg-id="Canal2.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Televicentro_Nicaragua_2020_without_slogan.svg" group-title="NICARAGUA 🇳🇮",Televicentro Canal 2
 http://190.123.76.22:8002/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="NICARAGUA 🇳🇮",Canal 4
-http://45.185.163.75:8000/play/a0by/index.m3u8
+http://181.119.177.253:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Canal_6_Nicaragua_2017.png" group-title="NICARAGUA 🇳🇮",Canal 6
 http://190.123.76.22:8002/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="Canal7Boaco.ni" tvg-logo="https://i.imgur.com/chXNX9k.jpeg" group-title="NICARAGUA 🇳🇮",Canal 7 Boaco
 https://cdn.amixtv.com/c7boaco/index.m3u8
 #EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://i.imgur.com/iSpZ2Ng.png" group-title="NICARAGUA 🇳🇮",Telenica Canal 8 
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
+#EXTINF:-1 tvg-id="TN8.ni" tvg-logo="https://i.imgur.com/iSpZ2Ng.png" group-title="NICARAGUA 🇳🇮",Telenica Canal 8 (Opción 2)
+http://181.119.177.253:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="Canal9.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="NICARAGUA 🇳🇮",Canal 9
 http://179.60.224.196:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="NICARAGUA 🇳🇮",Canal 10
@@ -21,14 +23,18 @@ http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
 http://190.123.76.22:8002/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Canal_13_viva_nicaragua_2017.svg" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 
 https://cdn.vivamediosni.com/viva_720p/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Canal_13_viva_nicaragua_2017.svg" group-title="NICARAGUA 🇳🇮", Viva Nicaragua Canal 13 (Opción 2)
+http://181.119.177.253:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.ni" tvg-logo="https://i.imgur.com/rJ3xUec.png" group-title="NICARAGUA 🇳🇮",Vos TV Canal 14
-http://168.228.44.241:9998/play/a031/index.m3u8
+http://181.119.177.253:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="Canal15.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://imgur.com/a/O579QTW" group-title="NICARAGUA 🇳🇮",Canal 15
 http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Canal_23_cdnn_2019.svg" group-title="NICARAGUA 🇳🇮",CDNN 23
 http://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Cincuentayuno.png" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51
 https://cdn.vivamediosni.com/nicarao_720p/index.m3u8
+#EXTINF:-1 tvg-id="NicaraoTV.ni" tvg-name="NI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Cincuentayuno.png" group-title="NICARAGUA 🇳🇮", Nicarao TV Canal 51 (Opción 2)
+http://181.119.177.253:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="NICARAGUA 🇳🇮",MTV Chontales
 https://altair.hostingnica.net/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" group-title="NICARAGUA 🇳🇮",CVisión TV 
@@ -508,9 +514,9 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="HONDURAS 🇭🇳",Television Olanchana
 https://viewhn.com/canal30/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn@SD" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="HONDURAS 🇭🇳",TEN Canal 10 
-http://200.115.96.66:4000/play/a0d9/index.m3u8
+http://45.182.22.53:8000/play/a0d9/index.m3u8
 #EXTINF:-1 tvg-id="TNH.hn" tvg-logo="https://tnh.gob.hn/wp-content/uploads/2026/02/cropped-logo-scaled-1.png" group-title="HONDURAS 🇭🇳",TNH
-http://200.115.96.66:4000/play/a0de/index.m3u8
+http://45.182.22.53:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="HONDURAS 🇭🇳",TSi 
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="HONDURAS 🇭🇳",TV Centro HD 
@@ -3701,6 +3707,8 @@ https://cache0.wonvt.st/live/1mf2ifp0pj7j7u0c383rl/master.m3u8
 https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
 #EXTINF:-1 tvg-id="1604" tvg-name="TLMasSantaAna.sv" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOOOOUcMqzOjFAex3-wpbj1hZq5a_SpN9E56wNcpdOWfnSP4_1cR0eHz_ysqY1fKRuVJ5TwpHfIqb_5AeELTvNr9I8q36oPM6rZtjVylrIl_NRAa0bKZv9svGKk4iBx9lJSgYWJoZzuhyhYpnqjmHwMk2VDk5E7XECN-78xo17S7lXAF6NCuaEhcfzzgGs/w610-h267/vlcsnap-2026-01-29-15h09m12s262-Photoroom.png", group-title="ANIMACIÓN E INFANTILES 🎁", TL+ Santa Ana
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://kift.live/media/avatars/97a2af40-281a-4571-b364-763e1de57c57/c30132cf-d1bb-4dc6-bc32-27a987420503.png" group-title="ANIMACIÓN E INFANTILES 🎁",NICA+
+https://cdn.kift.live/live/nica/index.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
