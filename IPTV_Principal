@@ -77,7 +77,7 @@ http://190.123.76.22:8002/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanolLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/250px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SURSAT 📡",CNN en Español 
 http://190.123.76.22:8002/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="SURSAT 📡",Comedy Central 
-http://138.197.18.137:8072/play/a0ez/index.m3u8
+http://200.59.191.177:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="DSports.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/DSports_logo_2022.png" group-title="SURSAT 📡",DSports
 http://38.252.208.34:40000/play/a0at
 #EXTINF:-1 tvg-id="DSports.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/DSports_logo_2022.png" group-title="SURSAT 📡",DSports 2
@@ -161,7 +161,7 @@ http://190.123.76.22:8002/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="SURSAT 📡",History 2 
 http://190.123.76.22:8002/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="HTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/960px-Htv_logo.svg.png" group-title="SURSAT 📡",HTV
-http://138.197.18.137:8072/play/a0gy/index.m3u8
+http://45.185.163.75:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="SURSAT 📡",Investigation Discovery
 http://190.123.76.22:8002/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="SURSAT 📡",Las Estrellas Latinoamérica
