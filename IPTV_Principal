@@ -892,8 +892,6 @@ https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playl
 https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
 #EXTINF:-1 tvg-id="TaltalTV.cl" tvg-logo="https://taltaltv.net/images/270/25148061/NUEVOLOGO2026-ZWc2xs-_pfcPFmlof05-1A.png" group-title="CHILE 🇨🇱",Taltal TV
 https://183.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal.cl" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="CHILE 🇨🇱",Telecanal
-https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="TemucoTelevision.cl@SD" tvg-logo="https://i.imgur.com/8cFdw8R.png" group-title="CHILE 🇨🇱",Temuco Television
 https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-id="TevexTV.cl" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="CHILE 🇨🇱",Tevex TV
@@ -2191,7 +2189,7 @@ https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="WGTV83.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="USA 🇺🇸",PBS West Georgia (WGTV-DT3)
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="USA 🇺🇸",PIX 11 
-http://84.17.50.102/cw/index.m3u8
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/1090/index.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr@SD" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="USA 🇺🇸",Punto 2 (WKAQ-DT2)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="USA 🇺🇸",TBS East (Geoblock)
@@ -2244,7 +2242,7 @@ https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="ESPAÑA 🇪🇸",Antena 3
 http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31825/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="ESPAÑA 🇪🇸",Atreseries
-https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31882/index.m3u8
 #EXTINF:-1 tvg-id="ATVAndorra.es" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="ESPAÑA 🇪🇸",ATV (Andorra)
 https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="ESPAÑA 🇪🇸",Bon Dia TV
@@ -2266,7 +2264,7 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="ESPAÑA 🇪🇸",Cuatro
 http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31827/index.m3u8
 #EXTINF:-1 tvg-id="Divinity.es@SD" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="ESPAÑA 🇪🇸",Divinity
-http://92.176.119.180:2095/play/a1g1
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/15246/index.m3u8
 #EXTINF:-1 tvg-id="Energy.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png" group-title="ESPAÑA 🇪🇸",Energy
 http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31879/index.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="ESPAÑA 🇪🇸",ETB 1
@@ -3794,7 +3792,7 @@ https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="ANIMACIÓN E INFANTILES 🎁",Nickelodeon España
 http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31846/index.m3u8
 #EXTINF:-1 tvg-id="MeTVToons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png" group-title="ANIMACIÓN E INFANTILES 🎁",MeTV Toons
-https://i1.ut770.freelocaltv.org/hls/toons-8.8_hls/toons-8.8_master.m3u8
+https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="ANIMACIÓN E INFANTILES 🎁",Pakapaka 
 http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA887/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="ANIMACIÓN E INFANTILES 🎁",Canela Kids
@@ -3915,7 +3913,7 @@ https://mitv.zplay.cl/AKids/video.m3u8?token=TJ_FHjXfH6yrr2
 #EXTINF:-1 tvg-id="BeanoTV.uk" tvg-logo="https://i.imgur.com/IKHFZDJ.png" group-title="ANIMACIÓN E INFANTILES 🎁",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="ANIMACIÓN E INFANTILES 🎁",Boing (España)
-http://185.189.225.150:85/boing/index.m3u8
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31839/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.us" tvg-logo="https://images.newsfilecorp.com/files/10827/237848_5c8003b764c198a8_002full.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-id="ZAZ.mx" tvg-logo="https://i.imgur.com/CMMEIq3_d.jpg" group-title="ANIMACIÓN E INFANTILES 🎁",ZAZ
@@ -4953,6 +4951,8 @@ http://91.146.94.234:10001/play/a02r
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="PELICULAS 🎬",TCM East (Geoblock)
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" group-title="PELICULAS 🎬",TCM España
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31883/index.m3u8
 #EXTINF:-1 tvg-id="SamuelGoldwynClassics.us" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="PELICULAS 🎬",Samuel Goldwyn Classics 
 https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SamuelGoldwynFilms.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Samuel_Goldwyn_Films_logo.svg" group-title="PELICULAS 🎬",Samuel Goldwyn Films
@@ -5419,7 +5419,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="COMEDIA 🤣",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="COMEDIA 🤣",Comedy Central (España)
-https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/31843/index.m3u8
 #EXTINF:-1 tvg-id="AlanBeckerTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="COMEDIA 🤣",Becker
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="COMEDIA 🤣",NBC Comedy Vault
@@ -6410,7 +6410,7 @@ http://astra.fibernetisp.com.co/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="IberoamericaTV.es@SD" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="ENTRETENIMIENTO 🎙️",IberoAmerica TV 
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="ENTRETENIMIENTO 🎙️",Nova
-http://176.65.146.237:8401/play/a0ah/index.m3u8
+http://a30c858f.ottolok.net/iptv/ULNG8ZG7M8KEV6/15250/index.m3u8
 #EXTINF:-1 tvg-id="9Gem.au@Sydney" tvg-logo="https://i.imgur.com/cwLzqaw.png" group-title="ENTRETENIMIENTO 🎙️",9Gem (Geoblock)
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="ENTRETENIMIENTO 🎙️",10 Bold Adelaide 
