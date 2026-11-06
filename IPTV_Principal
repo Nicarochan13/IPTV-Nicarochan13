@@ -37,6 +37,8 @@ https://cdn.vivamediosni.com/nicarao_720p/index.m3u8
 http://181.119.177.253:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="NICARAGUA 🇳🇮",MTV Chontales
 https://altair.hostingnica.net/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="PixelChannel.ni" tvg-logo="https://gia.tv/streams/logo/212021.jpg?1788401363" group-title="NICARAGUA 🇳🇮",Pixel Channel
+https://183.bozztv.com/giatv/giatv-pixelchanneltv/pixelchanneltv/playlist.m3u8
 #EXTINF:-1 tvg-id="CVisionTV.ar" tvg-logo="https://i.imgur.com/QyAHZkH.png" group-title="NICARAGUA 🇳🇮",CVisión TV 
 https://stream.cvision.live/cvision_stream.m3u8
 #EXTINF:-1 tvg-id="Telenorte.ni" tvg-logo="https://i.imgur.com/rvxjAO6.png" group-title="NICARAGUA 🇳🇮",Telenorte
@@ -307,7 +309,7 @@ https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="EL SALVADOR 🇸🇻",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="EL SALVADOR 🇸🇻",Canal 12
-http://45.167.2.101:8000/play/a0nw/index.m3u8
+http://181.119.177.253:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://i.imgur.com/LsrCVy3.jpg" group-title="EL SALVADOR 🇸🇻",Canal 15 Usulután 
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="EL SALVADOR 🇸🇻",Megavisión Canal 19 
@@ -2158,10 +2160,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-ta
 #EXTINF:-1 tvg-id="WSBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="USA 🇺🇸",Mega TV, Miami (WSBS-TV)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png" group-title="USA 🇺🇸",MeTV 
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb24b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjRiOjE3OTEwNDY4MzQ5NDQ6Y2RubGl2ZXR2LnR2OjUzMTVmZmQ0OGYzODA1ZWYuZmRkMGU3ZjQ4NTMwMzFlM2FiNjI2MWJiZTgzYWYzZmIwNGNjMjQ1MGY4MWVkOGYyYjFlNTAwNTMyZmU2ZTZkMA
-#EXTINF:-1 tvg-id="MeTVPlus.us@SD" tvg-logo="https://i.imgur.com/ubCl0S9.png" group-title="USA 🇺🇸",MeTV+ 
-http://206.212.244.63/111/index.m3u8
+https://cache0.wonvt.st/live/0lmxu4h1n7licd169kp82/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="USA 🇺🇸",NBC
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -3706,6 +3707,8 @@ https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kift.live/media/avatars/97a2af40-281a-4571-b364-763e1de57c57/c30132cf-d1bb-4dc6-bc32-27a987420503.png" group-title="ANIMACIÓN E INFANTILES 🎁",NICA+
 https://cdn.kift.live/live/nica/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/164/246/png-transparent-im-hd-logo.png" group-title="ANIMACIÓN E INFANTILES 🎁",Animotion
+http://181.78.21.171:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="ANIMACIÓN E INFANTILES 🎁",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
